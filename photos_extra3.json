@@ -1,0 +1,239 @@
+{
+  "cine-joia": {
+    "name": "Cine Joia",
+    "website": "https://www.cinejoia.com.br",
+    "images": [
+      {
+        "image": "imágenes/cine-joia-1.jpg",
+        "source": "https://www.dgabc.com.br/Noticia/4174088/30e-fecha-parceria-com-cine-joia",
+        "attribution": "Fotografía: Camila Cara, vía Diário do Grande ABC.",
+        "alt": "Show con el público llenando la sala del Cine Joia, con sus paredes en rombos y el palco superior"
+      },
+      {
+        "image": "imágenes/cine-joia-2.jpg",
+        "source": "https://www.baressp.com.br/casas-de-show/cine-joia",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Pista del Cine Joia con la barra central en forma de rombo iluminada de verde"
+      },
+      {
+        "image": "imágenes/cine-joia-3.jpg",
+        "source": "https://www.baressp.com.br/casas-de-show/cine-joia",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Escenario y escalera de acceso del Cine Joia, con proyecciones en las paredes de rombos"
+      }
+    ]
+  },
+  "fabrique": {
+    "name": "Fabrique",
+    "images": [
+      {
+        "image": "imágenes/fabrique-1.jpg",
+        "source": "https://baressp.com.br/fornecedores/espaco-para-eventos/fabrique",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Sala principal del Fabrique Club llena de público durante una fiesta, con globos luminosos y pantalla"
+      },
+      {
+        "image": "imágenes/fabrique-2.jpg",
+        "source": "https://baressp.com.br/fornecedores/espaco-para-eventos/fabrique",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Nave industrial de ladrillo del Fabrique Club con humo, luces azules y público frente al escenario"
+      },
+      {
+        "image": "imágenes/fabrique-3.jpg",
+        "source": "https://baressp.com.br/fornecedores/espaco-para-eventos/fabrique",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Público con los brazos en alto bajo luces de colores en el Fabrique Club"
+      }
+    ]
+  },
+  "eximia": {
+    "name": "Exímia",
+    "images": [
+      {
+        "image": "imágenes/eximia-1.jpg",
+        "source": "https://catracalivre.com.br/viagem-livre/bar-paulistano-e-eleito-um-dos-100-melhores-do-mundo/",
+        "attribution": "Fotografía: Reprodução/Instagram @eximiabar, vía Catraca Livre.",
+        "alt": "Barra de madera del Exímia con la estantería de botellas iluminada en rojo y taburetes en penumbra"
+      },
+      {
+        "image": "imágenes/eximia-2.jpg",
+        "source": "https://catracalivre.com.br/viagem-livre/bar-paulistano-e-eleito-um-dos-100-melhores-do-mundo/",
+        "attribution": "Fotografía: Reprodução/Instagram @eximiabar, vía Catraca Livre.",
+        "alt": "Clientes y bartender trabajando en la barra del Exímia, con ventanales y lámparas colgantes"
+      },
+      {
+        "image": "imágenes/eximia-3.jpg",
+        "source": "https://www.guiadasemana.com.br/bares-drinks/noticia/eximia-assume-as-quintas-do-rabo-di-galo-no-rosewood-sao-paulo-por-seis-semanas",
+        "attribution": "Fotografía: Tadeu Brunelli (vía Gina von Hertwig Comunicações), vía Guia da Semana / Time Out São Paulo.",
+        "alt": "Xolotl, coctel de autor del Exímia, servido en vaso con borde especiado (foto de la residencia del bar en el Rosewood São Paulo)"
+      }
+    ]
+  },
+  "a-juriti": {
+    "name": "A Juriti",
+    "images": [
+      {
+        "image": "imágenes/a-juriti-1.jpg",
+        "source": "https://ftrc.blog/a-juriti/",
+        "attribution": "Fotografía: Fotostrasse, vía FTRC.BLOG.",
+        "alt": "Interior de A Juriti con la larga barra de acero llena de petiscos y clientes de pie junto al mostrador"
+      },
+      {
+        "image": "imágenes/a-juriti-2.jpg",
+        "source": "https://ftrc.blog/a-juriti/",
+        "attribution": "Fotografía: Fotostrasse, vía FTRC.BLOG.",
+        "alt": "Linguiça asada en un plato de A Juriti, sobre un mantel de papel con el nombre del bar"
+      },
+      {
+        "image": "imágenes/a-juriti-3.jpg",
+        "source": "https://ftrc.blog/a-juriti/",
+        "attribution": "Fotografía: Fotostrasse, vía FTRC.BLOG.",
+        "alt": "Plato de calamares con perejil servido en la vajilla de A Juriti"
+      }
+    ]
+  },
+  "tenda-do-nilo": {
+    "name": "Tenda do Nilo",
+    "images": [
+      {
+        "image": "imágenes/tenda-do-nilo-1.jpg",
+        "source": "https://baressp.com.br/restaurantes/arabes/tenda-do-nilo",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Fachada amarilla de la Tenda do Nilo con su letrero y clientes comiendo junto a la ventana"
+      },
+      {
+        "image": "imágenes/tenda-do-nilo-2.jpg",
+        "source": "https://www.theinfatuation.com/sao-paulo/reviews/tenda-do-nilo",
+        "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+        "alt": "Fatte, plato de la casa de Tenda do Nilo con yogur, garbanzos, pan y ajo frito crujiente"
+      },
+      {
+        "image": "imágenes/tenda-do-nilo-3.jpg",
+        "source": "https://baressp.com.br/restaurantes/arabes/tenda-do-nilo",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Comedor pequeño de la Tenda do Nilo lleno de comensales, con cuadros y diplomas en la pared"
+      }
+    ]
+  },
+  "chimichurri-parrilla": {
+    "name": "Chimichurri Parrilla",
+    "images": [
+      {
+        "image": "imágenes/chimichurri-parrilla-1.jpg",
+        "source": "https://baressp.com.br/restaurantes/argentinos/chimichurri-parrilla",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Dos integrantes del equipo de Chimichurri Parrilla con remeras de la casa en la puerta del local"
+      },
+      {
+        "image": "imágenes/chimichurri-parrilla-2.jpg",
+        "source": "https://baressp.com.br/restaurantes/argentinos/chimichurri-parrilla",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Fuente de carne a la parrilla en tiras con verduras asadas de Chimichurri Parrilla"
+      },
+      {
+        "image": "imágenes/chimichurri-parrilla-3.jpg",
+        "source": "https://baressp.com.br/restaurantes/argentinos/chimichurri-parrilla",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Plato de bocados de carne con cebollín servido con una copa de vino tinto"
+      }
+    ]
+  },
+  "izakaya-issa": {
+    "name": "Izakaya Issa",
+    "images": [
+      {
+        "image": "imágenes/izakaya-issa-1.jpg",
+        "source": "https://www.theinfatuation.com/sao-paulo/reviews/izakaya-issa",
+        "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+        "alt": "Interior del Izakaya Issa con la barra de madera, estantes de bebidas y linternas de papel"
+      },
+      {
+        "image": "imágenes/izakaya-issa-2.jpg",
+        "source": "https://elle.com.br/lifestyle/10-izakayas-imperdiveis",
+        "attribution": "Fotografía: Carol M., vía ELLE Brasil.",
+        "alt": "Katsudon, tazón de arroz con cerdo empanado, huevo y cebollín del Izakaya Issa"
+      },
+      {
+        "image": "imágenes/izakaya-issa-3.jpg",
+        "source": "https://baressp.com.br/bares/izakaya-issa",
+        "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+        "alt": "Tsukemonos (encurtidos caseros) y vasitos de sake servidos en el Izakaya Issa"
+      }
+    ]
+  },
+  "cervejaria-central-2-a-sede": {
+    "name": "Cervejaria Central (2.ª sede)",
+    "website": "https://cervejariacentral.com",
+    "images": [
+      {
+        "image": "imágenes/cervejaria-central-2-a-sede-1.jpg",
+        "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-assistir-aos-jogos-da-copa-do-mundo-2026-em-sao-paulo/",
+        "attribution": "Fotografía: Divulgação (Cervejaria Central), vía CNN Brasil Viagem & Gastronomia.",
+        "alt": "Salón de la Cervejaria Central de Vila Buarque (la sede original, no la de Barra Funda) con público mirando un partido en la pantalla y la batería de grifos al fondo"
+      },
+      {
+        "image": "imágenes/cervejaria-central-2-a-sede-2.jpg",
+        "source": "https://www.portalpopcyber.com/copa-do-mundo-na-cervejaria-central-com-samba-cerveja-e-gastronomia/",
+        "attribution": "Fotografía: Divulgação (Cervejaria Central), vía Portal Pop Cyber.",
+        "alt": "Latas de la colección de cócteles de la Cervejaria Central, marca que comparte con sus dos sedes (Vila Buarque y Barra Funda)"
+      }
+    ]
+  },
+  "bar-alto": {
+    "name": "Bar Alto",
+    "images": [
+      {
+        "image": "imágenes/bar-alto-1.jpg",
+        "source": "https://futuraestudio.arq.br/index.php/project/bar-alto/",
+        "attribution": "Fotografía: Futura Estúdio (autores del proyecto; la página no acredita fotógrafo), vía futuraestudio.arq.br.",
+        "alt": "Entrada del Bar Alto al anochecer, con la gradería de hormigón que da a la calle Aspicuelta y el letrero ALTO"
+      },
+      {
+        "image": "imágenes/bar-alto-2.jpg",
+        "source": "https://futuraestudio.arq.br/index.php/project/bar-alto/",
+        "attribution": "Fotografía: Futura Estúdio (autores del proyecto; la página no acredita fotógrafo), vía futuraestudio.arq.br.",
+        "alt": "Barra y salón del Bar Alto bajo la estructura de techo a dos aguas, con estantes de botellas y taburetes"
+      },
+      {
+        "image": "imágenes/bar-alto-3.jpg",
+        "source": "https://futuraestudio.arq.br/index.php/project/bar-alto/",
+        "attribution": "Fotografía: Futura Estúdio (autores del proyecto; la página no acredita fotógrafo), vía futuraestudio.arq.br.",
+        "alt": "Terraza superior del Bar Alto con la barra verde de cerveza y vistas a los tejados de Vila Madalena"
+      }
+    ]
+  },
+  "fffront": {
+    "name": "FFFront",
+    "images": [
+      {
+        "image": "imágenes/fffront-1.jpg",
+        "source": "https://travel2concert.com/place/fffront-sao-paulo/",
+        "attribution": "Fotografía: © FFFront (marca de agua en la imagen), vía Travel2Concert.",
+        "alt": "Bar de la planta baja del FFFront, con mesas, sofás, afiches enmarcados y luz cálida"
+      },
+      {
+        "image": "imágenes/fffront-2.jpg",
+        "source": "https://travel2concert.com/place/fffront-sao-paulo/",
+        "attribution": "Fotografía: © FFFront (marca de agua en la imagen), vía Travel2Concert.",
+        "alt": "Sala de shows de la planta alta del FFFront, con el escenario bajo luces violetas y rojas"
+      },
+      {
+        "image": "imágenes/fffront-3.jpg",
+        "source": "https://travel2concert.com/place/fffront-sao-paulo/",
+        "attribution": "Fotografía: © FFFront (marca de agua en la imagen), vía Travel2Concert.",
+        "alt": "Escenario del FFFront con batería, amplificadores y guitarra listos para un show"
+      }
+    ]
+  },
+  "porta": {
+    "name": "Porta",
+    "images": [
+      {
+        "image": "imágenes/porta-1.jpg",
+        "source": "https://shotgun.live/pt-br/venues/p-o-r-t-a",
+        "attribution": "Fotografía: P O R T A (imagen de portada del perfil oficial del local; sin fotógrafo acreditado), vía Shotgun.",
+        "alt": "Banda tocando en la sala de Porta, vista desde arriba, con el público sentado y de pie alrededor de los músicos"
+      }
+    ]
+  }
+}

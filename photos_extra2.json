@@ -1,0 +1,260 @@
+{
+ "trilha-fermentaria": {
+  "name": "Trilha Fermentaria",
+  "website": "https://www.trilhacervejaria.com.br",
+  "images": [
+   {
+    "image": "imágenes/trilha-fermentaria-1.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-tomar-cerveja-artesanal-em-sao-paulo-bares-brewpubs-e-fabricas/",
+    "attribution": "Fotografía: Pedro Ferrarezzi, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Tres copos con cervezas de la Trilha (rubia turbia, frutal roja y oscura) con el logo del ángel de la cervecería; foto de la marca publicada por CNN Brasil, tomada en otra unidad (Itaim)."
+   },
+   {
+    "image": "imágenes/trilha-fermentaria-2.jpg",
+    "source": "https://baressp.com.br/bares/trilha-cervejaria-fermentaria",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Tabla de degustación con cuatro cervezas de la Trilha sobre un barril de madera, en la Fermentaria (Barra Funda)."
+   },
+   {
+    "image": "imágenes/trilha-fermentaria-3.jpg",
+    "source": "https://baressp.com.br/bares/trilha-cervejaria-fermentaria",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Pizza napolitana a la leña, una de las que se sirven en la Trilha Fermentaria."
+   }
+  ]
+ },
+ "elevado-conselheiro": {
+  "name": "Elevado Conselheiro",
+  "images": [
+   {
+    "image": "imágenes/elevado-conselheiro-1.jpg",
+    "source": "https://www.seudinheiro.com/2026/lifestyle/bares-de-audicao-4-enderecos-em-sao-paulo-onde-a-musica-em-alta-fidelidade-e-a-protagonista-edvl/",
+    "attribution": "Fotografía: Elevado Conselheiro (imagen del bar, sin crédito de fotógrafo), vía Seu Dinheiro.",
+    "alt": "Plato giratorio Technics con un disco de vinilo girando, el corazón del listening bar Elevado Conselheiro."
+   },
+   {
+    "image": "imágenes/elevado-conselheiro-2.jpg",
+    "source": "https://www.seudinheiro.com/2026/lifestyle/bares-de-audicao-4-enderecos-em-sao-paulo-onde-a-musica-em-alta-fidelidade-e-a-protagonista-edvl/",
+    "attribution": "Fotografía: Elevado Conselheiro (imagen del bar, sin crédito de fotógrafo), vía Seu Dinheiro.",
+    "alt": "Cabina de DJ del bar vista desde arriba: dos tocadiscos Technics y una mezcladora sobre una mesa de madera."
+   },
+   {
+    "image": "imágenes/elevado-conselheiro-3.jpg",
+    "source": "https://www.baressp.com.br/bares/elevado-conselheiro",
+    "attribution": "Fotografía: Felipe Gabriel, vía BaresSP.",
+    "alt": "Mesa redonda de mármol con vela, cubiertos y vaso, en el comedor del Elevado Conselheiro."
+   }
+  ]
+ },
+ "tank-brewpub": {
+  "name": "Tank Brewpub",
+  "images": [
+   {
+    "image": "imágenes/tank-brewpub-1.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-tomar-cerveja-artesanal-em-sao-paulo-bares-brewpubs-e-fabricas/",
+    "attribution": "Fotografía: Instagram/Tank Brewpub, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Jarra de cerveza dorada con el logo de Tank Brewpub, servida directo de la canilla."
+   },
+   {
+    "image": "imágenes/tank-brewpub-2.jpg",
+    "source": "https://baressp.com.br/bares/tank-brewpub",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Régua de degustación de cuatro cervezas del Tank Brewpub, con los tanques de fermentación al fondo."
+   },
+   {
+    "image": "imágenes/tank-brewpub-3.jpg",
+    "source": "https://baressp.com.br/bares/tank-brewpub",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Pollo frito (franfrito) y bebida sobre una mesa de madera en el Tank Brewpub."
+   }
+  ]
+ },
+ "madame-underground-club": {
+  "name": "Madame Underground Club",
+  "website": "https://www.madamesata.com.br",
+  "images": [
+   {
+    "image": "imágenes/madame-underground-club-1.jpg",
+    "source": "https://saopaulosecreto.com/en/madame-balada-mais-antiga-sao-paulo-bixiga-en/",
+    "attribution": "Fotografía: Madame (reproducción de su Facebook), vía São Paulo Secreto.",
+    "alt": "Letrero de neón rojo con el nombre Madame y televisores antiguos en una sala del club de la calle Conselheiro Ramalho."
+   },
+   {
+    "image": "imágenes/madame-underground-club-2.jpg",
+    "source": "https://saopaulosecreto.com/en/madame-balada-mais-antiga-sao-paulo-bixiga-en/",
+    "attribution": "Fotografía: Madame (reproducción de su Instagram), vía São Paulo Secreto.",
+    "alt": "Show de una banda en el escenario principal del Madame, con gárgolas decorativas y una araña de velas sobre el público."
+   },
+   {
+    "image": "imágenes/madame-underground-club-3.jpg",
+    "source": "https://saopaulosecreto.com/en/madame-balada-mais-antiga-sao-paulo-bixiga-en/",
+    "attribution": "Fotografía: Madame (reproducción de su Facebook), vía São Paulo Secreto.",
+    "alt": "Barra del Madame con decoración gótica, luces rojas y azules y un gato negro en primer plano."
+   }
+  ]
+ },
+ "corrutela": {
+  "name": "Corrutela",
+  "website": "https://corrutela.com.br",
+  "images": [
+   {
+    "image": "imágenes/corrutela-1.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/cinco-restaurantes-imperdiveis-em-sao-paulo-por-daniela-filomeno/",
+    "attribution": "Fotografía: Juliana Primon, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Salón del Corrutela con la cocina abierta al fondo, barra con taburetes y mesas de madera."
+   },
+   {
+    "image": "imágenes/corrutela-2.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/corrutela",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Mesa del Corrutela servida con varios platos de temporada frente a la cocina abierta y la barra."
+   },
+   {
+    "image": "imágenes/corrutela-3.jpg",
+    "source": "https://catracalivre.com.br/as-melhores-solucoes-sustentaveis/restaurante-verde-corrutela/",
+    "attribution": "Fotografía: Catraca Livre (sin crédito de fotógrafo), vía Catraca Livre.",
+    "alt": "Vista desde arriba del comedor del Corrutela, con mesas largas de madera y ductos a la vista."
+   }
+  ]
+ },
+ "sororoca-bar": {
+  "name": "Sororoca Bar",
+  "website": "https://www.sororoca.com.br",
+  "images": [
+   {
+    "image": "imágenes/sororoca-bar-1.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/sororoca-bar",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Mesa con platos de pescado y bebidas en el salón del Sororoca Bar, entre paredes de madera y plantas."
+   },
+   {
+    "image": "imágenes/sororoca-bar-2.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-comer-peixes-e-frutos-do-mar-5-restaurantes-no-bairro-de-pinheiros-em-sp/",
+    "attribution": "Fotografía: @kato78, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Filete de pescado a la parrilla con ensalada de porotos, plato típico del Sororoca Bar."
+   },
+   {
+    "image": "imágenes/sororoca-bar-3.jpg",
+    "source": "https://baressp.com.br/bares/sororoca-bar",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Tostada con mejillones y hierbas, una de las entradas del Sororoca Bar."
+   }
+  ]
+ },
+ "martin-fierro": {
+  "name": "Martín Fierro",
+  "website": "http://www.martinfierro.com.br",
+  "images": [
+   {
+    "image": "imágenes/martin-fierro-1.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/martin-fierro",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Fachada del Martín Fierro en la esquina de la calle Aspicuelta, con mesas en la vereda al atardecer."
+   },
+   {
+    "image": "imágenes/martin-fierro-2.jpg",
+    "source": "https://baressp.com.br/restaurantes/churrascarias/martin-fierro",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Corte de carne braseada con puré gratinado en salsa, plato del Martín Fierro."
+   },
+   {
+    "image": "imágenes/martin-fierro-3.jpg",
+    "source": "https://baressp.com.br/restaurantes/churrascarias/martin-fierro",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Carnes a la parrilla con papas fritas llevadas a la mesa en el Martín Fierro."
+   }
+  ]
+ },
+ "grindhouse-braserito": {
+  "name": "Grindhouse Braserito",
+  "images": [
+   {
+    "image": "imágenes/grindhouse-braserito-1.jpg",
+    "source": "https://travel.com.br/novidades/melhores-hamburgueres-mundo-sao-paulo-quanto-custa/",
+    "attribution": "Fotografía: Grindhouse Braserito, vía Travel.com.br.",
+    "alt": "Hamburguesa a las brasas con salsa oscura y cebollín sobre una piedra negra, del Grindhouse Braserito."
+   },
+   {
+    "image": "imágenes/grindhouse-braserito-2.jpg",
+    "source": "https://travel.com.br/novidades/melhores-hamburgueres-mundo-sao-paulo-quanto-custa/",
+    "attribution": "Fotografía: Grindhouse Braserito, vía Travel.com.br.",
+    "alt": "Parrillero con boina y pañuelo posando ante una tabla de carnes a las brasas en la cocina del Grindhouse Braserito."
+   },
+   {
+    "image": "imágenes/grindhouse-braserito-3.jpg",
+    "source": "https://www.baressp.com.br/restaurantes/churrascarias/grindhouse-braserito",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Tira de costilla a las brasas servida con pan y papa, plato del Grindhouse Braserito."
+   }
+  ]
+ },
+ "hocus-pocus": {
+  "name": "Hocus Pocus",
+  "website": "https://bebahocuspocus.com.br",
+  "images": [
+   {
+    "image": "imágenes/hocus-pocus-1.jpg",
+    "source": "https://www.baressp.com.br/bares/hocus-pocus",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Fachada oscura del bar Hocus Pocus con su letrero y gente reunida en la vereda."
+   },
+   {
+    "image": "imágenes/hocus-pocus-2.jpg",
+    "source": "https://saopaulosecreto.com/chopes-colarinho-perfeito-sao-paulo/",
+    "attribution": "Fotografía: Bárbara Girão, vía São Paulo Secreto.",
+    "alt": "Bandeja con cuatro vasos de cerveza con el logo y las ilustraciones de Hocus Pocus."
+   }
+  ]
+ },
+ "eap": {
+  "name": "EAP",
+  "website": "http://www.altodospinheiros.com.br",
+  "images": [
+   {
+    "image": "imágenes/eap-1.jpg",
+    "source": "https://baressp.com.br/bares/emporio-alto-dos-pinheiros",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Letrero del Empório Alto dos Pinheiros (EAP) en la entrada, con carteles de cervezas en la pared."
+   },
+   {
+    "image": "imágenes/eap-2.jpg",
+    "source": "https://baressp.com.br/bares/emporio-alto-dos-pinheiros",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Lata de cerveza ácida de la cervecería ZEV junto a un vaso con el logo de EAP."
+   },
+   {
+    "image": "imágenes/eap-3.jpg",
+    "source": "https://baressp.com.br/bares/emporio-alto-dos-pinheiros",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Barra del EAP con la fila de canillas de chopp y botellas al fondo."
+   }
+  ]
+ },
+ "trinca-bar-vermuteria": {
+  "name": "Trinca Bar & Vermuteria",
+  "images": [
+   {
+    "image": "imágenes/trinca-bar-vermuteria-1.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/novidades-nas-tacas-6-bares-famosos-de-sao-paulo-renovam-a-carta-de-drinques/",
+    "attribution": "Fotografía: Thales Hidequi, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Salón del Trinca Bar con barra revestida de azulejos verdes, taburetes de terciopelo y hojas secas de palma iluminadas en los nichos."
+   },
+   {
+    "image": "imágenes/trinca-bar-vermuteria-2.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/novidades-nas-tacas-6-bares-famosos-de-sao-paulo-renovam-a-carta-de-drinques/",
+    "attribution": "Fotografía: Thales Hidequi, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Cóctel Jambu e a Uva (sour de uva verde, limón y cachaça de jambu) sobre una mesa de madera frente a azulejos verdes."
+   },
+   {
+    "image": "imágenes/trinca-bar-vermuteria-3.jpg",
+    "source": "https://baressp.com.br/bares/trinca-bar-e-vermuteria-",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Barra curva del Trinca Bar & Vermuteria con estantería de botellas y el letrero luminoso del bar."
+   }
+  ]
+ },
+ "picles": {
+  "name": "Picles",
+  "images": []
+ }
+}

@@ -1,0 +1,267 @@
+{
+  "a-casa-do-porco": {
+    "name": "A Casa do Porco",
+    "website": "https://acasadoporco.com.br",
+    "images": [
+      {
+        "image": "imágenes/a-casa-do-porco-1.jpg",
+        "source": "https://www.theinfatuation.com/sao-paulo/reviews/a-casa-do-porco",
+        "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+        "alt": "Salón interior de A Casa do Porco con mesas llenas de comensales, plantas colgantes y estantes con botellas iluminados"
+      },
+      {
+        "image": "imágenes/a-casa-do-porco-2.jpg",
+        "source": "https://theworld.org/stories/2023/01/27/shifting-pork-paradigm-high-end-s-o-paulo-restaurant-features-pig-ears-and-tails",
+        "attribution": "Fotografía: Gisele Regatão, vía The World (PRI).",
+        "alt": "Ceviche de oreja de cerdo con camarón crudo y un cóctel pisco sour en la barra de A Casa do Porco"
+      },
+      {
+        "image": "imágenes/a-casa-do-porco-3.jpg",
+        "source": "https://theworld.org/stories/2023/01/27/shifting-pork-paradigm-high-end-s-o-paulo-restaurant-features-pig-ears-and-tails",
+        "attribution": "Fotografía: Gisele Regatão, vía The World (PRI).",
+        "alt": "Cocina abierta de A Casa do Porco con cocineros y pequeños bocados emplatados al frente"
+      }
+    ]
+  },
+  "cora": {
+    "name": "Cora",
+    "images": [
+      {
+        "image": "imágenes/cora-1.jpg",
+        "source": "https://www.theinfatuation.com/sao-paulo/reviews/cora",
+        "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+        "alt": "Comedor de Cora con mesas de piedra, sillas de rejilla, lámparas de fibra y platos servidos"
+      },
+      {
+        "image": "imágenes/cora-2.jpg",
+        "source": "https://www.theworlds50best.com/discovery/Establishments/Brazil/São-Paulo/Cora.html",
+        "attribution": "Fotografía: Pedro Ferrarezzi, vía The World's 50 Best Discovery.",
+        "alt": "Interior de Cora con mesas, sillas de rejilla y un nicho iluminado con cerámicas"
+      },
+      {
+        "image": "imágenes/cora-3.jpg",
+        "source": "https://www.theworlds50best.com/discovery/Establishments/Brazil/São-Paulo/Cora.html",
+        "attribution": "Fotografía: Erika Mayumi y Crudo, vía The World's 50 Best Discovery.",
+        "alt": "Plato de calamar guisado con crema y cilantro sobre una tortilla de maíz en Cora"
+      }
+    ]
+  },
+  "cuia": {
+    "name": "Cuia",
+    "images": [
+      {
+        "image": "imágenes/cuia-1.jpg",
+        "source": "https://blog.visitesaopaulo.com/cafeteria-e-livraria-em-sp-para-consumir-cultura-com-cafe/",
+        "attribution": "Fotografía: Cuia Café / Divulgação, vía Blog Visite São Paulo.",
+        "alt": "Entrada y salón de Cuia vistos a través del vidrio, con cocineros, estantes con libros y cestas"
+      },
+      {
+        "image": "imágenes/cuia-2.jpg",
+        "source": "https://catracalivre.com.br/gira/megafauna-livraria-copan-sp/",
+        "attribution": "Fotografía: Divulgação Livraria Megafauna, vía Catraca Livre.",
+        "alt": "Interior de la librería Megafauna, en el Copan, el espacio que comparte con Cuia"
+      }
+    ]
+  },
+  "hot-pork": {
+    "name": "Hot Pork",
+    "images": [
+      {
+        "image": "imágenes/hot-pork-1.jpg",
+        "source": "https://www.theinfatuation.com/sao-paulo/reviews/hot-pork",
+        "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+        "alt": "Mostrador curvo de Hot Pork con el número 454 y cerditos dibujados en el vidrio"
+      },
+      {
+        "image": "imágenes/hot-pork-2.jpg",
+        "source": "https://visitesaopaulo.com/hot-dog-em-sao-paulo-confira-onde-comer-essas-delicias/",
+        "attribution": "Fotografía: Hot Pork / Divulgação, vía Visite São Paulo.",
+        "alt": "Dos hot dogs de cerdo de Hot Pork sobre una bandeja roja, en cajas con el logo del local"
+      },
+      {
+        "image": "imágenes/hot-pork-3.jpg",
+        "source": "https://www.baressp.com.br/restaurantes/fast-food/hot-pork",
+        "attribution": "Fotografía: BaresSP (autor no indicado), vía BaresSP.",
+        "alt": "Entrada de Hot Pork con su letrero y un artista callejero disfrazado saludando"
+      }
+    ]
+  },
+  "coda-bar": {
+    "name": "Coda Bar",
+    "images": [
+      {
+        "image": "imágenes/coda-bar-1.jpg",
+        "source": "https://joinpearl.co/bars/sao-paulo/coda-bar",
+        "attribution": "Fotografía: autor no indicado, vía Pearl.",
+        "alt": "Barra de Coda Bar con estantes iluminados de botellas, copas y un gran arreglo de flores"
+      },
+      {
+        "image": "imágenes/coda-bar-2.jpg",
+        "source": "https://www.baressp.com.br/bares/coda",
+        "attribution": "Fotografía: autor no indicado, vía BaresSP.",
+        "alt": "Dry martini con aceitunas, de la carta de coctelería de Coda Bar"
+      },
+      {
+        "image": "imágenes/coda-bar-3.jpg",
+        "source": "https://www.baressp.com.br/bares/coda",
+        "attribution": "Fotografía: autor no indicado, vía BaresSP.",
+        "alt": "Tostadas con paté y mermelada, un bocado de Coda Bar"
+      }
+    ]
+  },
+  "bar-moela": {
+    "name": "Bar Moela",
+    "images": [
+      {
+        "image": "imágenes/bar-moela-1.jpg",
+        "source": "https://diariodoturismo.com.br/moela-bar-os-croquetes-e-bolinhos-mais-saborosos-de-sampa/",
+        "attribution": "Fotografía: autor no indicado, vía Diário do Turismo.",
+        "alt": "Bolinhos y croquetes fritos de Bar Moela en una bandeja metálica"
+      },
+      {
+        "image": "imágenes/bar-moela-2.jpg",
+        "source": "https://diariodoturismo.com.br/moela-bar-os-croquetes-e-bolinhos-mais-saborosos-de-sampa/",
+        "attribution": "Fotografía: autor no indicado, vía Diário do Turismo.",
+        "alt": "Letrero luminoso de Bar Moela sobre la entrada"
+      }
+    ]
+  },
+  "ping-yang-thai": {
+    "name": "Ping Yang Thai Bar & Food",
+    "images": [
+      {
+        "image": "imágenes/ping-yang-thai-1.jpg",
+        "source": "https://www.theworlds50best.com/discovery/Establishments/Brazil/São-Paulo/Ping-Yang-Thai-Bar-and-Food.html",
+        "attribution": "Fotografía: Keiny Andrade, vía The World's 50 Best Discovery.",
+        "alt": "Fachada y terraza de Ping Yang con mesas de madera y el número 767 junto a la entrada"
+      },
+      {
+        "image": "imágenes/ping-yang-thai-2.jpg",
+        "source": "https://www.theworlds50best.com/discovery/Establishments/Brazil/São-Paulo/Ping-Yang-Thai-Bar-and-Food.html",
+        "attribution": "Fotografía: Keiny Andrade, vía The World's 50 Best Discovery.",
+        "alt": "Dos bocados tailandeses sobre hojas de betel en un plato de cerámica oscura"
+      },
+      {
+        "image": "imágenes/ping-yang-thai-3.jpg",
+        "source": "https://www.baressp.com.br/restaurantes/tailandeses/ping-yang-thai",
+        "attribution": "Fotografía: autor no indicado, vía BaresSP.",
+        "alt": "Carne a la parrilla con yema de huevo sobre un plato de porcelana azul y blanca, de Ping Yang"
+      }
+    ]
+  },
+  "aconchegante-bar": {
+    "name": "Aconchegante Bar",
+    "images": [
+      {
+        "image": "imágenes/aconchegante-bar-1.jpg",
+        "source": "https://baressp.com.br/bares/aconchegante-bar",
+        "attribution": "Fotografía: Filipe Redondo, vía BaresSP.",
+        "alt": "Plato con cilantro y rodaja de naranja junto a posavasos con la marca de Aconchegante Bar"
+      },
+      {
+        "image": "imágenes/aconchegante-bar-2.jpg",
+        "source": "https://baressp.com.br/bares/aconchegante-bar",
+        "attribution": "Fotografía: Filipe Redondo, vía BaresSP.",
+        "alt": "Guiso de mariscos y calamar en una cazuela con cuchara de madera, de Aconchegante Bar"
+      },
+      {
+        "image": "imágenes/aconchegante-bar-3.jpg",
+        "source": "https://baressp.com.br/bares/aconchegante-bar",
+        "attribution": "Fotografía: Filipe Redondo, vía BaresSP.",
+        "alt": "Trago con aceituna y zanahoria encurtidas servido en vaso corto, de Aconchegante Bar"
+      }
+    ]
+  },
+  "tap-tap": {
+    "name": "Tap Tap",
+    "images": [
+      {
+        "image": "imágenes/tap-tap-1.jpg",
+        "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-os-cervejeiros-bebem-com-julia-fraga-da-ambar-em-sao-paulo/",
+        "attribution": "Fotografía: Instagram/Tap Tap Cervejas Artesanais (crédito de la nota), vía CNN Brasil Viagem & Gastronomia.",
+        "alt": "Vaso de cerveza artesanal con el logo de Tap Tap frente al letrero del bar"
+      },
+      {
+        "image": "imágenes/tap-tap-2.jpg",
+        "source": "https://www.baressp.com.br/bares/tap-tap",
+        "attribution": "Fotografía: autor no indicado, vía BaresSP.",
+        "alt": "Barra de Tap Tap a la calle, de noche, con tres clientes sentados frente a la pared de grifos"
+      },
+      {
+        "image": "imágenes/tap-tap-3.jpg",
+        "source": "https://www.baressp.com.br/bares/tap-tap",
+        "attribution": "Fotografía: autor no indicado, vía BaresSP.",
+        "alt": "Pared de grifos de cerveza artesanal de Tap Tap con el personal atendiendo"
+      }
+    ]
+  },
+  "frank-charles": {
+    "name": "Frank & Charles",
+    "images": [
+      {
+        "image": "imágenes/frank-charles-1.jpg",
+        "source": "https://www.essemundoenosso.com.br/frank-charles",
+        "attribution": "Fotografía: Esse Mundo é Nosso, vía Esse Mundo é Nosso.",
+        "alt": "Tres hamburguesas y un batido sobre una mesa de madera en Frank & Charles, con el salón estilo diner al fondo"
+      },
+      {
+        "image": "imágenes/frank-charles-2.jpg",
+        "source": "https://www.essemundoenosso.com.br/frank-charles",
+        "attribution": "Fotografía: Esse Mundo é Nosso, vía Esse Mundo é Nosso.",
+        "alt": "Papas fritas, refresco y batido en una mesa de Frank & Charles, con la cocina a la vista"
+      },
+      {
+        "image": "imágenes/frank-charles-3.jpg",
+        "source": "https://www.essemundoenosso.com.br/frank-charles",
+        "attribution": "Fotografía: Esse Mundo é Nosso, vía Esse Mundo é Nosso.",
+        "alt": "Cartel negro con el nombre Frank & Charles en letra caligráfica"
+      }
+    ]
+  },
+  "guarita-burger": {
+    "name": "Guarita Burger",
+    "images": [
+      {
+        "image": "imágenes/guarita-burger-1.jpg",
+        "source": "https://www.tasteandfly.com.br/donos-do-guarita-abrem-atraente-bar-com-hamburgueres-e-coqueteis-no-baixo-augusta/",
+        "attribution": "Fotografía: autor no indicado, vía Taste & Fly.",
+        "alt": "Entrada y salón estrecho de Guarita Burger, con el letrero del local y clientes en la barra"
+      },
+      {
+        "image": "imágenes/guarita-burger-2.jpg",
+        "source": "https://www.tasteandfly.com.br/donos-do-guarita-abrem-atraente-bar-com-hamburgueres-e-coqueteis-no-baixo-augusta/",
+        "attribution": "Fotografía: autor no indicado, vía Taste & Fly.",
+        "alt": "Smash burger de Guarita Burger con queso cheddar derretido cayendo sobre la carne"
+      },
+      {
+        "image": "imágenes/guarita-burger-3.jpg",
+        "source": "https://www.tasteandfly.com.br/donos-do-guarita-abrem-atraente-bar-com-hamburgueres-e-coqueteis-no-baixo-augusta/",
+        "attribution": "Fotografía: autor no indicado, vía Taste & Fly.",
+        "alt": "Bolovo de Guarita Burger partido al medio, con huevo cocido y carne molida"
+      }
+    ]
+  },
+  "formosa-hi-fi": {
+    "name": "Formosa Hi-Fi",
+    "images": [
+      {
+        "image": "imágenes/formosa-hi-fi-1.jpg",
+        "source": "https://rollingstone.com.br/?p=260194",
+        "attribution": "Fotografía: Dandara Bettino, vía Rolling Stone Brasil.",
+        "alt": "Salón de Formosa Hi-Fi con techo de luces en forma de discos de vinilo, mesas altas y sofás de cuero"
+      },
+      {
+        "image": "imágenes/formosa-hi-fi-2.jpg",
+        "source": "https://rollingstone.com.br/?p=260194",
+        "attribution": "Fotografía: Dandara Bettino, vía Rolling Stone Brasil.",
+        "alt": "Cabina con dos tornamesas y pared de madera iluminada con discos de vinilo en Formosa Hi-Fi"
+      },
+      {
+        "image": "imágenes/formosa-hi-fi-3.jpg",
+        "source": "https://rollingstone.com.br/?p=260194",
+        "attribution": "Fotografía: Dandara Bettino, vía Rolling Stone Brasil.",
+        "alt": "Acceso a Formosa Hi-Fi desde la galería subterránea bajo el Viaduto do Chá, con escalera y columna"
+      }
+    ]
+  }
+}

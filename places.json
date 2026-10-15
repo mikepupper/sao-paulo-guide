@@ -14,7 +14,26 @@
   "lat": -23.544864,
   "lng": -46.64477,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/a-casa-do-porco-1.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/a-casa-do-porco",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Salón interior de A Casa do Porco con mesas llenas de comensales, plantas colgantes y estantes con botellas iluminados"
+   },
+   {
+    "src": "imágenes/a-casa-do-porco-2.jpg",
+    "source": "https://theworld.org/stories/2023/01/27/shifting-pork-paradigm-high-end-s-o-paulo-restaurant-features-pig-ears-and-tails",
+    "attribution": "Fotografía: Gisele Regatão, vía The World (PRI).",
+    "alt": "Ceviche de oreja de cerdo con camarón crudo y un cóctel pisco sour en la barra de A Casa do Porco"
+   },
+   {
+    "src": "imágenes/a-casa-do-porco-3.jpg",
+    "source": "https://theworld.org/stories/2023/01/27/shifting-pork-paradigm-high-end-s-o-paulo-restaurant-features-pig-ears-and-tails",
+    "attribution": "Fotografía: Gisele Regatão, vía The World (PRI).",
+    "alt": "Cocina abierta de A Casa do Porco con cocineros y pequeños bocados emplatados al frente"
+   }
+  ],
   "slug": "a-casa-do-porco",
   "website": "https://acasadoporco.com.br"
  },
@@ -33,7 +52,26 @@
   "lat": -23.544889,
   "lng": -46.647994,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/cora-1.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/cora",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Comedor de Cora con mesas de piedra, sillas de rejilla, lámparas de fibra y platos servidos"
+   },
+   {
+    "src": "imágenes/cora-2.jpg",
+    "source": "https://www.theworlds50best.com/discovery/Establishments/Brazil/São-Paulo/Cora.html",
+    "attribution": "Fotografía: Pedro Ferrarezzi, vía The World's 50 Best Discovery.",
+    "alt": "Interior de Cora con mesas, sillas de rejilla y un nicho iluminado con cerámicas"
+   },
+   {
+    "src": "imágenes/cora-3.jpg",
+    "source": "https://www.theworlds50best.com/discovery/Establishments/Brazil/São-Paulo/Cora.html",
+    "attribution": "Fotografía: Erika Mayumi y Crudo, vía The World's 50 Best Discovery.",
+    "alt": "Plato de calamar guisado con crema y cilantro sobre una tortilla de maíz en Cora"
+   }
+  ],
   "slug": "cora"
  },
  {
@@ -51,7 +89,20 @@
   "lat": -23.546556,
   "lng": -46.644848,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/cuia-1.jpg",
+    "source": "https://blog.visitesaopaulo.com/cafeteria-e-livraria-em-sp-para-consumir-cultura-com-cafe/",
+    "attribution": "Fotografía: Cuia Café / Divulgação, vía Blog Visite São Paulo.",
+    "alt": "Entrada y salón de Cuia vistos a través del vidrio, con cocineros, estantes con libros y cestas"
+   },
+   {
+    "src": "imágenes/cuia-2.jpg",
+    "source": "https://catracalivre.com.br/gira/megafauna-livraria-copan-sp/",
+    "attribution": "Fotografía: Divulgação Livraria Megafauna, vía Catraca Livre.",
+    "alt": "Interior de la librería Megafauna, en el Copan, el espacio que comparte con Cuia"
+   }
+  ],
   "slug": "cuia",
   "website": "https://belcoelho.com.br"
  },
@@ -108,7 +159,26 @@
   "lat": -23.54595,
   "lng": -46.645663,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/hot-pork-1.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/hot-pork",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Mostrador curvo de Hot Pork con el número 454 y cerditos dibujados en el vidrio"
+   },
+   {
+    "src": "imágenes/hot-pork-2.jpg",
+    "source": "https://visitesaopaulo.com/hot-dog-em-sao-paulo-confira-onde-comer-essas-delicias/",
+    "attribution": "Fotografía: Hot Pork / Divulgação, vía Visite São Paulo.",
+    "alt": "Dos hot dogs de cerdo de Hot Pork sobre una bandeja roja, en cajas con el logo del local"
+   },
+   {
+    "src": "imágenes/hot-pork-3.jpg",
+    "source": "https://www.baressp.com.br/restaurantes/fast-food/hot-pork",
+    "attribution": "Fotografía: BaresSP (autor no indicado), vía BaresSP.",
+    "alt": "Entrada de Hot Pork con su letrero y un artista callejero disfrazado saludando"
+   }
+  ],
   "slug": "hot-pork"
  },
  {
@@ -190,7 +260,26 @@
   "lat": -23.537906,
   "lng": -46.653797,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/coda-bar-1.jpg",
+    "source": "https://joinpearl.co/bars/sao-paulo/coda-bar",
+    "attribution": "Fotografía: autor no indicado, vía Pearl.",
+    "alt": "Barra de Coda Bar con estantes iluminados de botellas, copas y un gran arreglo de flores"
+   },
+   {
+    "src": "imágenes/coda-bar-2.jpg",
+    "source": "https://www.baressp.com.br/bares/coda",
+    "attribution": "Fotografía: autor no indicado, vía BaresSP.",
+    "alt": "Dry martini con aceitunas, de la carta de coctelería de Coda Bar"
+   },
+   {
+    "src": "imágenes/coda-bar-3.jpg",
+    "source": "https://www.baressp.com.br/bares/coda",
+    "attribution": "Fotografía: autor no indicado, vía BaresSP.",
+    "alt": "Tostadas con paté y mermelada, un bocado de Coda Bar"
+   }
+  ],
   "slug": "coda-bar"
  },
  {
@@ -208,7 +297,20 @@
   "lat": -23.540216,
   "lng": -46.651847,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/bar-moela-1.jpg",
+    "source": "https://diariodoturismo.com.br/moela-bar-os-croquetes-e-bolinhos-mais-saborosos-de-sampa/",
+    "attribution": "Fotografía: autor no indicado, vía Diário do Turismo.",
+    "alt": "Bolinhos y croquetes fritos de Bar Moela en una bandeja metálica"
+   },
+   {
+    "src": "imágenes/bar-moela-2.jpg",
+    "source": "https://diariodoturismo.com.br/moela-bar-os-croquetes-e-bolinhos-mais-saborosos-de-sampa/",
+    "attribution": "Fotografía: autor no indicado, vía Diário do Turismo.",
+    "alt": "Letrero luminoso de Bar Moela sobre la entrada"
+   }
+  ],
   "slug": "bar-moela"
  },
  {
@@ -284,7 +386,26 @@
   "lat": -23.540478,
   "lng": -46.649573,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/aconchegante-bar-1.jpg",
+    "source": "https://baressp.com.br/bares/aconchegante-bar",
+    "attribution": "Fotografía: Filipe Redondo, vía BaresSP.",
+    "alt": "Plato con cilantro y rodaja de naranja junto a posavasos con la marca de Aconchegante Bar"
+   },
+   {
+    "src": "imágenes/aconchegante-bar-2.jpg",
+    "source": "https://baressp.com.br/bares/aconchegante-bar",
+    "attribution": "Fotografía: Filipe Redondo, vía BaresSP.",
+    "alt": "Guiso de mariscos y calamar en una cazuela con cuchara de madera, de Aconchegante Bar"
+   },
+   {
+    "src": "imágenes/aconchegante-bar-3.jpg",
+    "source": "https://baressp.com.br/bares/aconchegante-bar",
+    "attribution": "Fotografía: Filipe Redondo, vía BaresSP.",
+    "alt": "Trago con aceituna y zanahoria encurtidas servido en vaso corto, de Aconchegante Bar"
+   }
+  ],
   "slug": "aconchegante-bar"
  },
  {
@@ -328,7 +449,26 @@
   "lat": -23.546695,
   "lng": -46.638584,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/formosa-hi-fi-1.jpg",
+    "source": "https://rollingstone.com.br/?p=260194",
+    "attribution": "Fotografía: Dandara Bettino, vía Rolling Stone Brasil.",
+    "alt": "Salón de Formosa Hi-Fi con techo de luces en forma de discos de vinilo, mesas altas y sofás de cuero"
+   },
+   {
+    "src": "imágenes/formosa-hi-fi-2.jpg",
+    "source": "https://rollingstone.com.br/?p=260194",
+    "attribution": "Fotografía: Dandara Bettino, vía Rolling Stone Brasil.",
+    "alt": "Cabina con dos tornamesas y pared de madera iluminada con discos de vinilo en Formosa Hi-Fi"
+   },
+   {
+    "src": "imágenes/formosa-hi-fi-3.jpg",
+    "source": "https://rollingstone.com.br/?p=260194",
+    "attribution": "Fotografía: Dandara Bettino, vía Rolling Stone Brasil.",
+    "alt": "Acceso a Formosa Hi-Fi desde la galería subterránea bajo el Viaduto do Chá, con escalera y columna"
+   }
+  ],
   "slug": "formosa-hi-fi",
   "website": "https://formosahifi.com"
  },
@@ -887,7 +1027,26 @@
   "lat": -23.558838,
   "lng": -46.668222,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/ping-yang-thai-1.jpg",
+    "source": "https://www.theworlds50best.com/discovery/Establishments/Brazil/São-Paulo/Ping-Yang-Thai-Bar-and-Food.html",
+    "attribution": "Fotografía: Keiny Andrade, vía The World's 50 Best Discovery.",
+    "alt": "Fachada y terraza de Ping Yang con mesas de madera y el número 767 junto a la entrada"
+   },
+   {
+    "src": "imágenes/ping-yang-thai-2.jpg",
+    "source": "https://www.theworlds50best.com/discovery/Establishments/Brazil/São-Paulo/Ping-Yang-Thai-Bar-and-Food.html",
+    "attribution": "Fotografía: Keiny Andrade, vía The World's 50 Best Discovery.",
+    "alt": "Dos bocados tailandeses sobre hojas de betel en un plato de cerámica oscura"
+   },
+   {
+    "src": "imágenes/ping-yang-thai-3.jpg",
+    "source": "https://www.baressp.com.br/restaurantes/tailandeses/ping-yang-thai",
+    "attribution": "Fotografía: autor no indicado, vía BaresSP.",
+    "alt": "Carne a la parrilla con yema de huevo sobre un plato de porcelana azul y blanca, de Ping Yang"
+   }
+  ],
   "slug": "ping-yang-thai"
  },
  {
@@ -967,7 +1126,7 @@
   "website": "https://www.aizome.com.br/site/"
  },
  {
-  "name": "Guarita Burger",
+  "name": "Guarita Burger / Tickets Burger",
   "category": "hamburguesas",
   "tag": "tendencia",
   "unconfirmed": null,
@@ -981,7 +1140,26 @@
   "lat": -23.556594,
   "lng": -46.657745,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/guarita-burger-1.jpg",
+    "source": "https://www.tasteandfly.com.br/donos-do-guarita-abrem-atraente-bar-com-hamburgueres-e-coqueteis-no-baixo-augusta/",
+    "attribution": "Fotografía: autor no indicado, vía Taste & Fly.",
+    "alt": "Entrada y salón estrecho de Guarita Burger, con el letrero del local y clientes en la barra"
+   },
+   {
+    "src": "imágenes/guarita-burger-2.jpg",
+    "source": "https://www.tasteandfly.com.br/donos-do-guarita-abrem-atraente-bar-com-hamburgueres-e-coqueteis-no-baixo-augusta/",
+    "attribution": "Fotografía: autor no indicado, vía Taste & Fly.",
+    "alt": "Smash burger de Guarita Burger con queso cheddar derretido cayendo sobre la carne"
+   },
+   {
+    "src": "imágenes/guarita-burger-3.jpg",
+    "source": "https://www.tasteandfly.com.br/donos-do-guarita-abrem-atraente-bar-com-hamburgueres-e-coqueteis-no-baixo-augusta/",
+    "attribution": "Fotografía: autor no indicado, vía Taste & Fly.",
+    "alt": "Bolovo de Guarita Burger partido al medio, con huevo cocido y carne molida"
+   }
+  ],
   "slug": "guarita-burger"
  },
  {
@@ -999,7 +1177,26 @@
   "lat": -23.544327,
   "lng": -46.661704,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/frank-charles-1.jpg",
+    "source": "https://www.essemundoenosso.com.br/frank-charles",
+    "attribution": "Fotografía: Esse Mundo é Nosso, vía Esse Mundo é Nosso.",
+    "alt": "Tres hamburguesas y un batido sobre una mesa de madera en Frank & Charles, con el salón estilo diner al fondo"
+   },
+   {
+    "src": "imágenes/frank-charles-2.jpg",
+    "source": "https://www.essemundoenosso.com.br/frank-charles",
+    "attribution": "Fotografía: Esse Mundo é Nosso, vía Esse Mundo é Nosso.",
+    "alt": "Papas fritas, refresco y batido en una mesa de Frank & Charles, con la cocina a la vista"
+   },
+   {
+    "src": "imágenes/frank-charles-3.jpg",
+    "source": "https://www.essemundoenosso.com.br/frank-charles",
+    "attribution": "Fotografía: Esse Mundo é Nosso, vía Esse Mundo é Nosso.",
+    "alt": "Cartel negro con el nombre Frank & Charles en letra caligráfica"
+   }
+  ],
   "slug": "frank-charles"
  },
  {
@@ -1087,7 +1284,26 @@
   "lat": -23.547496,
   "lng": -46.645748,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/tap-tap-1.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-os-cervejeiros-bebem-com-julia-fraga-da-ambar-em-sao-paulo/",
+    "attribution": "Fotografía: Instagram/Tap Tap Cervejas Artesanais (crédito de la nota), vía CNN Brasil Viagem & Gastronomia.",
+    "alt": "Vaso de cerveza artesanal con el logo de Tap Tap frente al letrero del bar"
+   },
+   {
+    "src": "imágenes/tap-tap-2.jpg",
+    "source": "https://www.baressp.com.br/bares/tap-tap",
+    "attribution": "Fotografía: autor no indicado, vía BaresSP.",
+    "alt": "Barra de Tap Tap a la calle, de noche, con tres clientes sentados frente a la pared de grifos"
+   },
+   {
+    "src": "imágenes/tap-tap-3.jpg",
+    "source": "https://www.baressp.com.br/bares/tap-tap",
+    "attribution": "Fotografía: autor no indicado, vía BaresSP.",
+    "alt": "Pared de grifos de cerveza artesanal de Tap Tap con el personal atendiendo"
+   }
+  ],
   "slug": "tap-tap"
  },
  {
@@ -1105,7 +1321,26 @@
   "lat": -23.545,
   "lng": -46.659,
   "approx_location": true,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/trilha-fermentaria-1.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-tomar-cerveja-artesanal-em-sao-paulo-bares-brewpubs-e-fabricas/",
+    "attribution": "Fotografía: Pedro Ferrarezzi, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Tres copos con cervezas de la Trilha (rubia turbia, frutal roja y oscura) con el logo del ángel de la cervecería; foto de la marca publicada por CNN Brasil, tomada en otra unidad (Itaim)."
+   },
+   {
+    "src": "imágenes/trilha-fermentaria-2.jpg",
+    "source": "https://baressp.com.br/bares/trilha-cervejaria-fermentaria",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Tabla de degustación con cuatro cervezas de la Trilha sobre un barril de madera, en la Fermentaria (Barra Funda)."
+   },
+   {
+    "src": "imágenes/trilha-fermentaria-3.jpg",
+    "source": "https://baressp.com.br/bares/trilha-cervejaria-fermentaria",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Pizza napolitana a la leña, una de las que se sirven en la Trilha Fermentaria."
+   }
+  ],
   "slug": "trilha-fermentaria",
   "website": "https://www.trilhacervejaria.com.br"
  },
@@ -1124,7 +1359,26 @@
   "lat": -23.55894,
   "lng": -46.644285,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/elevado-conselheiro-1.jpg",
+    "source": "https://www.seudinheiro.com/2026/lifestyle/bares-de-audicao-4-enderecos-em-sao-paulo-onde-a-musica-em-alta-fidelidade-e-a-protagonista-edvl/",
+    "attribution": "Fotografía: Elevado Conselheiro (imagen del bar, sin crédito de fotógrafo), vía Seu Dinheiro.",
+    "alt": "Plato giratorio Technics con un disco de vinilo girando, el corazón del listening bar Elevado Conselheiro."
+   },
+   {
+    "src": "imágenes/elevado-conselheiro-2.jpg",
+    "source": "https://www.seudinheiro.com/2026/lifestyle/bares-de-audicao-4-enderecos-em-sao-paulo-onde-a-musica-em-alta-fidelidade-e-a-protagonista-edvl/",
+    "attribution": "Fotografía: Elevado Conselheiro (imagen del bar, sin crédito de fotógrafo), vía Seu Dinheiro.",
+    "alt": "Cabina de DJ del bar vista desde arriba: dos tocadiscos Technics y una mezcladora sobre una mesa de madera."
+   },
+   {
+    "src": "imágenes/elevado-conselheiro-3.jpg",
+    "source": "https://www.baressp.com.br/bares/elevado-conselheiro",
+    "attribution": "Fotografía: Felipe Gabriel, vía BaresSP.",
+    "alt": "Mesa redonda de mármol con vela, cubiertos y vaso, en el comedor del Elevado Conselheiro."
+   }
+  ],
   "slug": "elevado-conselheiro"
  },
  {
@@ -1142,7 +1396,26 @@
   "lat": -23.559586,
   "lng": -46.644073,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/madame-underground-club-1.jpg",
+    "source": "https://saopaulosecreto.com/en/madame-balada-mais-antiga-sao-paulo-bixiga-en/",
+    "attribution": "Fotografía: Madame (reproducción de su Facebook), vía São Paulo Secreto.",
+    "alt": "Letrero de neón rojo con el nombre Madame y televisores antiguos en una sala del club de la calle Conselheiro Ramalho."
+   },
+   {
+    "src": "imágenes/madame-underground-club-2.jpg",
+    "source": "https://saopaulosecreto.com/en/madame-balada-mais-antiga-sao-paulo-bixiga-en/",
+    "attribution": "Fotografía: Madame (reproducción de su Instagram), vía São Paulo Secreto.",
+    "alt": "Show de una banda en el escenario principal del Madame, con gárgolas decorativas y una araña de velas sobre el público."
+   },
+   {
+    "src": "imágenes/madame-underground-club-3.jpg",
+    "source": "https://saopaulosecreto.com/en/madame-balada-mais-antiga-sao-paulo-bixiga-en/",
+    "attribution": "Fotografía: Madame (reproducción de su Facebook), vía São Paulo Secreto.",
+    "alt": "Barra del Madame con decoración gótica, luces rojas y azules y un gato negro en primer plano."
+   }
+  ],
   "slug": "madame-underground-club",
   "website": "https://www.madamesata.com.br"
  },
@@ -1533,7 +1806,26 @@
   "lat": -23.555767,
   "lng": -46.685801,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/corrutela-1.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/cinco-restaurantes-imperdiveis-em-sao-paulo-por-daniela-filomeno/",
+    "attribution": "Fotografía: Juliana Primon, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Salón del Corrutela con la cocina abierta al fondo, barra con taburetes y mesas de madera."
+   },
+   {
+    "src": "imágenes/corrutela-2.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/corrutela",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Mesa del Corrutela servida con varios platos de temporada frente a la cocina abierta y la barra."
+   },
+   {
+    "src": "imágenes/corrutela-3.jpg",
+    "source": "https://catracalivre.com.br/as-melhores-solucoes-sustentaveis/restaurante-verde-corrutela/",
+    "attribution": "Fotografía: Catraca Livre (sin crédito de fotógrafo), vía Catraca Livre.",
+    "alt": "Vista desde arriba del comedor del Corrutela, con mesas largas de madera y ductos a la vista."
+   }
+  ],
   "slug": "corrutela",
   "website": "https://corrutela.com.br"
  },
@@ -1552,7 +1844,26 @@
   "lat": -23.561222,
   "lng": -46.690725,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/sororoca-bar-1.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/sororoca-bar",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Mesa con platos de pescado y bebidas en el salón del Sororoca Bar, entre paredes de madera y plantas."
+   },
+   {
+    "src": "imágenes/sororoca-bar-2.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-comer-peixes-e-frutos-do-mar-5-restaurantes-no-bairro-de-pinheiros-em-sp/",
+    "attribution": "Fotografía: @kato78, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Filete de pescado a la parrilla con ensalada de porotos, plato típico del Sororoca Bar."
+   },
+   {
+    "src": "imágenes/sororoca-bar-3.jpg",
+    "source": "https://baressp.com.br/bares/sororoca-bar",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Tostada con mejillones y hierbas, una de las entradas del Sororoca Bar."
+   }
+  ],
   "slug": "sororoca-bar",
   "website": "https://www.sororoca.com.br"
  },
@@ -1571,8 +1882,28 @@
   "lat": -23.558905,
   "lng": -46.691526,
   "approx_location": false,
-  "images": [],
-  "slug": "martin-fierro"
+  "images": [
+   {
+    "src": "imágenes/martin-fierro-1.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/martin-fierro",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Fachada del Martín Fierro en la esquina de la calle Aspicuelta, con mesas en la vereda al atardecer."
+   },
+   {
+    "src": "imágenes/martin-fierro-2.jpg",
+    "source": "https://baressp.com.br/restaurantes/churrascarias/martin-fierro",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Corte de carne braseada con puré gratinado en salsa, plato del Martín Fierro."
+   },
+   {
+    "src": "imágenes/martin-fierro-3.jpg",
+    "source": "https://baressp.com.br/restaurantes/churrascarias/martin-fierro",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Carnes a la parrilla con papas fritas llevadas a la mesa en el Martín Fierro."
+   }
+  ],
+  "slug": "martin-fierro",
+  "website": "http://www.martinfierro.com.br"
  },
  {
   "name": "Grindhouse Braserito",
@@ -1589,7 +1920,26 @@
   "lat": -23.56099,
   "lng": -46.67859,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/grindhouse-braserito-1.jpg",
+    "source": "https://travel.com.br/novidades/melhores-hamburgueres-mundo-sao-paulo-quanto-custa/",
+    "attribution": "Fotografía: Grindhouse Braserito, vía Travel.com.br.",
+    "alt": "Hamburguesa a las brasas con salsa oscura y cebollín sobre una piedra negra, del Grindhouse Braserito."
+   },
+   {
+    "src": "imágenes/grindhouse-braserito-2.jpg",
+    "source": "https://travel.com.br/novidades/melhores-hamburgueres-mundo-sao-paulo-quanto-custa/",
+    "attribution": "Fotografía: Grindhouse Braserito, vía Travel.com.br.",
+    "alt": "Parrillero con boina y pañuelo posando ante una tabla de carnes a las brasas en la cocina del Grindhouse Braserito."
+   },
+   {
+    "src": "imágenes/grindhouse-braserito-3.jpg",
+    "source": "https://www.baressp.com.br/restaurantes/churrascarias/grindhouse-braserito",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Tira de costilla a las brasas servida con pan y papa, plato del Grindhouse Braserito."
+   }
+  ],
   "slug": "grindhouse-braserito"
  },
  {
@@ -1721,8 +2071,22 @@
   "lat": -23.567112,
   "lng": -46.695636,
   "approx_location": false,
-  "images": [],
-  "slug": "hocus-pocus"
+  "images": [
+   {
+    "src": "imágenes/hocus-pocus-1.jpg",
+    "source": "https://www.baressp.com.br/bares/hocus-pocus",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Fachada oscura del bar Hocus Pocus con su letrero y gente reunida en la vereda."
+   },
+   {
+    "src": "imágenes/hocus-pocus-2.jpg",
+    "source": "https://saopaulosecreto.com/chopes-colarinho-perfeito-sao-paulo/",
+    "attribution": "Fotografía: Bárbara Girão, vía São Paulo Secreto.",
+    "alt": "Bandeja con cuatro vasos de cerveza con el logo y las ilustraciones de Hocus Pocus."
+   }
+  ],
+  "slug": "hocus-pocus",
+  "website": "https://bebahocuspocus.com.br"
  },
  {
   "name": "Tank Brewpub",
@@ -1739,7 +2103,26 @@
   "lat": -23.565779,
   "lng": -46.699113,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/tank-brewpub-1.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-tomar-cerveja-artesanal-em-sao-paulo-bares-brewpubs-e-fabricas/",
+    "attribution": "Fotografía: Instagram/Tank Brewpub, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Jarra de cerveza dorada con el logo de Tank Brewpub, servida directo de la canilla."
+   },
+   {
+    "src": "imágenes/tank-brewpub-2.jpg",
+    "source": "https://baressp.com.br/bares/tank-brewpub",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Régua de degustación de cuatro cervezas del Tank Brewpub, con los tanques de fermentación al fondo."
+   },
+   {
+    "src": "imágenes/tank-brewpub-3.jpg",
+    "source": "https://baressp.com.br/bares/tank-brewpub",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Pollo frito (franfrito) y bebida sobre una mesa de madera en el Tank Brewpub."
+   }
+  ],
   "slug": "tank-brewpub"
  },
  {
@@ -1795,8 +2178,28 @@
   "lat": -23.559972,
   "lng": -46.699514,
   "approx_location": false,
-  "images": [],
-  "slug": "eap"
+  "images": [
+   {
+    "src": "imágenes/eap-1.jpg",
+    "source": "https://baressp.com.br/bares/emporio-alto-dos-pinheiros",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Letrero del Empório Alto dos Pinheiros (EAP) en la entrada, con carteles de cervezas en la pared."
+   },
+   {
+    "src": "imágenes/eap-2.jpg",
+    "source": "https://baressp.com.br/bares/emporio-alto-dos-pinheiros",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Lata de cerveza ácida de la cervecería ZEV junto a un vaso con el logo de EAP."
+   },
+   {
+    "src": "imágenes/eap-3.jpg",
+    "source": "https://baressp.com.br/bares/emporio-alto-dos-pinheiros",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Barra del EAP con la fila de canillas de chopp y botellas al fondo."
+   }
+  ],
+  "slug": "eap",
+  "website": "http://www.altodospinheiros.com.br"
  },
  {
   "name": "Trinca Bar & Vermuteria",
@@ -1813,7 +2216,26 @@
   "lat": -23.560793,
   "lng": -46.699202,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/trinca-bar-vermuteria-1.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/novidades-nas-tacas-6-bares-famosos-de-sao-paulo-renovam-a-carta-de-drinques/",
+    "attribution": "Fotografía: Thales Hidequi, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Salón del Trinca Bar con barra revestida de azulejos verdes, taburetes de terciopelo y hojas secas de palma iluminadas en los nichos."
+   },
+   {
+    "src": "imágenes/trinca-bar-vermuteria-2.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/novidades-nas-tacas-6-bares-famosos-de-sao-paulo-renovam-a-carta-de-drinques/",
+    "attribution": "Fotografía: Thales Hidequi, vía CNN Brasil Viagem e Gastronomia.",
+    "alt": "Cóctel Jambu e a Uva (sour de uva verde, limón y cachaça de jambu) sobre una mesa de madera frente a azulejos verdes."
+   },
+   {
+    "src": "imágenes/trinca-bar-vermuteria-3.jpg",
+    "source": "https://baressp.com.br/bares/trinca-bar-e-vermuteria-",
+    "attribution": "Fotografía: BaresSP (sin crédito de fotógrafo), vía BaresSP.",
+    "alt": "Barra curva del Trinca Bar & Vermuteria con estantería de botellas y el letrero luminoso del bar."
+   }
+  ],
   "slug": "trinca-bar-vermuteria"
  },
  {
@@ -1913,7 +2335,14 @@
   "lat": -23.559581,
   "lng": -46.686653,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/porta-1.jpg",
+    "source": "https://shotgun.live/pt-br/venues/p-o-r-t-a",
+    "attribution": "Fotografía: P O R T A (imagen de portada del perfil oficial del local; sin fotógrafo acreditado), vía Shotgun.",
+    "alt": "Banda tocando en la sala de Porta, vista desde arriba, con el público sentado y de pie alrededor de los músicos"
+   }
+  ],
   "slug": "porta"
  },
  {
@@ -1931,7 +2360,26 @@
   "lat": -23.556346,
   "lng": -46.687608,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/bar-alto-1.jpg",
+    "source": "https://futuraestudio.arq.br/index.php/project/bar-alto/",
+    "attribution": "Fotografía: Futura Estúdio (autores del proyecto; la página no acredita fotógrafo), vía futuraestudio.arq.br.",
+    "alt": "Entrada del Bar Alto al anochecer, con la gradería de hormigón que da a la calle Aspicuelta y el letrero ALTO"
+   },
+   {
+    "src": "imágenes/bar-alto-2.jpg",
+    "source": "https://futuraestudio.arq.br/index.php/project/bar-alto/",
+    "attribution": "Fotografía: Futura Estúdio (autores del proyecto; la página no acredita fotógrafo), vía futuraestudio.arq.br.",
+    "alt": "Barra y salón del Bar Alto bajo la estructura de techo a dos aguas, con estantes de botellas y taburetes"
+   },
+   {
+    "src": "imágenes/bar-alto-3.jpg",
+    "source": "https://futuraestudio.arq.br/index.php/project/bar-alto/",
+    "attribution": "Fotografía: Futura Estúdio (autores del proyecto; la página no acredita fotógrafo), vía futuraestudio.arq.br.",
+    "alt": "Terraza superior del Bar Alto con la barra verde de cerveza y vistas a los tejados de Vila Madalena"
+   }
+  ],
   "slug": "bar-alto"
  },
  {
@@ -1949,7 +2397,26 @@
   "lat": -23.553,
   "lng": -46.691,
   "approx_location": true,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/fffront-1.jpg",
+    "source": "https://travel2concert.com/place/fffront-sao-paulo/",
+    "attribution": "Fotografía: © FFFront (marca de agua en la imagen), vía Travel2Concert.",
+    "alt": "Bar de la planta baja del FFFront, con mesas, sofás, afiches enmarcados y luz cálida"
+   },
+   {
+    "src": "imágenes/fffront-2.jpg",
+    "source": "https://travel2concert.com/place/fffront-sao-paulo/",
+    "attribution": "Fotografía: © FFFront (marca de agua en la imagen), vía Travel2Concert.",
+    "alt": "Sala de shows de la planta alta del FFFront, con el escenario bajo luces violetas y rojas"
+   },
+   {
+    "src": "imágenes/fffront-3.jpg",
+    "source": "https://travel2concert.com/place/fffront-sao-paulo/",
+    "attribution": "Fotografía: © FFFront (marca de agua en la imagen), vía Travel2Concert.",
+    "alt": "Escenario del FFFront con batería, amplificadores y guitarra listos para un show"
+   }
+  ],
   "slug": "fffront"
  },
  {
@@ -2154,7 +2621,26 @@
   "lat": -23.539425,
   "lng": -46.68318,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/chimichurri-parrilla-1.jpg",
+    "source": "https://baressp.com.br/restaurantes/argentinos/chimichurri-parrilla",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Dos integrantes del equipo de Chimichurri Parrilla con remeras de la casa en la puerta del local"
+   },
+   {
+    "src": "imágenes/chimichurri-parrilla-2.jpg",
+    "source": "https://baressp.com.br/restaurantes/argentinos/chimichurri-parrilla",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Fuente de carne a la parrilla en tiras con verduras asadas de Chimichurri Parrilla"
+   },
+   {
+    "src": "imágenes/chimichurri-parrilla-3.jpg",
+    "source": "https://baressp.com.br/restaurantes/argentinos/chimichurri-parrilla",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Plato de bocados de carne con cebollín servido con una copa de vino tinto"
+   }
+  ],
   "slug": "chimichurri-parrilla"
  },
  {
@@ -2172,7 +2658,26 @@
   "lat": -23.677281,
   "lng": -46.58512,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/izakaya-issa-1.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/izakaya-issa",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Interior del Izakaya Issa con la barra de madera, estantes de bebidas y linternas de papel"
+   },
+   {
+    "src": "imágenes/izakaya-issa-2.jpg",
+    "source": "https://elle.com.br/lifestyle/10-izakayas-imperdiveis",
+    "attribution": "Fotografía: Carol M., vía ELLE Brasil.",
+    "alt": "Katsudon, tazón de arroz con cerdo empanado, huevo y cebollín del Izakaya Issa"
+   },
+   {
+    "src": "imágenes/izakaya-issa-3.jpg",
+    "source": "https://baressp.com.br/bares/izakaya-issa",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Tsukemonos (encurtidos caseros) y vasitos de sake servidos en el Izakaya Issa"
+   }
+  ],
   "slug": "izakaya-issa"
  },
  {
@@ -2216,7 +2721,26 @@
   "lat": -23.574735,
   "lng": -46.646481,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/tenda-do-nilo-1.jpg",
+    "source": "https://baressp.com.br/restaurantes/arabes/tenda-do-nilo",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Fachada amarilla de la Tenda do Nilo con su letrero y clientes comiendo junto a la ventana"
+   },
+   {
+    "src": "imágenes/tenda-do-nilo-2.jpg",
+    "source": "https://www.theinfatuation.com/sao-paulo/reviews/tenda-do-nilo",
+    "attribution": "Fotografía: Sandro Portaluri, vía The Infatuation.",
+    "alt": "Fatte, plato de la casa de Tenda do Nilo con yogur, garbanzos, pan y ajo frito crujiente"
+   },
+   {
+    "src": "imágenes/tenda-do-nilo-3.jpg",
+    "source": "https://baressp.com.br/restaurantes/arabes/tenda-do-nilo",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Comedor pequeño de la Tenda do Nilo lleno de comensales, con cuadros y diplomas en la pared"
+   }
+  ],
   "slug": "tenda-do-nilo"
  },
  {
@@ -2298,7 +2822,20 @@
   "lat": -23.529262,
   "lng": -46.654284,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/cervejaria-central-2-a-sede-1.jpg",
+    "source": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/onde-assistir-aos-jogos-da-copa-do-mundo-2026-em-sao-paulo/",
+    "attribution": "Fotografía: Divulgação (Cervejaria Central), vía CNN Brasil Viagem & Gastronomia.",
+    "alt": "Salón de la Cervejaria Central de Vila Buarque (la sede original, no la de Barra Funda) con público mirando un partido en la pantalla y la batería de grifos al fondo"
+   },
+   {
+    "src": "imágenes/cervejaria-central-2-a-sede-2.jpg",
+    "source": "https://www.portalpopcyber.com/copa-do-mundo-na-cervejaria-central-com-samba-cerveja-e-gastronomia/",
+    "attribution": "Fotografía: Divulgação (Cervejaria Central), vía Portal Pop Cyber.",
+    "alt": "Latas de la colección de cócteles de la Cervejaria Central, marca que comparte con sus dos sedes (Vila Buarque y Barra Funda)"
+   }
+  ],
   "slug": "cervejaria-central-2-a-sede",
   "website": "https://cervejariacentral.com"
  },
@@ -2355,7 +2892,26 @@
   "lat": -23.583712,
   "lng": -46.679057,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/eximia-1.jpg",
+    "source": "https://catracalivre.com.br/viagem-livre/bar-paulistano-e-eleito-um-dos-100-melhores-do-mundo/",
+    "attribution": "Fotografía: Reprodução/Instagram @eximiabar, vía Catraca Livre.",
+    "alt": "Barra de madera del Exímia con la estantería de botellas iluminada en rojo y taburetes en penumbra"
+   },
+   {
+    "src": "imágenes/eximia-2.jpg",
+    "source": "https://catracalivre.com.br/viagem-livre/bar-paulistano-e-eleito-um-dos-100-melhores-do-mundo/",
+    "attribution": "Fotografía: Reprodução/Instagram @eximiabar, vía Catraca Livre.",
+    "alt": "Clientes y bartender trabajando en la barra del Exímia, con ventanales y lámparas colgantes"
+   },
+   {
+    "src": "imágenes/eximia-3.jpg",
+    "source": "https://www.guiadasemana.com.br/bares-drinks/noticia/eximia-assume-as-quintas-do-rabo-di-galo-no-rosewood-sao-paulo-por-seis-semanas",
+    "attribution": "Fotografía: Tadeu Brunelli (vía Gina von Hertwig Comunicações), vía Guia da Semana / Time Out São Paulo.",
+    "alt": "Xolotl, coctel de autor del Exímia, servido en vaso con borde especiado (foto de la residencia del bar en el Rosewood São Paulo)"
+   }
+  ],
   "slug": "eximia"
  },
  {
@@ -2373,7 +2929,26 @@
   "lat": -23.568,
   "lng": -46.62,
   "approx_location": true,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/a-juriti-1.jpg",
+    "source": "https://ftrc.blog/a-juriti/",
+    "attribution": "Fotografía: Fotostrasse, vía FTRC.BLOG.",
+    "alt": "Interior de A Juriti con la larga barra de acero llena de petiscos y clientes de pie junto al mostrador"
+   },
+   {
+    "src": "imágenes/a-juriti-2.jpg",
+    "source": "https://ftrc.blog/a-juriti/",
+    "attribution": "Fotografía: Fotostrasse, vía FTRC.BLOG.",
+    "alt": "Linguiça asada en un plato de A Juriti, sobre un mantel de papel con el nombre del bar"
+   },
+   {
+    "src": "imágenes/a-juriti-3.jpg",
+    "source": "https://ftrc.blog/a-juriti/",
+    "attribution": "Fotografía: Fotostrasse, vía FTRC.BLOG.",
+    "alt": "Plato de calamares con perejil servido en la vajilla de A Juriti"
+   }
+  ],
   "slug": "a-juriti"
  },
  {
@@ -2429,7 +3004,26 @@
   "lat": -23.553308,
   "lng": -46.635924,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/cine-joia-1.jpg",
+    "source": "https://www.dgabc.com.br/Noticia/4174088/30e-fecha-parceria-com-cine-joia",
+    "attribution": "Fotografía: Camila Cara, vía Diário do Grande ABC.",
+    "alt": "Show con el público llenando la sala del Cine Joia, con sus paredes en rombos y el palco superior"
+   },
+   {
+    "src": "imágenes/cine-joia-2.jpg",
+    "source": "https://www.baressp.com.br/casas-de-show/cine-joia",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Pista del Cine Joia con la barra central en forma de rombo iluminada de verde"
+   },
+   {
+    "src": "imágenes/cine-joia-3.jpg",
+    "source": "https://www.baressp.com.br/casas-de-show/cine-joia",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Escenario y escalera de acceso del Cine Joia, con proyecciones en las paredes de rombos"
+   }
+  ],
   "slug": "cine-joia",
   "website": "https://www.cinejoia.com.br"
  },
@@ -2480,7 +3074,26 @@
   "lat": -23.526813,
   "lng": -46.660135,
   "approx_location": false,
-  "images": [],
+  "images": [
+   {
+    "src": "imágenes/fabrique-1.jpg",
+    "source": "https://baressp.com.br/fornecedores/espaco-para-eventos/fabrique",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Sala principal del Fabrique Club llena de público durante una fiesta, con globos luminosos y pantalla"
+   },
+   {
+    "src": "imágenes/fabrique-2.jpg",
+    "source": "https://baressp.com.br/fornecedores/espaco-para-eventos/fabrique",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Nave industrial de ladrillo del Fabrique Club con humo, luces azules y público frente al escenario"
+   },
+   {
+    "src": "imágenes/fabrique-3.jpg",
+    "source": "https://baressp.com.br/fornecedores/espaco-para-eventos/fabrique",
+    "attribution": "Fotografía: BaresSP (sin autor acreditado), vía BaresSP.",
+    "alt": "Público con los brazos en alto bajo luces de colores en el Fabrique Club"
+   }
+  ],
   "slug": "fabrique"
  },
  {
