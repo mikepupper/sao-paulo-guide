@@ -1,0 +1,314 @@
+{
+  "copan-terraza": {
+    "name": "Copan, terraza",
+    "website": null,
+    "images": [
+      {
+        "image": "imágenes/copan-terraza-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Terraço_do_Copan.jpg",
+        "attribution": "Fotografía: Gabigeraldelli, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Vista desde la azotea del edificio Copan, con las escaleras de caracol y el horizonte de edificios del centro de São Paulo"
+      },
+      {
+        "image": "imágenes/copan-terraza-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Edifício_Copan_-_frente.jpg",
+        "attribution": "Fotografía: Pablo Trincado, Wikimedia Commons (CC BY 2.0).",
+        "alt": "Fachada ondulada del edificio Copan de Oscar Niemeyer vista desde la calle"
+      },
+      {
+        "image": "imágenes/copan-terraza-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Edifício_Copan_-_Terraço.jpg",
+        "attribution": "Fotografía: Gabigeraldelli, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Borde curvo de la azotea del Copan con una persona fotografiando y una escalera de caracol"
+      }
+    ]
+  },
+  "terraco-italia-mirador": {
+    "name": "Terraço Itália (mirador)",
+    "website": "https://www.terracoitalia.com.br",
+    "images": [
+      {
+        "image": "imágenes/terraco-italia-mirador-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Edifício_Itália_visto_do_fundo_(16-06-2024).jpg",
+        "attribution": "Fotografía: Lucassilva.123lucasa, Wikimedia Commons (CC BY 4.0).",
+        "alt": "El rascacielos cilíndrico del Edifício Itália visto desde la calle"
+      },
+      {
+        "image": "imágenes/terraco-italia-mirador-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Alto_do_Terraço_Itália.jpg",
+        "attribution": "Fotografía: Jardelsliumba, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Atardecer en la terraza mirador del Edifício Itália con vista a la ciudad"
+      },
+      {
+        "image": "imágenes/terraco-italia-mirador-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Edifício_Itália_views_2018_033.jpg",
+        "attribution": "Fotografía: Mike Peel (www.mikepeel.net), Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Mesas del restaurante en lo alto del Edifício Itália con vista panorámica de São Paulo"
+      }
+    ]
+  },
+  "farol-santander": {
+    "name": "Farol Santander",
+    "website": "https://farolsantander.com.br",
+    "images": [
+      {
+        "image": "imágenes/farol-santander-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Altino_Arantes_Building.jpg",
+        "attribution": "Fotografía: Dornicke, Wikimedia Commons (dominio público).",
+        "alt": "El edificio Altino Arantes, sede del Farol Santander, visto desde una calle del centro de São Paulo"
+      },
+      {
+        "image": "imágenes/farol-santander-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Inauguração_do_Edifício_Farol_Santander_(39261158754).jpg",
+        "attribution": "Fotografía: Governo do Estado de São Paulo, Wikimedia Commons (CC BY 2.0).",
+        "alt": "La torre del Farol Santander iluminada de rojo por la noche con un mensaje proyectado en la fachada"
+      },
+      {
+        "image": "imágenes/farol-santander-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Inauguração_do_Edifício_Farol_Santander_(39261164714).jpg",
+        "attribution": "Fotografía: Governo do Estado de São Paulo, Wikimedia Commons (CC BY 2.0).",
+        "alt": "Gran lámpara de cristal y columnas de mármol en el vestíbulo del Farol Santander"
+      }
+    ]
+  },
+  "galeria-do-rock": {
+    "name": "Galeria do Rock",
+    "website": null,
+    "images": [
+      {
+        "image": "imágenes/galeria-do-rock-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Shopping_Center_Grandes_Galerias_-_Galeria_do_Rock_3.jpg",
+        "attribution": "Fotografía: MariliaKaz, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Fachada y entrada de la Galeria do Rock con sus balcones curvos y las tiendas de la planta baja"
+      },
+      {
+        "image": "imágenes/galeria-do-rock-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Galeria_do_Rock,_Sao_Paulo.jpg",
+        "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+        "alt": "Atrio interior de la Galeria do Rock con barandas rojas, tiendas de camisetas y visitantes"
+      },
+      {
+        "image": "imágenes/galeria-do-rock-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Galeria_do_Rock_2018_03.jpg",
+        "attribution": "Fotografía: Mike Peel (www.mikepeel.net), Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Pasillos de varios niveles dentro de la Galeria do Rock vistos desde arriba"
+      }
+    ]
+  },
+  "theatro-municipal-bar-dos-arcos": {
+    "name": "Theatro Municipal + Bar dos Arcos",
+    "website": "https://theatromunicipal.org.br",
+    "images": [
+      {
+        "image": "imágenes/theatro-municipal-bar-dos-arcos-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Teatro_Municipal_de_São_Paulo_8.jpg",
+        "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+        "alt": "Fachada principal del Theatro Municipal de São Paulo iluminada al anochecer"
+      },
+      {
+        "image": "imágenes/theatro-municipal-bar-dos-arcos-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Interior_Teatro_Municipal_de_São_Paulo_4.jpg",
+        "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Galería interior del Theatro Municipal con vitrales, dorados y alfombra de círculos"
+      },
+      {
+        "image": "imágenes/theatro-municipal-bar-dos-arcos-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Theatro_Municipal_de_São_Paulo_(16-06-2024).jpg",
+        "attribution": "Fotografía: Lucassilva.123lucasa, Wikimedia Commons (CC BY 4.0).",
+        "alt": "Lateral del Theatro Municipal y su cúpula verde vistos desde la calle"
+      }
+    ]
+  },
+  "sesc-24-de-maio": {
+    "name": "Sesc 24 de Maio",
+    "website": "https://www.sescsp.org.br/unidades/24-de-maio/",
+    "images": [
+      {
+        "image": "imágenes/sesc-24-de-maio-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:SESC_24_de_Maio_(01).jpg",
+        "attribution": "Fotografía: Rodrigo.Argenton, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Piscina en la azotea del Sesc 24 de Maio entre los edificios del centro de São Paulo"
+      },
+      {
+        "image": "imágenes/sesc-24-de-maio-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sesc_24_de_Maio_(projeto_Paulo_Mendes_da_Rocha_e_MMBB),_São_Paulo,_SP,_Brasil._(39450853132).jpg",
+        "attribution": "Fotografía: paulisson miura, Wikimedia Commons (CC BY 2.0).",
+        "alt": "Rampas de hormigón y fachada de vidrio con estructura metálica dentro del Sesc 24 de Maio"
+      },
+      {
+        "image": "imágenes/sesc-24-de-maio-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sesc_24_de_Maio,_São_Paulo_2018_01.jpg",
+        "attribution": "Fotografía: Mike Peel (www.mikepeel.net), Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Espacio de convivencia y cafetería bajo el techo de casetones del Sesc 24 de Maio"
+      }
+    ]
+  },
+  "mercado-municipal-mercadao": {
+    "name": "Mercado Municipal (Mercadão)",
+    "website": null,
+    "images": [
+      {
+        "image": "imágenes/mercado-municipal-mercadao-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercado_Municipal_São_Paulo.jpg",
+        "attribution": "Fotografía: Celykzk, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Nave interior del Mercado Municipal con arcos, vitrales y los puestos desde el nivel superior"
+      },
+      {
+        "image": "imágenes/mercado-municipal-mercadao-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Municipal_Market_of_São_Paulo_city.jpg",
+        "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Puesto de frutas del Mercado Municipal con pirámides de frutas tropicales"
+      },
+      {
+        "image": "imágenes/mercado-municipal-mercadao-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sanduíche_de_Mortadela_(Mercado_Municipal_de_São_Paulo).jpg",
+        "attribution": "Fotografía: Eugenio Hansen, OFS, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Sándwich de mortadela del Mercado Municipal de São Paulo servido sobre una mesa de madera"
+      }
+    ]
+  },
+  "minhocao": {
+    "name": "Minhocão",
+    "website": null,
+    "images": [
+      {
+        "image": "imágenes/minhocao-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Minhocão,_25-01-2021_(1).jpg",
+        "attribution": "Fotografía: Jcornelius, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Ciclistas y peatones en el Minhocão cerrado al tráfico, con murales en los edificios laterales"
+      },
+      {
+        "image": "imágenes/minhocao-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Elevado_Presidente_João_Goulart.jpg",
+        "attribution": "Fotografía: Virada Sustentável, Wikimedia Commons (CC BY-SA 2.0).",
+        "alt": "Vista aérea del Minhocão con pintura de flores en el asfalto y gente caminando"
+      },
+      {
+        "image": "imágenes/minhocao-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Minhocão_(12206831414).jpg",
+        "attribution": "Fotografía: Wagner Tamanaha, Wikimedia Commons (CC BY-SA 2.0).",
+        "alt": "Grupo de personas caminando por el Minhocão con una bandera de Parque Minhocão"
+      }
+    ]
+  },
+  "pinacoteca-luz": {
+    "name": "Pinacoteca (Luz)",
+    "website": "https://pinacoteca.org.br",
+    "images": [
+      {
+        "image": "imágenes/pinacoteca-luz-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pinacoteca_de_São_Paulo,_Brazil.jpg",
+        "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Fachada de ladrillo de la Pinacoteca do Estado con la fuente del jardín en primer plano"
+      },
+      {
+        "image": "imágenes/pinacoteca-luz-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pinacoteca_de_São_Paulo_6.jpg",
+        "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+        "alt": "Patio octogonal de ladrillo de la Pinacoteca con lámparas colgantes y mecedoras en una instalación"
+      },
+      {
+        "image": "imágenes/pinacoteca-luz-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Pinacoteca_de_Sao_Paulo.jpg",
+        "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+        "alt": "Galería de columnas de ladrillo de la Pinacoteca con una escultura al fondo"
+      }
+    ]
+  },
+  "museu-da-lingua-portuguesa-luz": {
+    "name": "Museu da Língua Portuguesa (Luz)",
+    "website": "https://museudalinguaportuguesa.org.br",
+    "images": [
+      {
+        "image": "imágenes/museu-da-lingua-portuguesa-luz-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Museu_da_Lingua_Portuguesa_em_São_Paulo_(52692478444).jpg",
+        "attribution": "Fotografía: Governo do Estado de São Paulo, Wikimedia Commons (CC BY 2.0).",
+        "alt": "Fachada de la Estação da Luz, sede del Museu da Língua Portuguesa, con su torre del reloj"
+      },
+      {
+        "image": "imágenes/museu-da-lingua-portuguesa-luz-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Interior_do_Museu_da_Língua_Portuguesa_em_São_Paulo,_Brasil.jpg",
+        "attribution": "Fotografía: Ana Paula Hirama, Wikimedia Commons (CC BY-SA 2.0).",
+        "alt": "Sala de exposición del Museu da Língua Portuguesa con paneles luminosos naranjas y vitrinas"
+      },
+      {
+        "image": "imágenes/museu-da-lingua-portuguesa-luz-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Estação_da_Luz_-_Museu_da_Língua_Portuguesa_03.jpg",
+        "attribution": "Fotografía: Dianarchitect, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Marquesina de hierro de la Estação da Luz con el letrero del Museu da Língua Portuguesa"
+      }
+    ]
+  },
+  "sala-sao-paulo": {
+    "name": "Sala São Paulo",
+    "website": "https://www.salasaopaulo.art.br",
+    "images": [
+      {
+        "image": "imágenes/sala-sao-paulo-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Estação_Júlio_Prestes_-_fachada.jpg",
+        "attribution": "Fotografía: Dornicke, Wikimedia Commons (dominio público).",
+        "alt": "Fachada de la Estação Júlio Prestes, el edificio que alberga la Sala São Paulo, con su torre del reloj"
+      },
+      {
+        "image": "imágenes/sala-sao-paulo-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sala_São_Paulo_2018_07.jpg",
+        "attribution": "Fotografía: Mike Peel (www.mikepeel.net), Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Interior de la sala de conciertos con su techo de madera regulable y el escenario vacío"
+      },
+      {
+        "image": "imágenes/sala-sao-paulo-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Sala_São_Paulo_2023.jpg",
+        "attribution": "Fotografía: Boaventuravinicius, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Concierto de orquesta con el público en la Sala São Paulo bajo el techo de madera iluminado"
+      }
+    ]
+  },
+  "masp": {
+    "name": "MASP",
+    "website": "https://masp.org.br",
+    "images": [
+      {
+        "image": "imágenes/masp-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:MASP_Brazil.jpg",
+        "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+        "alt": "El edificio del MASP de Lina Bo Bardi suspendido entre dos pilares rojos sobre la Av. Paulista"
+      },
+      {
+        "image": "imágenes/masp-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:MASP_-_Sala_Georges_Wildenstein_02.jpg",
+        "attribution": "Fotografía: Dornicke, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Visitantes frente a las obras en caballetes de cristal de la colección permanente del MASP"
+      },
+      {
+        "image": "imágenes/masp-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:CineTeatro_no_Vão_Livre_do_MASP.jpg",
+        "attribution": "Fotografía: Igor Marotti, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Personas reunidas bajo el vão livre, la gran plaza cubierta bajo el edificio del MASP"
+      }
+    ]
+  },
+  "av-paulista-sin-autos": {
+    "name": "Av. Paulista sin autos",
+    "website": null,
+    "images": [
+      {
+        "image": "imágenes/av-paulista-sin-autos-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Museu_de_Arte_de_São_Paulo_-_MASP,_vista_exterior_com_Avenida_Paulista_no_feriado_ao_centro.jpg",
+        "attribution": "Fotografía: Rafael Wojtyla, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Peatones y ciclistas ocupando la Av. Paulista cerrada al tráfico frente al MASP"
+      },
+      {
+        "image": "imágenes/av-paulista-sin-autos-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Avenida_Paulista_aberta_em_Domingo.jpg",
+        "attribution": "Fotografía: Willemarcel, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Ciclistas y peatones en la Av. Paulista abierta a las personas un domingo, con puestos de bebidas bajo sombrillas"
+      },
+      {
+        "image": "imágenes/av-paulista-sin-autos-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Av._Paulista_meio.jpg",
+        "attribution": "Fotografía: Agent010, Wikimedia Commons (CC BY-SA 4.0).",
+        "alt": "Multitud caminando por la calzada y la ciclovía de la Av. Paulista con el edificio de la Fiesp al fondo"
+      }
+    ]
+  }
+}

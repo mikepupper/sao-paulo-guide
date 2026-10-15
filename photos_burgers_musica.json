@@ -1,0 +1,376 @@
+{
+ "holy-burger": {
+  "name": "Holy Burger",
+  "website": "https://www.holyburger.com.br",
+  "images": [
+   {
+    "image": "imágenes/holy-burger-1.jpg",
+    "source": "https://www.holyburger.com.br/assets/thumb-video.jpg",
+    "attribution": "Fotografía: Holy Burger, vía su sitio web oficial.",
+    "alt": "Hamburguesas recién armadas sobre platos blancos en la barra de la cocina"
+   }
+  ]
+ },
+ "z-deli": {
+  "name": "Z Deli",
+  "website": "https://zdeli.com.br",
+  "images": [
+   {
+    "image": "imágenes/z-deli-1.jpg",
+    "source": "https://zdeli.com.br/images/carroussel1.jpg",
+    "attribution": "Fotografía: Z Deli, vía su sitio web oficial.",
+    "alt": "Sándwich de pastrami en pan de centeno con una bebida cítrica"
+   },
+   {
+    "image": "imágenes/z-deli-2.jpg",
+    "source": "https://zdeli.com.br/images/centroIab.jpg",
+    "attribution": "Fotografía: Z Deli, vía su sitio web oficial.",
+    "alt": "Salón del Z Deli del Centro, con mesas y barra junto a los ventanales"
+   },
+   {
+    "image": "imágenes/z-deli-3.jpg",
+    "source": "https://zdeli.com.br/images/carroussel3.jpg",
+    "attribution": "Fotografía: Z Deli, vía su sitio web oficial.",
+    "alt": "Hot dog a la plancha con pepinillos y un vaso de refresco sobre la mesa"
+   }
+  ]
+ },
+ "big-kahuna-burger": {
+  "name": "Big Kahuna Burger",
+  "website": "https://www.bigkahunaburger.com.br",
+  "images": [
+   {
+    "image": "imágenes/big-kahuna-burger-1.jpg",
+    "source": "https://www.bigkahunaburger.com.br/wp-content/uploads/2023/05/loja-2.jpg",
+    "attribution": "Fotografía: Big Kahuna Burger, vía su sitio web oficial.",
+    "alt": "Fachada nocturna del Big Kahuna Burger con su letrero luminoso"
+   },
+   {
+    "image": "imágenes/big-kahuna-burger-2.jpg",
+    "source": "https://www.bigkahunaburger.com.br/wp-content/uploads/2019/06/burger-fest2-6d015db3.jpeg",
+    "attribution": "Fotografía: Big Kahuna Burger, vía su sitio web oficial.",
+    "alt": "Hamburguesa con queso cheddar y bacon crujiente sobre el papel de la casa"
+   }
+  ]
+ },
+ "mundo-pensante": {
+  "name": "Mundo Pensante",
+  "website": "https://www.mundopensante.com.br",
+  "images": [
+   {
+    "image": "imágenes/mundo-pensante-1.jpg",
+    "source": "https://static.wixstatic.com/media/ee533d_6532935430ed4694abf1569d92b6f7f6~mv2.jpg",
+    "attribution": "Fotografía: Mundo Pensante, vía su sitio web oficial.",
+    "alt": "Patio del Mundo Pensante lleno de gente bajo luces y murales de colores"
+   },
+   {
+    "image": "imágenes/mundo-pensante-2.jpg",
+    "source": "https://static.wixstatic.com/media/ee533d_3b2fd831243745b7a59e50864fcb00d4~mv2.jpg",
+    "attribution": "Fotografía: Mundo Pensante, vía su sitio web oficial.",
+    "alt": "Banda tocando en el escenario del Mundo Pensante ante el público"
+   },
+   {
+    "image": "imágenes/mundo-pensante-3.jpg",
+    "source": "https://static.wixstatic.com/media/ee533d_985d9319948f4dec9616ba88cbac4be2~mv2.jpg",
+    "attribution": "Fotografía: Mundo Pensante, vía su sitio web oficial.",
+    "alt": "Sala principal del Mundo Pensante con el público bajo luz azul"
+   }
+  ]
+ },
+ "casa-de-francisca": {
+  "name": "Casa de Francisca",
+  "website": "https://casadefrancisca.art.br/novo/",
+  "images": [
+   {
+    "image": "imágenes/casa-de-francisca-1.jpg",
+    "source": "https://casadefrancisca.art.br/novo/_uploads/_galeria/455.jpg",
+    "attribution": "Fotografía: Casa de Francisca, vía su sitio web oficial.",
+    "alt": "Fachada iluminada del palacete histórico que alberga la Casa de Francisca"
+   },
+   {
+    "image": "imágenes/casa-de-francisca-2.jpg",
+    "source": "https://casadefrancisca.art.br/novo/_uploads/_galeria/454.jpg",
+    "attribution": "Fotografía: Casa de Francisca, vía su sitio web oficial.",
+    "alt": "Salón de la Casa de Francisca con mesas, techo de madera ondulado y piano de cola"
+   },
+   {
+    "image": "imágenes/casa-de-francisca-3.jpg",
+    "source": "https://casadefrancisca.art.br/novo/_uploads/_galeria/456.jpg",
+    "attribution": "Fotografía: Casa de Francisca, vía su sitio web oficial.",
+    "alt": "Escenario circular de madera y salón con techo ondulado de la Casa de Francisca"
+   }
+  ]
+ },
+ "lanchonete-da-cidade": {
+  "name": "Lanchonete da Cidade",
+  "website": "https://lanchonetedacidade.com.br",
+  "images": [
+   {
+    "image": "imágenes/lanchonete-da-cidade-1.jpg",
+    "source": "https://lanchonetedacidade.com.br/wp-content/uploads/2025/10/Reserva-Lanchonete-1024x672.png",
+    "attribution": "Fotografía: Lanchonete da Cidade, vía su sitio web oficial.",
+    "alt": "Comedor lleno de la Lanchonete da Cidade, con mesas de formica y sillas rojas"
+   },
+   {
+    "image": "imágenes/lanchonete-da-cidade-2.jpg",
+    "source": "https://lanchonetedacidade.com.br/wp-content/uploads/2025/10/Delivery-Lanchonete-1024x672.png",
+    "attribution": "Fotografía: Lanchonete da Cidade, vía su sitio web oficial.",
+    "alt": "Hamburguesa en pan con semillas junto a la campanilla de mostrador de la casa"
+   },
+   {
+    "image": "imágenes/lanchonete-da-cidade-3.jpg",
+    "source": "https://lanchonetedacidade.com.br/wp-content/uploads/2024/08/lanchonete-delivery-img-1024x672.png",
+    "attribution": "Fotografía: Lanchonete da Cidade, vía su sitio web oficial.",
+    "alt": "Hamburguesas y papas fritas para compartir sobre la mesa"
+   }
+  ]
+ },
+ "blue-note-sao-paulo": {
+  "name": "Blue Note São Paulo",
+  "website": "https://bluenotesp.com",
+  "images": [
+   {
+    "image": "imágenes/blue-note-sao-paulo-1.jpg",
+    "source": "https://bluenotesp.com/wp-content/uploads/2026/06/banner-bluenotesp-interno-1.webp",
+    "attribution": "Fotografía: Blue Note São Paulo, vía su sitio web oficial.",
+    "alt": "Sala del Blue Note São Paulo con mesas, piano de cola y escenario iluminado en azul"
+   },
+   {
+    "image": "imágenes/blue-note-sao-paulo-2.jpg",
+    "source": "https://bluenotesp.com/wp-content/uploads/2026/06/banner-bluenotesp-vistaaerea-01.webp",
+    "attribution": "Fotografía: Blue Note São Paulo, vía su sitio web oficial.",
+    "alt": "Vista aérea nocturna de la Avenida Paulista junto al edificio donde está el Blue Note"
+   },
+   {
+    "image": "imágenes/blue-note-sao-paulo-3.jpg",
+    "source": "https://bluenotesp.com/wp-content/uploads/2026/06/fotos-bluenotesp-04-1.webp",
+    "attribution": "Fotografía: Blue Note São Paulo, vía su sitio web oficial.",
+    "alt": "Cantante con banda en concierto ante el público del Blue Note São Paulo"
+   }
+  ]
+ },
+ "audio": {
+  "name": "Audio",
+  "website": "https://audiosp.com.br",
+  "images": [
+   {
+    "image": "imágenes/audio-1.jpg",
+    "source": "https://audiosp.com.br/images/bg_eventos.jpg",
+    "attribution": "Fotografía: Audio, vía su sitio web oficial.",
+    "alt": "Público con las manos en alto bajo globos de colores en la pista de Audio"
+   },
+   {
+    "image": "imágenes/audio-2.jpg",
+    "source": "https://audiosp.com.br/upload/galeria/278/audio-dua-lipa-dualipa-9-11-17-foto-leandro-godoi_sobras-49_26689191019_o.jpg",
+    "attribution": "Fotografía: Leandro Godoi, vía el sitio web oficial de Audio.",
+    "alt": "Cantante en pleno concierto sobre el escenario de Audio, con focos de luz azul"
+   }
+  ]
+ },
+ "casa-natura-musical": {
+  "name": "Casa Natura Musical",
+  "website": "https://casanaturamusical.com.br",
+  "images": [
+   {
+    "image": "imágenes/casa-natura-musical-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fachada_Casa_Natura_Musical.jpg",
+    "attribution": "Fotografía: Clarncs2, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Fachada de la Casa Natura Musical iluminada de azul con su letrero luminoso"
+   },
+   {
+    "image": "imágenes/casa-natura-musical-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Outro_Eu_Casa_Natura_Musical_(45275008014).jpg",
+    "attribution": "Fotografía: Teca Lamboglia, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Dúo Outro Eu tocando en el escenario de la Casa Natura Musical"
+   },
+   {
+    "image": "imágenes/casa-natura-musical-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Silva_-_Casa_Natura_Musical_(34962230840).jpg",
+    "attribution": "Fotografía: Teca Lamboglia, Wikimedia Commons (CC BY 2.0).",
+    "alt": "El cantante Silva en concierto en la Casa Natura Musical"
+   }
+  ]
+ },
+ "hangar-110": {
+  "name": "Hangar 110",
+  "website": "https://www.hangar110.com.br",
+  "images": [
+   {
+    "image": "imágenes/hangar-110-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rancore_at_Hangar_110_30_April_2011.jpg",
+    "attribution": "Fotografía: Julio Fugimoto, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Sala del Hangar 110 repleta de público durante un concierto de punk y hardcore"
+   }
+  ]
+ },
+ "sesc-pompeia": {
+  "name": "Sesc Pompeia",
+  "website": "https://www.sescsp.org.br/unidades/pompeia/",
+  "images": [
+   {
+    "image": "imágenes/sesc-pompeia-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lina_Bo_Bardi,_SESC_Pomp%C3%A9ia_(5989428256).jpg",
+    "attribution": "Fotografía: Paulisson Miura, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Torres de concreto con ventanas irregulares del Sesc Pompeia, obra de Lina Bo Bardi"
+   },
+   {
+    "image": "imágenes/sesc-pompeia-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:C%C3%ADnica_Cia._de_Teatro_(SESC_Pomp%C3%A9ia,_S%C3%A3o_Paulo,_SP,_Brasil)._(30011506044).jpg",
+    "attribution": "Fotografía: Paulisson Miura, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Función de teatro con público sentado en el suelo del galpón del Sesc Pompeia"
+   },
+   {
+    "image": "imágenes/sesc-pompeia-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:J%C3%A1_Estava_Assim_Quando_Cheguei_no_SESC_Pompeia.jpg",
+    "attribution": "Fotografía: TomasVial, Wikimedia Commons (CC0).",
+    "alt": "Interior del antiguo galpón fabril del Sesc Pompeia con una instalación artística y la estructura de techo original"
+   }
+  ]
+ },
+ "pao-com-carne": {
+  "name": "Pão com Carne",
+  "website": "https://www.paocomcarne.com.br",
+  "images": [
+   {
+    "image": "imágenes/pao-com-carne-1.jpg",
+    "source": "https://static.wixstatic.com/media/c51495_84b6e9c21ca54564afa36e1068f84b6b~mv2.jpg",
+    "attribution": "Fotografía: Pão com Carne, vía su sitio web oficial.",
+    "alt": "Fachada de madera con ventanales y letrero vertical de la hamburguesería Pão com Carne"
+   }
+  ]
+ },
+ "madame-underground-club": {
+  "name": "Madame Underground Club",
+  "website": "https://www.madamesata.com.br",
+  "images": []
+ },
+ "cine-joia": {
+  "name": "Cine Joia",
+  "website": "https://www.cinejoia.com.br",
+  "images": []
+ },
+ "buzina": {
+  "name": "Buzina",
+  "website": "https://buzinaburgers.com",
+  "images": [
+   {
+    "image": "imágenes/buzina-1.jpg",
+    "source": "https://buzinaburgers.com/wp-content/uploads/2024/04/bannersite2.jpg",
+    "attribution": "Fotografía: Buzina Burgers, vía su sitio web oficial.",
+    "alt": "Fachada de Buzina con su letrero y el salón iluminado al fondo"
+   },
+   {
+    "image": "imágenes/buzina-2.jpg",
+    "source": "https://buzinaburgers.com/wp-content/uploads/2025/03/BUZINA-BURGERS_LADO-B_063_4.jpg",
+    "attribution": "Fotografía: Buzina Burgers, vía su sitio web oficial.",
+    "alt": "Vista desde arriba del salón de Buzina, con paredes de graffiti y mesas llenas"
+   },
+   {
+    "image": "imágenes/buzina-3.jpg",
+    "source": "https://buzinaburgers.com/wp-content/uploads/2024/05/buzinaburger-1.jpg",
+    "attribution": "Fotografía: Buzina Burgers, vía su sitio web oficial.",
+    "alt": "Hamburguesa con queso derretido y papas fritas sobre un plato de metal"
+   }
+  ]
+ },
+ "casa-rockambole": {
+  "name": "Casa Rockambole",
+  "website": "https://www.rockambole.com.br/casa-rockambole",
+  "images": [
+   {
+    "image": "imágenes/casa-rockambole-1.jpg",
+    "source": "https://static.wixstatic.com/media/93d882_d3cb737a927b46e88e1d37e92b6483d0~mv2.jpg",
+    "attribution": "Fotografía: Casa Rockambole / Selo Rockambole, vía su sitio web oficial.",
+    "alt": "Balcón de hierro forjado sobre el salón de la Casa Rockambole, iluminado en violeta"
+   },
+   {
+    "image": "imágenes/casa-rockambole-2.jpg",
+    "source": "https://static.wixstatic.com/media/93d882_e08a666bdf0d4075be797c3f6972155c~mv2.jpg",
+    "attribution": "Fotografía: Casa Rockambole / Selo Rockambole, vía su sitio web oficial.",
+    "alt": "Banda tocando en el escenario de la Casa Rockambole ante un público en penumbra"
+   },
+   {
+    "image": "imágenes/casa-rockambole-3.jpg",
+    "source": "https://static.wixstatic.com/media/93d882_1b44887bc45a42c7934c83cbf130c14b~mv2.jpg",
+    "attribution": "Fotografía: Casa Rockambole / Selo Rockambole, vía su sitio web oficial.",
+    "alt": "Patio techado de la Casa Rockambole con público sentado en un evento musical"
+   }
+  ]
+ },
+ "patties": {
+  "name": "Patties",
+  "website": "https://pattiesburger.com",
+  "images": [
+   {
+    "image": "imágenes/patties-1.jpg",
+    "source": "https://pattiesburger.com/wp-content/uploads/2026/03/foto-principal-pinheiros-01.jpg",
+    "attribution": "Fotografía: Patties Burger, vía su sitio web oficial.",
+    "alt": "Entrada de la Portinha Patties de Pinheiros con toldo a rayas y letrero luminoso"
+   },
+   {
+    "image": "imágenes/patties-2.jpg",
+    "source": "https://pattiesburger.com/wp-content/uploads/2026/03/foto-principal-pinheiros-04.jpg",
+    "attribution": "Fotografía: Patties Burger, vía su sitio web oficial.",
+    "alt": "Terraza con mesas bajo un toldo en la acera de la unidad de Pinheiros"
+   },
+   {
+    "image": "imágenes/patties-3.jpg",
+    "source": "https://pattiesburger.com/wp-content/uploads/2026/03/foto-unidade-pinheiros-02.jpg",
+    "attribution": "Fotografía: Patties Burger, vía su sitio web oficial.",
+    "alt": "Rincón interior con taburetes y diplomas enmarcados en la pared de azulejos"
+   }
+  ]
+ },
+ "jazzb": {
+  "name": "JazzB",
+  "website": "https://www.jazzb.com.br",
+  "images": [
+   {
+    "image": "imágenes/jazzb-1.jpg",
+    "source": "https://static.wixstatic.com/media/4ef1f7_88bc1f07560e4f278538f6bbcf8c7fb7~mv2.jpg",
+    "attribution": "Fotografía: JazzB, vía su sitio web oficial.",
+    "alt": "Imagen en movimiento de una banda de jazz con piano y contrabajo tocando en vivo en el club"
+   }
+  ]
+ },
+ "guarita-burger": {
+  "name": "Guarita Burger",
+  "website": null,
+  "images": []
+ },
+ "frank-charles": {
+  "name": "Frank & Charles",
+  "website": null,
+  "images": []
+ },
+ "grindhouse-braserito": {
+  "name": "Grindhouse Braserito",
+  "website": null,
+  "images": []
+ },
+ "picles": {
+  "name": "Picles",
+  "website": null,
+  "images": []
+ },
+ "porta": {
+  "name": "Porta",
+  "website": null,
+  "images": []
+ },
+ "bar-alto": {
+  "name": "Bar Alto",
+  "website": null,
+  "images": []
+ },
+ "fffront": {
+  "name": "FFFront",
+  "website": null,
+  "images": []
+ },
+ "fabrique": {
+  "name": "Fabrique",
+  "website": null,
+  "images": []
+ }
+}

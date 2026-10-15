@@ -1,0 +1,284 @@
+{
+ "feria-de-antiguedades-del-masp": {
+  "name": "Feria de antigüedades del MASP",
+  "website": "https://masp.org.br",
+  "images": [
+   {
+    "image": "imágenes/feria-de-antiguedades-del-masp-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_do_vão_livre_do_MASP,_São_Paulo,_SP,_Brasil._(19638930442).jpg",
+    "attribution": "Fotografía: Paulisson Miura, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Vista desde arriba de los puestos con toldos a rayas de la feria bajo el vão livre del MASP"
+   },
+   {
+    "image": "imágenes/feria-de-antiguedades-del-masp-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vão_Livre_do_MASP_03.jpg",
+    "attribution": "Fotografía: André Savastano, Wikimedia Commons (CC BY-SA 2.0).",
+    "alt": "Visitantes recorriendo los puestos de antigüedades bajo el techo de hormigón del MASP"
+   },
+   {
+    "image": "imágenes/feria-de-antiguedades-del-masp-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vão_Livre_do_MASP_02.jpg",
+    "attribution": "Fotografía: André Savastano, Wikimedia Commons (CC BY-SA 2.0).",
+    "alt": "Hilera de puestos de la feria bajo el edificio suspendido del MASP, con la plaza adoquinada al frente"
+   }
+  ]
+ },
+ "ims-paulista": {
+  "name": "IMS Paulista",
+  "website": "https://ims.com.br",
+  "images": [
+   {
+    "image": "imágenes/ims-paulista-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Livraria_do_Instituto_Moreira_Salles.jpg",
+    "attribution": "Fotografía: Wecomabimt, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Hall de entrada y librería del Instituto Moreira Salles con su cielorraso rojizo y piso de mosaico portugués"
+   },
+   {
+    "image": "imágenes/ims-paulista-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Biblioteca_do_Instituto_Moreira_Salles.jpg",
+    "attribution": "Fotografía: Wecomabimt, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Zona de lectura junto a la escalera de vidrio, cerca de la biblioteca del IMS"
+   },
+   {
+    "image": "imágenes/ims-paulista-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Paulista_vista_do_Instituto_Moreira_Salles.jpg",
+    "attribution": "Fotografía: Wecomabimt, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Vista de la Avenida Paulista desde una de las plantas del IMS"
+   }
+  ]
+ },
+ "japan-house": {
+  "name": "Japan House",
+  "website": "https://www.japanhouse.jp/saopaulo/",
+  "images": [
+   {
+    "image": "imágenes/japan-house-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Japan_House_(4).jpg",
+    "attribution": "Fotografía: Rodrigo Tetsuo Argenton, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Fachada de listones de madera de Japan House São Paulo iluminada de noche"
+   },
+   {
+    "image": "imágenes/japan-house-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Japan_House_São_Paulo_2018_07.jpg",
+    "attribution": "Fotografía: Mike Peel, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Sala interior de Japan House con mesa larga y mampara de panal dorado"
+   },
+   {
+    "image": "imágenes/japan-house-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Japan_House_São_Paulo_2018_05.jpg",
+    "attribution": "Fotografía: Mike Peel, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Pared de pizarra de la muestra 'Aromas e sabores' dentro de Japan House"
+   }
+  ]
+ },
+ "itau-cultural": {
+  "name": "Itaú Cultural",
+  "website": "https://www.itaucultural.org.br",
+  "images": [
+   {
+    "image": "imágenes/itau-cultural-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Itaú_Cultural,_Avenida_Paulista,_Brazil.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (dominio público).",
+    "alt": "Escalera helicoidal blanca del Itaú Cultural rodeada de láminas de flora y fauna"
+   },
+   {
+    "image": "imágenes/itau-cultural-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrada_Itaú_Cultural.jpg",
+    "attribution": "Fotografía: Isabella Gueller, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Escalinata y entrada del Itaú Cultural sobre la Avenida Paulista, número 149"
+   },
+   {
+    "image": "imágenes/itau-cultural-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Itaú_Cultural_Acervo.jpg",
+    "attribution": "Fotografía: Isabella Gueller, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Sala de exposición con láminas históricas de Río de Janeiro dentro del Itaú Cultural"
+   }
+  ]
+ },
+ "feira-do-bixiga": {
+  "name": "Feira do Bixiga",
+  "website": null,
+  "images": [
+   {
+    "image": "imágenes/feira-do-bixiga-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Praça_Dom_Orione_-_Bixiga_(6905685373).jpg",
+    "attribution": "Fotografía: Rafael Vianna Croffi, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Quiosco de la Praça Dom Orione rodeado de toldos de la feria de antigüedades del Bixiga"
+   },
+   {
+    "image": "imágenes/feira-do-bixiga-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_de_antiguidades_-_Bixiga_(6910658219).jpg",
+    "attribution": "Fotografía: Rafael Vianna Croffi, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Puesto de la feria con mesa repleta de cámaras y lentes antiguos"
+   }
+  ]
+ },
+ "beco-do-batman": {
+  "name": "Beco do Batman",
+  "website": null,
+  "images": [
+   {
+    "image": "imágenes/beco-do-batman-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Beco_do_Batman_-_Vila-Madalena,_São_Paulo_-_SP_07.jpg",
+    "attribution": "Fotografía: Diego Bravo (Somente Coisas Legais), Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Callejón empedrado con muros cubiertos de grafitis y una buganvilla florecida"
+   },
+   {
+    "image": "imágenes/beco-do-batman-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Beco_do_Batman_2.jpg",
+    "attribution": "Fotografía: Eugenio Hansen, OFS, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Mural callejero a lo largo del muro del Beco do Batman, con una alfombra pintada y basura ilustrada"
+   },
+   {
+    "image": "imágenes/beco-do-batman-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Beco_do_Batman_8.jpg",
+    "attribution": "Fotografía: Eugenio Hansen, OFS, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Detalle de un mural de colibríes y un atardecer sobre el mar"
+   }
+  ]
+ },
+ "feira-benedito-calixto": {
+  "name": "Feira Benedito Calixto",
+  "website": null,
+  "images": [
+   {
+    "image": "imágenes/feira-benedito-calixto-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_Benedito_Calixto_01.jpg",
+    "attribution": "Fotografía: Arcstur, Wikimedia Commons (CC BY 4.0).",
+    "alt": "Fila de toldos de la feria con el cartel 'Feira Benedito Calixto' junto a la calle"
+   },
+   {
+    "image": "imágenes/feira-benedito-calixto-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_Benedito_Calixto_03.jpg",
+    "attribution": "Fotografía: Arcstur, Wikimedia Commons (CC BY 4.0).",
+    "alt": "Vista desde arriba de la feria llena de gente bajo los árboles de la plaza"
+   },
+   {
+    "image": "imágenes/feira-benedito-calixto-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Handicrafts_of_the_Benedito_Calixto_Fair_in_São_Paulo.jpg",
+    "attribution": "Fotografía: AmandaLemosNeuroMat, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Cajas y baúles de artesanía en un puesto de la feria"
+   }
+  ]
+ },
+ "praca-do-por-do-sol": {
+  "name": "Praça do Pôr do Sol",
+  "website": null,
+  "images": [
+   {
+    "image": "imágenes/praca-do-por-do-sol-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Praca_Por_Do_Sol,_Sao_Paulo.jpg",
+    "attribution": "Fotografía: Slyronit, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Atardecer sobre el skyline de São Paulo desde el mirador de la plaza"
+   },
+   {
+    "image": "imágenes/praca-do-por-do-sol-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Praça_Pôr_do_Sol_Pinheiros,_São_Paulo,_Brazil_2_with_people_com_pessoas.jpg",
+    "attribution": "Fotografía: Tet, Wikimedia Commons (CC0).",
+    "alt": "Gente sentada en el césped viendo el ocaso entre las siluetas de los árboles"
+   },
+   {
+    "image": "imágenes/praca-do-por-do-sol-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Praça_do_Pôr_do_Sol_1.JPG",
+    "attribution": "Fotografía: Dornicke, Wikimedia Commons (dominio público).",
+    "alt": "Vista diurna de la plaza con jardines en pendiente y edificios al fondo"
+   }
+  ]
+ },
+ "feira-da-liberdade": {
+  "name": "Feira da Liberdade",
+  "website": null,
+  "images": [
+   {
+    "image": "imágenes/feira-da-liberdade-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_da_liberdade_são_paulo_rua.jpg",
+    "attribution": "Fotografía: Vitor Leite, Wikimedia Commons (CC BY-SA 3.0).",
+    "alt": "Multitud recorriendo la calle de la feria entre puestos con toldos rojos y blancos"
+   },
+   {
+    "image": "imágenes/feira-da-liberdade-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_da_liberdade_são_paulo_barraca.jpg",
+    "attribution": "Fotografía: Vitor Leite, Wikimedia Commons (CC BY-SA 3.0).",
+    "alt": "Vitrina de un puesto con brochetas, bolinhos y tempurá de camarón"
+   },
+   {
+    "image": "imágenes/feira-da-liberdade-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_da_liberdade_são_paulo_doce_japonês.jpg",
+    "attribution": "Fotografía: Vitor Leite, Wikimedia Commons (CC BY-SA 3.0).",
+    "alt": "Vendedor preparando dulces japoneses a la plancha en un puesto de la feria"
+   }
+  ]
+ },
+ "parque-ibirapuera-y-marquise": {
+  "name": "Parque Ibirapuera y Marquise",
+  "website": "https://ibirapuera.org",
+  "images": [
+   {
+    "image": "imágenes/parque-ibirapuera-y-marquise-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Marquise_do_Ibirapuera_01.JPG",
+    "attribution": "Fotografía: Dornicke, Wikimedia Commons (dominio público).",
+    "alt": "Curva de la Marquise de Niemeyer cubriendo el paseo, con el obelisco al fondo"
+   },
+   {
+    "image": "imágenes/parque-ibirapuera-y-marquise-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Marquise_Parque_do_Ibirapuera_São_Paulo_2019-5942.jpg",
+    "attribution": "Fotografía: Paul R. Burley, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Columnas y losa de hormigón de la Marquise del Parque Ibirapuera"
+   },
+   {
+    "image": "imágenes/parque-ibirapuera-y-marquise-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lake_in_Ibirapuera_Park_with_the_Sao_Paulo_skyline.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+    "alt": "Panorámica del lago del Parque Ibirapuera con los edificios de la ciudad detrás"
+   }
+  ]
+ },
+ "mam-sao-paulo": {
+  "name": "MAM São Paulo",
+  "website": "https://mam.org.br",
+  "images": [
+   {
+    "image": "imágenes/mam-sao-paulo-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ibirapuera_Park,_São_Paulo_2018_020.jpg",
+    "attribution": "Fotografía: Mike Peel, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Exterior del Museu de Arte Moderna entre los árboles del Parque Ibirapuera, con una escultura en primer plano"
+   },
+   {
+    "image": "imágenes/mam-sao-paulo-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_de_Arte_Moderna_de_São_Paulo,_interior.jpg",
+    "attribution": "Fotografía: Sergio Savarese, Wikimedia Commons (CC BY-SA 2.0).",
+    "alt": "Sala interior del MAM con muro de hormigón y piso de madera"
+   },
+   {
+    "image": "imágenes/mam-sao-paulo-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_de_Arte_Moderna,_São_Paulo_-_Fachada.jpg",
+    "attribution": "Fotografía: Dornicke, Wikimedia Commons (dominio público).",
+    "alt": "Fachada curva de vidrio del MAM con una escultura roja en el jardín"
+   }
+  ]
+ },
+ "museu-afro-brasil": {
+  "name": "Museu Afro Brasil",
+  "website": "https://museuafrobrasil.org.br",
+  "images": [
+   {
+    "image": "imágenes/museu-afro-brasil-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Facade_of_Museu_Afro_Brasil.jpg",
+    "attribution": "Fotografía: Slyronit, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Fachada blanca del Museu Afro Brasil con su rótulo, vista desde la explanada del Ibirapuera"
+   },
+   {
+    "image": "imágenes/museu-afro-brasil-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_Afro_Brasil,_São_Paulo_01.jpg",
+    "attribution": "Fotografía: Joalpe, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Sala de la Biblioteca Carolina Maria de Jesus dentro del museo, con mesas de lectura y paneles de retratos"
+   },
+   {
+    "image": "imágenes/museu-afro-brasil-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Outside_Museu_Afro_Brasil.jpg",
+    "attribution": "Fotografía: Slyronit, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Galería exterior del museo con puntales diagonales de Niemeyer y árboles del parque"
+   }
+  ]
+ }
+}

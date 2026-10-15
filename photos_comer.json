@@ -1,0 +1,213 @@
+{
+  "mocoto": {
+    "name": "Mocotó",
+    "website": "https://mocoto.com.br",
+    "images": [
+      {
+        "image": "imágenes/mocoto-1.jpg",
+        "source": "https://mocoto.com.br/wp-content/uploads/2018/06/ambiente9.jpg",
+        "attribution": "Fotografía: Mocotó, vía su sitio web oficial.",
+        "alt": "Salón del restaurante Mocotó con paredes de azulejos verdes y comensales en las mesas (casa original de Vila Medeiros)"
+      },
+      {
+        "image": "imágenes/mocoto-2.jpg",
+        "source": "https://mocoto.com.br/wp-content/uploads/2018/04/fachada01.jpg",
+        "attribution": "Fotografía: Mocotó, vía su sitio web oficial.",
+        "alt": "Fachada nocturna del restaurante Mocotó con toldos verdes (casa original de Vila Medeiros)"
+      },
+      {
+        "image": "imágenes/mocoto-3.jpg",
+        "source": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos11.jpg",
+        "attribution": "Fotografía: Mocotó, vía su sitio web oficial.",
+        "alt": "Moqueca de pescado con arroz y farofa servida en cazuelas de hierro"
+      }
+    ]
+  },
+  "bar-da-dona-onca": {
+    "name": "Bar da Dona Onça",
+    "website": "https://bardadonaonca.com.br",
+    "images": [
+      {
+        "image": "imágenes/bar-da-dona-onca-1.jpg",
+        "source": "https://bardadonaonca.com.br/wordpress/wp-content/uploads/2018/12/bar_7.jpg",
+        "attribution": "Fotografía: Bar da Dona Onça, vía su sitio web oficial.",
+        "alt": "Barra iluminada y pizarras con el menú dibujado a tiza en el Bar da Dona Onça, con un jaguar decorativo"
+      },
+      {
+        "image": "imágenes/bar-da-dona-onca-2.jpg",
+        "source": "https://bardadonaonca.com.br/wordpress/wp-content/uploads/2018/12/Galinhada_2.jpg",
+        "attribution": "Fotografía: Bar da Dona Onça, vía su sitio web oficial.",
+        "alt": "Galinhada, arroz con pollo y quiabo coronado con yema de huevo"
+      },
+      {
+        "image": "imágenes/bar-da-dona-onca-3.jpg",
+        "source": "https://bardadonaonca.com.br/wordpress/wp-content/uploads/2018/12/Copan_1.jpg",
+        "attribution": "Fotografía: Bar da Dona Onça, vía su sitio web oficial.",
+        "alt": "Fachada curva del edificio Copan, donde está el Bar da Dona Onça, con el cartel del edificio"
+      }
+    ]
+  },
+  "jiquitaia": {
+    "name": "Jiquitaia",
+    "website": "https://jiquitaia.com.br",
+    "images": [
+      {
+        "image": "imágenes/jiquitaia-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:O_Jiquitaia_é_desses_restaurantes_de_ambientação_(28435839084).jpg",
+        "attribution": "Fotografía: Shoichi Iwashita, Wikimedia Commons (CC BY 2.0).",
+        "alt": "Plato de ñoquis dorados con espinaca, hongos y salsa cremosa servido en el restaurante Jiquitaia"
+      }
+    ]
+  },
+  "komah": {
+    "name": "Komah",
+    "website": "https://komah.com.br",
+    "images": [
+      {
+        "image": "imágenes/komah-1.jpg",
+        "source": "https://komah.com.br/wp-content/uploads/2017/02/komah-restaurante-ambiente.jpg",
+        "attribution": "Fotografía: Komah, vía su sitio web oficial.",
+        "alt": "Salón de Komah con mesas de madera, barra con taburetes metálicos y pared de ladrillo"
+      },
+      {
+        "image": "imágenes/komah-2.jpg",
+        "source": "https://komah.com.br/wp-content/uploads/2023/04/komah-fachada-reflexo-home.jpg",
+        "attribution": "Fotografía: Komah, vía su sitio web oficial.",
+        "alt": "Vista en blanco y negro desde el ventanal de Komah, con mesas dentro y reflejos de la calle"
+      },
+      {
+        "image": "imágenes/komah-3.jpg",
+        "source": "https://komah.com.br/wp-content/uploads/2022/12/komah-ambiente.jpg",
+        "attribution": "Fotografía: Komah, vía su sitio web oficial.",
+        "alt": "Comensales conversando junto a una pared de ladrillo con cuadros en el salón de Komah"
+      }
+    ]
+  },
+  "aizome": {
+    "name": "Aizomê",
+    "website": "https://www.aizome.com.br/site/",
+    "images": [
+      {
+        "image": "imágenes/aizome-1.jpg",
+        "source": "https://www.aizome.com.br/site/wp-content/uploads/2018/07/banner_balcao-1.jpg",
+        "attribution": "Fotografía: Aizomê, vía su sitio web oficial.",
+        "alt": "Barra de madera y estantes iluminados del restaurante Aizomê, con un cocinero al fondo"
+      },
+      {
+        "image": "imágenes/aizome-2.jpg",
+        "source": "https://www.aizome.com.br/site/wp-content/uploads/2014/01/Foto_1.jpg",
+        "attribution": "Fotografía: Aizomê, vía su sitio web oficial.",
+        "alt": "Plato de sashimi variado con pulpo y wasabi servido en cerámica"
+      },
+      {
+        "image": "imágenes/aizome-3.jpg",
+        "source": "https://www.aizome.com.br/site/wp-content/uploads/2014/01/Foto_2.jpg",
+        "attribution": "Fotografía: Aizomê, vía su sitio web oficial.",
+        "alt": "Cazuela japonesa con tofu, shiitake, verduras y langostino"
+      }
+    ]
+  },
+  "corrutela": {
+    "name": "Corrutela",
+    "website": "https://corrutela.com.br",
+    "images": []
+  },
+  "kotori": {
+    "name": "Kotori",
+    "website": "https://www.tantan.com.br/kotori",
+    "images": [
+      {
+        "image": "imágenes/kotori-1.jpg",
+        "source": "https://static.wixstatic.com/media/86bb2a_44c7be2ccbbc4987a936f1cf7882db74~mv2.jpg",
+        "attribution": "Fotografía: Kotori, vía su sitio web oficial.",
+        "alt": "Salón de Kotori con techo de listones de madera, mesas y cocina abierta al fondo"
+      },
+      {
+        "image": "imágenes/kotori-2.jpg",
+        "source": "https://static.wixstatic.com/media/86bb2a_8f51c3ef401b4c4eaf0789bd17d49d60~mv2.jpg",
+        "attribution": "Fotografía: Kotori, vía su sitio web oficial.",
+        "alt": "Larga barra de madera con taburetes tapizados en el interior de Kotori"
+      },
+      {
+        "image": "imágenes/kotori-3.jpg",
+        "source": "https://static.wixstatic.com/media/86bb2a_f0d6f95270ed4848aa32058b63850755~mv2.jpg",
+        "attribution": "Fotografía: Kotori, vía su sitio web oficial.",
+        "alt": "Manos sirviendo un plato de hongos salteados sobre la barra de acero de Kotori"
+      }
+    ]
+  },
+  "baru-marisqueria": {
+    "name": "Barú Marisquería",
+    "website": "https://www.barumarisqueria.com",
+    "images": [
+      {
+        "image": "imágenes/baru-marisqueria-1.jpg",
+        "source": "http://www.barumarisqueria.com/wp-content/uploads/2018/03/baru-salao.jpg",
+        "attribution": "Fotografía: Barú Marisquería, vía su sitio web oficial.",
+        "alt": "Salón de Barú Marisquería con mesas turquesa, barra revestida de azulejos y cocina a la vista"
+      },
+      {
+        "image": "imágenes/baru-marisqueria-2.jpg",
+        "source": "http://www.barumarisqueria.com/wp-content/uploads/2018/03/baru-peixe-cru.jpg",
+        "attribution": "Fotografía: Barú Marisquería, vía su sitio web oficial.",
+        "alt": "Un pescado entero sostenido frente a la barra de azulejos en forma de escamas de Barú, con la cocina al fondo"
+      },
+      {
+        "image": "imágenes/baru-marisqueria-3.jpg",
+        "source": "http://www.barumarisqueria.com/wp-content/uploads/2018/03/baru-polvo.jpg",
+        "attribution": "Fotografía: Barú Marisquería, vía su sitio web oficial.",
+        "alt": "Cocinero con delantal de Barú sosteniendo un pulpo entero"
+      }
+    ]
+  },
+  "sororoca-bar": {
+    "name": "Sororoca Bar",
+    "website": "https://www.sororoca.com.br",
+    "images": []
+  },
+  "cuia": {
+    "name": "Cuia",
+    "website": "https://belcoelho.com.br",
+    "images": []
+  },
+  "a-casa-do-porco": {
+    "name": "A Casa do Porco",
+    "website": "https://acasadoporco.com.br",
+    "images": []
+  },
+  "hot-pork": {
+    "name": "Hot Pork",
+    "website": null,
+    "images": []
+  },
+  "cora": {
+    "name": "Cora",
+    "website": null,
+    "images": []
+  },
+  "ping-yang-thai": {
+    "name": "Ping Yang Thai",
+    "website": null,
+    "images": []
+  },
+  "martin-fierro": {
+    "name": "Martín Fierro",
+    "website": null,
+    "images": []
+  },
+  "chimichurri-parrilla": {
+    "name": "Chimichurri Parrilla",
+    "website": null,
+    "images": []
+  },
+  "izakaya-issa": {
+    "name": "Izakaya Issa",
+    "website": null,
+    "images": []
+  },
+  "tenda-do-nilo": {
+    "name": "Tenda do Nilo",
+    "website": null,
+    "images": []
+  }
+}

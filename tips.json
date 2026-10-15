@@ -1,0 +1,80 @@
+{
+ "how": [
+  {
+   "zone": "Vila Buarque / Santa Cecília / República / Centro",
+   "text": "casi todo queda a pie, a 5-20 minutos. Para la Luz (Pinacoteca y Museu da Língua) tomen el metro en Santa Cecília (Línea 3) o en República. De noche, aunque sean 3 o 4 cuadras, pidan Uber o 99 si van hacia la Luz o Santa Ifigênia."
+  },
+  {
+   "zone": "Higienópolis / Consolação / Av. Paulista (incluye Bixiga y Cerqueira César)",
+   "text": "a Higienópolis y Consolação se llega a pie en 10-20 minutos. A la Paulista, tomen el metro en Higienópolis-Mackenzie (Línea 4 Amarela) hasta Paulista/Consolação: son unos 15 minutos de puerta a puerta. El Bixiga (Bela Vista) está a 10 minutos en Uber."
+  },
+  {
+   "zone": "Pinheiros / Vila Madalena",
+   "text": "desde Higienópolis-Mackenzie, la Línea 4 Amarela lleva directo a Fradique Coutinho o Faria Lima en unos 15-20 minutos. Para Vila Madalena bajen en Fradique Coutinho y caminen unos 10 minutos. En Uber son 15-25 minutos. Es la zona más parecida a Barrio Italia con Lastarria: varias noches pueden salir de bar en bar a pie."
+  },
+  {
+   "zone": "Otros sectores que valen el traslado",
+   "text": "Tiempos aproximados desde Vila Buarque.",
+   "items": [
+    "Barra Funda / Água Branca / Perdizes: 10-15 min en Uber, o Línea 3 hasta Palmeiras-Barra Funda.",
+    "Liberdade / Bom Retiro: 15-20 min en metro (Línea 3 hasta Sé y Línea 1 hasta Liberdade) o 10 min en Uber.",
+    "Paraíso / Vila Mariana / Ibirapuera: 20-25 min (Línea 4 hasta Paulista y Línea 2 hasta Paraíso) o 15-25 min en Uber.",
+    "Itaim / Moema: 20-30 min en Uber.",
+    "Zona norte (Limão, Vila Medeiros): 30-45 min en Uber. Solo si tienen tiempo de sobra."
+   ]
+  }
+ ],
+ "days": {
+  "title": "Días que conviene tener en cuenta en octubre",
+  "items": [
+   "Lunes: cierran casi todos los museos (MASP, IMS, Japan House, Farol Santander, Museu da Língua) y varios restaurantes.",
+   "Martes: el MASP es gratis, con reserva. La Pinacoteca cierra.",
+   "Sábados (10, 17, 24 y 31): terraza del Copan, feria Benedito Calixto y Pinacoteca gratis.",
+   "Domingos (11, 18 y 25): Av. Paulista sin autos, Minhocão abierto a peatones y ferias del MASP, del Bixiga y de Liberdade. El domingo 11 la Pinacoteca también es gratis.",
+   "Domingo 25: segunda vuelta presidencial, con votación de 8 a 17 h. En São Paulo no hay ley seca. El Museu da Língua cierra ese día y es el mismo día de Iron Maiden en el Allianz, así que esperen tráfico.",
+   "Del 15 al 29: Mostra Internacional de Cinema, con 380 películas en 57 salas."
+  ]
+ },
+ "top10": [
+  "Coda Bar: su referencia, a 5 minutos a pie. Vayan un viernes con música en vivo.",
+  "Holy Burger: la n.º 2 del mundo en Burgerdudes, en su barrio.",
+  "Ruta craft por Vila Buarque: Cervejaria Central, Aconchegante y Dogma, todo a pie.",
+  "Copan: la terraza el sábado por la tarde y después Cuia o Dona Onça en la planta baja.",
+  "Noche en Vila Madalena y Pinheiros: Beco do Batman al atardecer, después Croma y Hocus Pocus, y cerrar en Picles o Bar Alto.",
+  "Un show en Cine Joia: Kneecap el 23-oct o Dead Moon Night el 31-oct.",
+  "Domingo en la Paulista sin autos: MASP (con reserva), IMS y Japan House.",
+  "A Casa do Porco: la mesa más famosa del centro.",
+  "Galeria do Rock y Mercadão: vinilos por la mañana y sándwich de mortadela al mediodía.",
+  "Liberdade el fin de semana: la feria y luego Izakaya Issa."
+ ],
+ "reservas": [
+  "Terraza del Copan: solo sábados, grupos de 8. Reserven en edificiocopan.com.br.",
+  "MASP: la reserva online es obligatoria siempre, también los días gratis.",
+  "Entradas de shows: Kneecap (23-oct), Dead Moon Night (31-oct), TR/ST (1-nov) y M.I.A. (2-nov, en Eventim).",
+  "Mostra de Cinema: las entradas sueltas salen 4 días antes de cada función.",
+  "Mirador del Terraço Itália: reserva online, entrada de 17 a 19.",
+  "Cora, A Casa do Porco y Cuia: si quieren ir viernes o sábado.",
+  "Mocotó: por getin.",
+  "Sala São Paulo: las entradas gratis salen el jueves a las 12 en Fever y se agotan.",
+  "Coda Bar viernes o sábado: por WhatsApp, 11 99140-0667.",
+  "Bar Moela: escriban a @barmoela para confirmar que sigue abierto."
+ ],
+ "seguridad": {
+  "intro": "La regla principal: después de las 22 h, para volver al alojamiento usen Uber o 99, aunque sean pocas cuadras. Son consejos generales de viaje y no salen de fuentes verificadas en esta investigación.",
+  "items": [
+   "Centro de noche. Vila Buarque, Santa Cecília y República se pueden caminar de día. De noche eviten los tramos vacíos hacia la Luz, Santa Ifigênia y la zona de Cracolândia. Para Bar Léo, Mercadão o Pinacoteca, vayan de día o en auto.",
+   "El celular es el blanco número uno. No lo usen en la vereda junto a la calle, porque hay robos desde moto y bicicleta. Para pedir el Uber, entren a un local o párense junto a la pared.",
+   "Metro. Funciona desde las 4:40 hasta cerca de la medianoche (confirmen el horario del sábado). Es seguro y muy práctico de día. Para volver de Vila Madalena o Pinheiros de madrugada, usen auto.",
+   "Esperen dentro del bar. Pidan el auto desde la mesa y salgan cuando llegue. Confirmen la patente y el nombre del conductor.",
+   "Lugares con mucha gente. En la Paulista los domingos, la Feira da Liberdade, el Mercadão y el Beco do Batman lleven la mochila adelante y poco efectivo.",
+   "Lluvias de primavera. Las tormentas suelen ser por la tarde y disparan la tarifa dinámica de Uber. Si llueve, anticipen la salida o esperen 20-30 minutos.",
+   "Domingo 25-oct. Segunda vuelta electoral e Iron Maiden en el Allianz. Esperen tráfico pesado en la zona oeste."
+  ]
+ },
+ "legend": [
+  "TENDENCIA / CLÁSICO: si el lugar está de moda ahora o es una referencia histórica.",
+  "Sin confirmar 2026: no se encontró cierre, pero tampoco una fuente reciente. Confirmen en el Instagram del lugar antes de ir.",
+  "Precio por persona (estimado): R$ barato, R$$ medio, R$$$ caro.",
+  "Reserva: \"Sí\" significa que hay que reservar. \"Recomendable\" se refiere a viernes y sábado. \"No\" es por orden de llegada."
+ ]
+}

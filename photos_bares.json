@@ -1,0 +1,258 @@
+{
+  "coda-bar": {
+    "name": "Coda Bar",
+    "website": null,
+    "images": []
+  },
+  "bar-moela": {
+    "name": "Bar Moela",
+    "website": null,
+    "images": []
+  },
+  "cervejaria-central": {
+    "name": "Cervejaria Central",
+    "website": "https://cervejariacentral.com",
+    "images": [
+      {
+        "image": "imágenes/cervejaria-central-1.jpg",
+        "source": "https://cervejariacentral.com/",
+        "attribution": "Fotografía: Cervejaria Central, vía su sitio web oficial.",
+        "alt": "Botella de la stout imperial Lombriz junto a una copa con cerveza oscura, con la marca de Cervejaria Central"
+      }
+    ]
+  },
+  "dogma-tap-room": {
+    "name": "Dogma Tap Room",
+    "website": "https://cervejariadogma.com.br",
+    "images": [
+      {
+        "image": "imágenes/dogma-tap-room-1.jpg",
+        "source": "https://cervejariadogma.com.br/pages/todos-tasting-room",
+        "attribution": "Fotografía: Cervejaria Dogma, vía su sitio web oficial.",
+        "alt": "Barra con grifos de cerveza y clientes sentados en el tasting room de Dogma en Santa Cecília"
+      },
+      {
+        "image": "imágenes/dogma-tap-room-2.jpg",
+        "source": "https://cervejariadogma.com.br/pages/tasting-room-santa-cecilia",
+        "attribution": "Fotografía: Cervejaria Dogma, vía su sitio web oficial.",
+        "alt": "Mural del ojo con lúpulo en la pared del tasting room de Dogma en Santa Cecília"
+      }
+    ]
+  },
+  "aconchegante-bar": {
+    "name": "Aconchegante Bar",
+    "website": null,
+    "images": []
+  },
+  "matiz": {
+    "name": "Matiz",
+    "website": "https://barmatiz.com",
+    "images": [
+      {
+        "image": "imágenes/matiz-1.jpg",
+        "source": "https://barmatiz.com/wp-content/uploads/2024/02/Tela-Matiz.jpg",
+        "attribution": "Fotografía: Matiz, vía su sitio web oficial.",
+        "alt": "Cócteles de colores servidos en bolsas transparentes con la marca Matiz sobre la barra"
+      }
+    ]
+  },
+  "formosa-hi-fi": {
+    "name": "Formosa Hi-Fi",
+    "website": "https://formosahifi.com",
+    "images": []
+  },
+  "bar-leo": {
+    "name": "Bar Léo",
+    "website": null,
+    "images": [
+      {
+        "image": "imágenes/bar-leo-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Bar_Léo_(6023731827).jpg",
+        "attribution": "Fotografía: Cesar Cardoso, Wikimedia Commons (CC BY 2.0).",
+        "alt": "Interior del Bar Léo con su letrero, jarras de cerveza y botellas sobre la barra de madera"
+      }
+    ]
+  },
+  "bar-brahma": {
+    "name": "Bar Brahma",
+    "website": null,
+    "images": [
+      {
+        "image": "imágenes/bar-brahma-1.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Bar_Brahma_(9327045193).jpg",
+        "attribution": "Fotografía: Carlos Varela, Wikimedia Commons (CC BY 2.0).",
+        "alt": "Música en vivo en la terraza del Bar Brahma por la noche, con faroles y una calle al fondo"
+      },
+      {
+        "image": "imágenes/bar-brahma-2.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Bar_Brahma_1.JPG",
+        "attribution": "Fotografía: Dornicke, Wikimedia Commons (CC BY-SA 3.0).",
+        "alt": "Fachada del Bar Brahma en la esquina de las avenidas Ipiranga y São João"
+      },
+      {
+        "image": "imágenes/bar-brahma-3.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Bar_Brahma_(9327009785).jpg",
+        "attribution": "Fotografía: Carlos Varela, Wikimedia Commons (CC BY 2.0).",
+        "alt": "Músico con sombrero tocando el bombardino durante una presentación en el Bar Brahma"
+      }
+    ]
+  },
+  "tap-tap": {
+    "name": "Tap Tap",
+    "website": null,
+    "images": []
+  },
+  "trilha-fermentaria": {
+    "name": "Trilha Fermentaria",
+    "website": "https://www.trilhacervejaria.com.br",
+    "images": []
+  },
+  "elevado-conselheiro": {
+    "name": "Elevado Conselheiro",
+    "website": null,
+    "images": []
+  },
+  "croma-beer-co": {
+    "name": "Croma Beer Co.",
+    "website": "https://www.cromabeer.com.br",
+    "images": [
+      {
+        "image": "imágenes/croma-beer-co-1.jpg",
+        "source": "https://www.cromabeer.com.br/brew-pub",
+        "attribution": "Fotografía: Croma Beer Co., vía su sitio web oficial.",
+        "alt": "Salón del brewpub Croma con mesas de madera, paredes de ladrillo y la barra con las llaves de cerveza al fondo"
+      },
+      {
+        "image": "imágenes/croma-beer-co-2.jpg",
+        "source": "https://www.cromabeer.com.br/brew-pub",
+        "attribution": "Fotografía: Croma Beer Co., vía su sitio web oficial.",
+        "alt": "Clientes en la barra del brewpub Croma, visto desde arriba"
+      },
+      {
+        "image": "imágenes/croma-beer-co-3.jpg",
+        "source": "https://www.cromabeer.com.br/brew-pub",
+        "attribution": "Fotografía: Croma Beer Co., vía su sitio web oficial.",
+        "alt": "Empleado de Croma con una selección de cuatro cervezas en distintos vasos sobre la barra"
+      }
+    ]
+  },
+  "hocus-pocus": {
+    "name": "Hocus Pocus",
+    "website": null,
+    "images": []
+  },
+  "tank-brewpub": {
+    "name": "Tank Brewpub",
+    "website": null,
+    "images": []
+  },
+  "cervejaria-nacional": {
+    "name": "Cervejaria Nacional",
+    "website": "https://www.cervejarianacional.com.br",
+    "images": [
+      {
+        "image": "imágenes/cervejaria-nacional-1.jpg",
+        "source": "https://www.cervejarianacional.com.br/assets/images/eventos.jpg",
+        "attribution": "Fotografía: Cervejaria Nacional, vía su sitio web oficial.",
+        "alt": "Salón de la Cervejaria Nacional con mesas y sillas de madera, paredes de ladrillo y la cocina al fondo"
+      },
+      {
+        "image": "imágenes/cervejaria-nacional-2.jpg",
+        "source": "https://www.cervejarianacional.com.br/assets/images/cervejaria-premiacoes.jpg",
+        "attribution": "Fotografía: Cervejaria Nacional, vía su sitio web oficial.",
+        "alt": "Tanques de acero inoxidable de la fábrica de cerveza dentro de la Cervejaria Nacional"
+      },
+      {
+        "image": "imágenes/cervejaria-nacional-3.jpg",
+        "source": "https://www.cervejarianacional.com.br/assets/images/eventos.jpg",
+        "attribution": "Fotografía: Cervejaria Nacional, vía su sitio web oficial.",
+        "alt": "Vaso de cerveza con el logo de la Cervejaria Nacional junto a una tabla de queso coalho"
+      }
+    ]
+  },
+  "eap": {
+    "name": "EAP",
+    "website": null,
+    "images": []
+  },
+  "trinca-bar-vermuteria": {
+    "name": "Trinca Bar & Vermuteria",
+    "website": null,
+    "images": []
+  },
+  "piraja": {
+    "name": "Pirajá",
+    "website": "https://piraja.com.br",
+    "images": [
+      {
+        "image": "imágenes/piraja-1.jpg",
+        "source": "https://piraja.com.br/wp-content/uploads/2024/07/Piraja-Faria-Lima-4-scaled.jpg",
+        "attribution": "Fotografía: Pirajá, vía su sitio web oficial.",
+        "alt": "Fachada esquinera del Pirajá de Faria Lima con mesas y sillas en la vereda bajo los árboles"
+      }
+    ]
+  },
+  "cervejaria-central-2-a-sede": {
+    "name": "Cervejaria Central (2.ª sede)",
+    "website": "https://cervejariacentral.com",
+    "images": []
+  },
+  "bar-original-camara-fria": {
+    "name": "Bar Original / Câmara Fria",
+    "website": "https://baroriginal.com.br",
+    "images": [
+      {
+        "image": "imágenes/bar-original-camara-fria-1.jpg",
+        "source": "https://baroriginal.com.br/wp-content/uploads/2024/11/Original-1-scaled-e1738093540847.jpg",
+        "attribution": "Fotografía: Bar Original, vía su sitio web oficial.",
+        "alt": "Fachada verde del Bar Original con su letrero y la pizarra que anuncia el chope tradicional"
+      },
+      {
+        "image": "imágenes/bar-original-camara-fria-2.jpg",
+        "source": "https://baroriginal.com.br/wp-content/uploads/2025/01/Reserva_Original.jpg",
+        "attribution": "Fotografía: Bar Original, vía su sitio web oficial.",
+        "alt": "Clientes comiendo dentro del Bar Original, vistos a través del ventanal junto a la pizarra del menú"
+      },
+      {
+        "image": "imágenes/bar-original-camara-fria-3.jpg",
+        "source": "https://camarafriabar.com.br/wp-content/uploads/2024/12/1B0A0166-scaled.jpg",
+        "attribution": "Fotografía: Câmara Fria Bar, vía su sitio web oficial.",
+        "alt": "Tabla de degustación con cinco vasos de cerveza sobre una mesa de madera en Câmara Fria"
+      }
+    ]
+  },
+  "eximia": {
+    "name": "Exímia",
+    "website": null,
+    "images": []
+  },
+  "a-juriti": {
+    "name": "A Juriti",
+    "website": null,
+    "images": []
+  },
+  "tarantino-cervejaria": {
+    "name": "Tarantino Cervejaria",
+    "website": "https://tarantinocervejaria.com.br",
+    "images": [
+      {
+        "image": "imágenes/tarantino-cervejaria-1.jpg",
+        "source": "https://tarantinocervejaria.com.br/wp-content/uploads/2026/08/JVR7014-scaled.jpg",
+        "attribution": "Fotografía: Tarantino Cervejaria, vía su sitio web oficial.",
+        "alt": "Mano sosteniendo una copa de cerveza con el logo de Tarantino frente a los tanques de la fábrica"
+      },
+      {
+        "image": "imágenes/tarantino-cervejaria-2.jpg",
+        "source": "https://eventos.tarantinocervejaria.com.br/wp-content/uploads/2026/09/banner-area-externa-festa.png",
+        "attribution": "Fotografía: Tarantino Cervejaria, vía su sitio web oficial.",
+        "alt": "Concierto con escenario iluminado y público en el patio exterior de la fábrica de Tarantino"
+      },
+      {
+        "image": "imágenes/tarantino-cervejaria-3.jpg",
+        "source": "https://eventos.tarantinocervejaria.com.br/wp-content/uploads/2026/09/banner-area-externa.png",
+        "attribution": "Fotografía: Tarantino Cervejaria, vía su sitio web oficial.",
+        "alt": "Área externa de Tarantino con mesas altas, taburetes y murales de grafiti durante el día"
+      }
+    ]
+  }
+}

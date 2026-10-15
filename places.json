@@ -1,0 +1,2701 @@
+[
+ {
+  "name": "A Casa do Porco",
+  "category": "comer",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "El restaurante más famoso del centro, Bib Gourmand 2026",
+  "what_label": "Qué pedir",
+  "what": "Menú degustación de cerdo, sushi de papada. Ventanilla de sándwich para llevar",
+  "price": "R$$ (R$140-240)",
+  "reserve": "Sí, o fila",
+  "address": "R. Araújo 124",
+  "lat": -23.544864,
+  "lng": -46.64477,
+  "approx_location": false,
+  "images": [],
+  "slug": "a-casa-do-porco",
+  "website": "https://acasadoporco.com.br"
+ },
+ {
+  "name": "Cora",
+  "category": "comer",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "En su mismo barrio, Bib Gourmand 2026",
+  "what_label": "Qué pedir",
+  "what": "Corazones de pato a la parrilla, calamar frito, vinos brasileños",
+  "price": "R$$$",
+  "reserve": "Sí (getin, 11 3231-4561). Lunes cerrado",
+  "address": "R. Amaral Gurgel 344, 6.º piso",
+  "lat": -23.544889,
+  "lng": -46.647994,
+  "approx_location": false,
+  "images": [],
+  "slug": "cora"
+ },
+ {
+  "name": "Cuia",
+  "category": "comer",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Cocina brasileña creativa, con librería y vino natural, en el Copan",
+  "what_label": "Qué pedir",
+  "what": "Tempura de calamar en tapioca, baião de dois. Vino orgánico",
+  "price": "R$$",
+  "reserve": "Sí (+55 11 95981-8555)",
+  "address": "Copan, Av. Ipiranga 200, loja 48",
+  "lat": -23.546556,
+  "lng": -46.644848,
+  "approx_location": false,
+  "images": [],
+  "slug": "cuia",
+  "website": "https://belcoelho.com.br"
+ },
+ {
+  "name": "Bar da Dona Onça",
+  "category": "comer",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Vila Buarque y Centro",
+  "why": "Comida de bar brasileña en el edificio ícono",
+  "what_label": "Qué pedir",
+  "what": "Coxinha, galinhada, caipirinha",
+  "price": "R$$",
+  "reserve": "Recomendable",
+  "address": "Copan, Av. Ipiranga 200",
+  "lat": -23.546556,
+  "lng": -46.644848,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/bar-da-dona-onca-1.jpg",
+    "source": "https://bardadonaonca.com.br/wordpress/wp-content/uploads/2018/12/bar_7.jpg",
+    "attribution": "Fotografía: Bar da Dona Onça, vía su sitio web oficial.",
+    "alt": "Barra iluminada y pizarras con el menú dibujado a tiza en el Bar da Dona Onça, con un jaguar decorativo"
+   },
+   {
+    "src": "imágenes/bar-da-dona-onca-2.jpg",
+    "source": "https://bardadonaonca.com.br/wordpress/wp-content/uploads/2018/12/Galinhada_2.jpg",
+    "attribution": "Fotografía: Bar da Dona Onça, vía su sitio web oficial.",
+    "alt": "Galinhada, arroz con pollo y quiabo coronado con yema de huevo"
+   },
+   {
+    "src": "imágenes/bar-da-dona-onca-3.jpg",
+    "source": "https://bardadonaonca.com.br/wordpress/wp-content/uploads/2018/12/Copan_1.jpg",
+    "attribution": "Fotografía: Bar da Dona Onça, vía su sitio web oficial.",
+    "alt": "Fachada curva del edificio Copan, donde está el Bar da Dona Onça, con el cartel del edificio"
+   }
+  ],
+  "slug": "bar-da-dona-onca",
+  "website": "https://bardadonaonca.com.br"
+ },
+ {
+  "name": "Hot Pork",
+  "category": "comer",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Vila Buarque y Centro",
+  "why": "Comida callejera de los mismos dueños de Casa do Porco",
+  "what_label": "Qué pedir",
+  "what": "Hot dog de cerdo caipira y helado de bacon",
+  "price": "R$",
+  "reserve": "No",
+  "address": "R. Bento Freitas 454",
+  "lat": -23.54595,
+  "lng": -46.645663,
+  "approx_location": false,
+  "images": [],
+  "slug": "hot-pork"
+ },
+ {
+  "name": "Holy Burger",
+  "category": "hamburguesas",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "N.º 2 del mundo en Burgerdudes 2026 y a 5 minutos a pie",
+  "what_label": "Qué pedir",
+  "what": "Las de carne dry aged",
+  "price": "R$",
+  "reserve": "No",
+  "address": "R. Dr. Cesário Mota Jr. 527",
+  "lat": -23.546527,
+  "lng": -46.648908,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/holy-burger-1.jpg",
+    "source": "https://www.holyburger.com.br/assets/thumb-video.jpg",
+    "attribution": "Fotografía: Holy Burger, vía su sitio web oficial.",
+    "alt": "Hamburguesas recién armadas sobre platos blancos en la barra de la cocina"
+   }
+  ],
+  "slug": "holy-burger",
+  "website": "https://www.holyburger.com.br"
+ },
+ {
+  "name": "Z Deli",
+  "category": "hamburguesas",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Vila Buarque y Centro",
+  "why": "Deli estilo Nueva York a pocas cuadras",
+  "what_label": "Qué pedir",
+  "what": "Pastrami, burger Louis",
+  "price": "R$$",
+  "reserve": "No",
+  "address": "R. Bento Freitas 314",
+  "lat": -23.544642,
+  "lng": -46.645622,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/z-deli-1.jpg",
+    "source": "https://zdeli.com.br/images/carroussel1.jpg",
+    "attribution": "Fotografía: Z Deli, vía su sitio web oficial.",
+    "alt": "Sándwich de pastrami en pan de centeno con una bebida cítrica"
+   },
+   {
+    "src": "imágenes/z-deli-2.jpg",
+    "source": "https://zdeli.com.br/images/centroIab.jpg",
+    "attribution": "Fotografía: Z Deli, vía su sitio web oficial.",
+    "alt": "Salón del Z Deli del Centro, con mesas y barra junto a los ventanales"
+   },
+   {
+    "src": "imágenes/z-deli-3.jpg",
+    "source": "https://zdeli.com.br/images/carroussel3.jpg",
+    "attribution": "Fotografía: Z Deli, vía su sitio web oficial.",
+    "alt": "Hot dog a la plancha con pepinillos y un vaso de refresco sobre la mesa"
+   }
+  ],
+  "slug": "z-deli",
+  "website": "https://zdeli.com.br"
+ },
+ {
+  "name": "Coda Bar",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Su referencia. Veja lo eligió Bar Revelação 2026",
+  "what_label": "Qué pedir",
+  "what": "Negroni Floral. Música en vivo",
+  "price": "R$$",
+  "reserve": "Recomendable vie y sáb (WhatsApp 11 99140-0667). Lunes cerrado",
+  "address": "R. Barão de Tatuí 223",
+  "lat": -23.537906,
+  "lng": -46.653797,
+  "approx_location": false,
+  "images": [],
+  "slug": "coda-bar"
+ },
+ {
+  "name": "Bar Moela",
+  "category": "bares",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Vila Buarque y Centro",
+  "why": "Su otra referencia. Sigue en Rappi e Instagram (@barmoela), pero no hay notas de 2026: escríbanles antes",
+  "what_label": "Qué pedir",
+  "what": "Petiscos y cerveza",
+  "price": "R$",
+  "reserve": "No",
+  "address": "R. Canuto do Val 136",
+  "lat": -23.540216,
+  "lng": -46.651847,
+  "approx_location": false,
+  "images": [],
+  "slug": "bar-moela"
+ },
+ {
+  "name": "Cervejaria Central",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Brewpub con aire cultural, a pocas cuadras",
+  "what_label": "Qué pedir",
+  "what": "Hazy IPA Futurível y pizzas",
+  "price": "R$",
+  "reserve": "No. Mar-jue 18-24, vie 18-00:30, sáb 16-00:30, dom 15-20",
+  "address": "R. Jesuíno Pascoal 101",
+  "lat": -23.54103,
+  "lng": -46.649655,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/cervejaria-central-1.jpg",
+    "source": "https://cervejariacentral.com/",
+    "attribution": "Fotografía: Cervejaria Central, vía su sitio web oficial.",
+    "alt": "Botella de la stout imperial Lombriz junto a una copa con cerveza oscura, con la marca de Cervejaria Central"
+   }
+  ],
+  "slug": "cervejaria-central",
+  "website": "https://cervejariacentral.com"
+ },
+ {
+  "name": "Dogma Tap Room",
+  "category": "bares",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Cervecería premiada a pasos del alojamiento",
+  "what_label": "Qué pedir",
+  "what": "Rizoma Double IPA",
+  "price": "R$",
+  "reserve": "No. Mar-vie 16-23, sáb 12-23, dom 12-20",
+  "address": "R. Fortunato 236",
+  "lat": -23.540895,
+  "lng": -46.652184,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/dogma-tap-room-1.jpg",
+    "source": "https://cervejariadogma.com.br/pages/todos-tasting-room",
+    "attribution": "Fotografía: Cervejaria Dogma, vía su sitio web oficial.",
+    "alt": "Barra con grifos de cerveza y clientes sentados en el tasting room de Dogma en Santa Cecília"
+   },
+   {
+    "src": "imágenes/dogma-tap-room-2.jpg",
+    "source": "https://cervejariadogma.com.br/pages/tasting-room-santa-cecilia",
+    "attribution": "Fotografía: Cervejaria Dogma, vía su sitio web oficial.",
+    "alt": "Mural del ojo con lúpulo en la pared del tasting room de Dogma en Santa Cecília"
+   }
+  ],
+  "slug": "dogma-tap-room",
+  "website": "https://cervejariadogma.com.br"
+ },
+ {
+  "name": "Aconchegante Bar",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Bar de barrio al lado de Central; se puede hacer ruta",
+  "what_label": "Qué pedir",
+  "what": "Arroz de frango, mesas en la vereda",
+  "price": "R$",
+  "reserve": "No. Lun-mar cerrado",
+  "address": "R. Jesuíno Pascoal 35",
+  "lat": -23.540478,
+  "lng": -46.649573,
+  "approx_location": false,
+  "images": [],
+  "slug": "aconchegante-bar"
+ },
+ {
+  "name": "Matiz",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Listening bar, para escuchar música en buen equipo",
+  "what_label": "Qué pedir",
+  "what": "Lasaña frita, Pornstar Martini",
+  "price": "R$$",
+  "reserve": "Recomendable. Desde las 19, vie-sáb hasta las 3",
+  "address": "R. Martins Fontes 91",
+  "lat": -23.548689,
+  "lng": -46.643318,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/matiz-1.jpg",
+    "source": "https://barmatiz.com/wp-content/uploads/2024/02/Tela-Matiz.jpg",
+    "attribution": "Fotografía: Matiz, vía su sitio web oficial.",
+    "alt": "Cócteles de colores servidos en bolsas transparentes con la marca Matiz sobre la barra"
+   }
+  ],
+  "slug": "matiz",
+  "website": "https://barmatiz.com"
+ },
+ {
+  "name": "Formosa Hi-Fi",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Listening bar en una galería bajo el Viaduto do Chá",
+  "what_label": "Qué pedir",
+  "what": "Penicillin (R$43)",
+  "price": "R$$",
+  "reserve": "Recomendable. Mar-sáb desde las 19",
+  "address": "R. Cel. Xavier de Toledo 23",
+  "lat": -23.546695,
+  "lng": -46.638584,
+  "approx_location": false,
+  "images": [],
+  "slug": "formosa-hi-fi",
+  "website": "https://formosahifi.com"
+ },
+ {
+  "name": "Bar Léo",
+  "category": "bares",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Vila Buarque y Centro",
+  "why": "Chope histórico desde 1940. Vayan y vuelvan en Uber",
+  "what_label": "Qué pedir",
+  "what": "Chope y eisbein",
+  "price": "R$",
+  "reserve": "No",
+  "address": "R. Aurora 100",
+  "lat": -23.538335,
+  "lng": -46.637856,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/bar-leo-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bar_Léo_(6023731827).jpg",
+    "attribution": "Fotografía: Cesar Cardoso, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Interior del Bar Léo con su letrero, jarras de cerveza y botellas sobre la barra de madera"
+   }
+  ],
+  "slug": "bar-leo"
+ },
+ {
+  "name": "Bar Brahma",
+  "category": "bares",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Vila Buarque y Centro",
+  "why": "La esquina más famosa de la ciudad",
+  "what_label": "Qué pedir",
+  "what": "Chope y bolinho de carne seca",
+  "price": "R$$",
+  "reserve": "Si hay show",
+  "address": "Av. São João 677",
+  "lat": -23.542206,
+  "lng": -46.640817,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/bar-brahma-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bar_Brahma_(9327045193).jpg",
+    "attribution": "Fotografía: Carlos Varela, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Música en vivo en la terraza del Bar Brahma por la noche, con faroles y una calle al fondo"
+   },
+   {
+    "src": "imágenes/bar-brahma-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bar_Brahma_1.JPG",
+    "attribution": "Fotografía: Dornicke, Wikimedia Commons (CC BY-SA 3.0).",
+    "alt": "Fachada del Bar Brahma en la esquina de las avenidas Ipiranga y São João"
+   },
+   {
+    "src": "imágenes/bar-brahma-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bar_Brahma_(9327009785).jpg",
+    "attribution": "Fotografía: Carlos Varela, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Músico con sombrero tocando el bombardino durante una presentación en el Bar Brahma"
+   }
+  ],
+  "slug": "bar-brahma"
+ },
+ {
+  "name": "Casa de Francisca",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Vila Buarque y Centro",
+  "why": "Una noche de ambiente más que de rock",
+  "what_label": "Qué hacer",
+  "what": "Shows en un palacete de 1910 y samba en el sótano",
+  "price": "R$$",
+  "reserve": "Sí, online",
+  "address": "R. Quintino Bocaiúva 22 (Sé)",
+  "lat": -23.548791,
+  "lng": -46.634851,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/casa-de-francisca-1.jpg",
+    "source": "https://casadefrancisca.art.br/novo/_uploads/_galeria/455.jpg",
+    "attribution": "Fotografía: Casa de Francisca, vía su sitio web oficial.",
+    "alt": "Fachada iluminada del palacete histórico que alberga la Casa de Francisca"
+   },
+   {
+    "src": "imágenes/casa-de-francisca-2.jpg",
+    "source": "https://casadefrancisca.art.br/novo/_uploads/_galeria/454.jpg",
+    "attribution": "Fotografía: Casa de Francisca, vía su sitio web oficial.",
+    "alt": "Salón de la Casa de Francisca con mesas, techo de madera ondulado y piano de cola"
+   },
+   {
+    "src": "imágenes/casa-de-francisca-3.jpg",
+    "source": "https://casadefrancisca.art.br/novo/_uploads/_galeria/456.jpg",
+    "attribution": "Fotografía: Casa de Francisca, vía su sitio web oficial.",
+    "alt": "Escenario circular de madera y salón con techo ondulado de la Casa de Francisca"
+   }
+  ],
+  "slug": "casa-de-francisca",
+  "website": "https://casadefrancisca.art.br/novo/"
+ },
+ {
+  "name": "JazzB",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Vila Buarque y Centro",
+  "why": "Está en Vila Buarque",
+  "what_label": "Qué hacer",
+  "what": "Jazz en vivo",
+  "price": "R$$",
+  "reserve": "Por show",
+  "address": "R. General Jardim 43",
+  "lat": -23.544833,
+  "lng": -46.644834,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/jazzb-1.jpg",
+    "source": "https://static.wixstatic.com/media/4ef1f7_88bc1f07560e4f278538f6bbcf8c7fb7~mv2.jpg",
+    "attribution": "Fotografía: JazzB, vía su sitio web oficial.",
+    "alt": "Imagen en movimiento de una banda de jazz con piano y contrabajo tocando en vivo en el club"
+   }
+  ],
+  "slug": "jazzb",
+  "website": "https://www.jazzb.com.br"
+ },
+ {
+  "name": "Copan, terraza",
+  "category": "paseos",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "El ícono de Niemeyer, a pasos",
+  "what_label": "Qué hacer",
+  "what": "Visita guiada a la azotea, de unos 40 min. Solo sábados de 13:30 a 16:30",
+  "price": "R$50",
+  "reserve": "Sí, en edificiocopan.com.br (grupos de 8)",
+  "address": "Av. Ipiranga 200",
+  "lat": -23.546556,
+  "lng": -46.644848,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/copan-terraza-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Terraço_do_Copan.jpg",
+    "attribution": "Fotografía: Gabigeraldelli, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Vista desde la azotea del edificio Copan, con las escaleras de caracol y el horizonte de edificios del centro de São Paulo"
+   },
+   {
+    "src": "imágenes/copan-terraza-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Edifício_Copan_-_frente.jpg",
+    "attribution": "Fotografía: Pablo Trincado, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Fachada ondulada del edificio Copan de Oscar Niemeyer vista desde la calle"
+   },
+   {
+    "src": "imágenes/copan-terraza-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Edifício_Copan_-_Terraço.jpg",
+    "attribution": "Fotografía: Gabigeraldelli, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Borde curvo de la azotea del Copan con una persona fotografiando y una escalera de caracol"
+   }
+  ],
+  "slug": "copan-terraza"
+ },
+ {
+  "name": "Terraço Itália (mirador)",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Atardecer sobre el centro",
+  "what_label": "Qué hacer",
+  "what": "Vista de 360°. Mar-dom, entrada de 17 a 19",
+  "price": "Varía por día. El bar se paga aparte (R$50)",
+  "reserve": "Sí, online",
+  "address": "Av. Ipiranga 344",
+  "lat": -23.545307,
+  "lng": -46.643634,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/terraco-italia-mirador-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Edifício_Itália_visto_do_fundo_(16-06-2024).jpg",
+    "attribution": "Fotografía: Lucassilva.123lucasa, Wikimedia Commons (CC BY 4.0).",
+    "alt": "El rascacielos cilíndrico del Edifício Itália visto desde la calle"
+   },
+   {
+    "src": "imágenes/terraco-italia-mirador-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Alto_do_Terraço_Itália.jpg",
+    "attribution": "Fotografía: Jardelsliumba, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Atardecer en la terraza mirador del Edifício Itália con vista a la ciudad"
+   },
+   {
+    "src": "imágenes/terraco-italia-mirador-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Edifício_Itália_views_2018_033.jpg",
+    "attribution": "Fotografía: Mike Peel (www.mikepeel.net), Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Mesas del restaurante en lo alto del Edifício Itália con vista panorámica de São Paulo"
+   }
+  ],
+  "slug": "terraco-italia-mirador",
+  "website": "https://www.terracoitalia.com.br"
+ },
+ {
+  "name": "Farol Santander",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Vista del centro histórico",
+  "what_label": "Qué hacer",
+  "what": "Mirador y bar en el antiguo Banespa. Mar-dom 9-20",
+  "price": "R$45",
+  "reserve": "Sympla",
+  "address": "R. João Brícola 24",
+  "lat": -23.545776,
+  "lng": -46.634099,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/farol-santander-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Altino_Arantes_Building.jpg",
+    "attribution": "Fotografía: Dornicke, Wikimedia Commons (dominio público).",
+    "alt": "El edificio Altino Arantes, sede del Farol Santander, visto desde una calle del centro de São Paulo"
+   },
+   {
+    "src": "imágenes/farol-santander-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Inauguração_do_Edifício_Farol_Santander_(39261158754).jpg",
+    "attribution": "Fotografía: Governo do Estado de São Paulo, Wikimedia Commons (CC BY 2.0).",
+    "alt": "La torre del Farol Santander iluminada de rojo por la noche con un mensaje proyectado en la fachada"
+   },
+   {
+    "src": "imágenes/farol-santander-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Inauguração_do_Edifício_Farol_Santander_(39261164714).jpg",
+    "attribution": "Fotografía: Governo do Estado de São Paulo, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Gran lámpara de cristal y columnas de mármol en el vestíbulo del Farol Santander"
+   }
+  ],
+  "slug": "farol-santander",
+  "website": "https://farolsantander.com.br"
+ },
+ {
+  "name": "Galeria do Rock",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "El plan más alineado con su gusto por el rock",
+  "what_label": "Qué hacer",
+  "what": "Vinilos y camisetas, tienda Baratos Afins. Lun-vie 9-20, sáb 9-17",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "R. 24 de Maio 62",
+  "lat": -23.544268,
+  "lng": -46.639113,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/galeria-do-rock-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shopping_Center_Grandes_Galerias_-_Galeria_do_Rock_3.jpg",
+    "attribution": "Fotografía: MariliaKaz, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Fachada y entrada de la Galeria do Rock con sus balcones curvos y las tiendas de la planta baja"
+   },
+   {
+    "src": "imágenes/galeria-do-rock-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Galeria_do_Rock,_Sao_Paulo.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+    "alt": "Atrio interior de la Galeria do Rock con barandas rojas, tiendas de camisetas y visitantes"
+   },
+   {
+    "src": "imágenes/galeria-do-rock-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Galeria_do_Rock_2018_03.jpg",
+    "attribution": "Fotografía: Mike Peel (www.mikepeel.net), Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Pasillos de varios niveles dentro de la Galeria do Rock vistos desde arriba"
+   }
+  ],
+  "slug": "galeria-do-rock"
+ },
+ {
+  "name": "Theatro Municipal + Bar dos Arcos",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Un bar bajo los arcos del teatro",
+  "what_label": "Qué hacer",
+  "what": "Edificio histórico. El bar abre mar-sáb desde las 18",
+  "price": "R$$",
+  "reserve": "No",
+  "address": "Praça Ramos de Azevedo",
+  "lat": -23.54528,
+  "lng": -46.638638,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/theatro-municipal-bar-dos-arcos-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Teatro_Municipal_de_São_Paulo_8.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+    "alt": "Fachada principal del Theatro Municipal de São Paulo iluminada al anochecer"
+   },
+   {
+    "src": "imágenes/theatro-municipal-bar-dos-arcos-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_Teatro_Municipal_de_São_Paulo_4.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Galería interior del Theatro Municipal con vitrales, dorados y alfombra de círculos"
+   },
+   {
+    "src": "imágenes/theatro-municipal-bar-dos-arcos-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Theatro_Municipal_de_São_Paulo_(16-06-2024).jpg",
+    "attribution": "Fotografía: Lucassilva.123lucasa, Wikimedia Commons (CC BY 4.0).",
+    "alt": "Lateral del Theatro Municipal y su cúpula verde vistos desde la calle"
+   }
+  ],
+  "slug": "theatro-municipal-bar-dos-arcos",
+  "website": "https://theatromunicipal.org.br"
+ },
+ {
+  "name": "Sesc 24 de Maio",
+  "category": "paseos",
+  "tag": "tendencia",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Vila Buarque y Centro",
+  "why": "Al lado de la Galeria do Rock",
+  "what_label": "Qué hacer",
+  "what": "Centro cultural con terraza",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "R. 24 de Maio 109",
+  "lat": -23.544117,
+  "lng": -46.640002,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/sesc-24-de-maio-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:SESC_24_de_Maio_(01).jpg",
+    "attribution": "Fotografía: Rodrigo.Argenton, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Piscina en la azotea del Sesc 24 de Maio entre los edificios del centro de São Paulo"
+   },
+   {
+    "src": "imágenes/sesc-24-de-maio-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sesc_24_de_Maio_(projeto_Paulo_Mendes_da_Rocha_e_MMBB),_São_Paulo,_SP,_Brasil._(39450853132).jpg",
+    "attribution": "Fotografía: paulisson miura, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Rampas de hormigón y fachada de vidrio con estructura metálica dentro del Sesc 24 de Maio"
+   },
+   {
+    "src": "imágenes/sesc-24-de-maio-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sesc_24_de_Maio,_São_Paulo_2018_01.jpg",
+    "attribution": "Fotografía: Mike Peel (www.mikepeel.net), Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Espacio de convivencia y cafetería bajo el techo de casetones del Sesc 24 de Maio"
+   }
+  ],
+  "slug": "sesc-24-de-maio",
+  "website": "https://www.sescsp.org.br/unidades/24-de-maio/"
+ },
+ {
+  "name": "Mercado Municipal (Mercadão)",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Su Mercado Central, versión paulista",
+  "what_label": "Qué hacer",
+  "what": "Sándwich de mortadela, pastel de bacalao. Lun-sáb 6-18, dom hasta 16. Mejor entre semana",
+  "price": "R$$",
+  "reserve": "No",
+  "address": "R. da Cantareira 306",
+  "lat": -23.541733,
+  "lng": -46.629524,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/mercado-municipal-mercadao-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercado_Municipal_São_Paulo.jpg",
+    "attribution": "Fotografía: Celykzk, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Nave interior del Mercado Municipal con arcos, vitrales y los puestos desde el nivel superior"
+   },
+   {
+    "src": "imágenes/mercado-municipal-mercadao-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Municipal_Market_of_São_Paulo_city.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Puesto de frutas del Mercado Municipal con pirámides de frutas tropicales"
+   },
+   {
+    "src": "imágenes/mercado-municipal-mercadao-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sanduíche_de_Mortadela_(Mercado_Municipal_de_São_Paulo).jpg",
+    "attribution": "Fotografía: Eugenio Hansen, OFS, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Sándwich de mortadela del Mercado Municipal de São Paulo servido sobre una mesa de madera"
+   }
+  ],
+  "slug": "mercado-municipal-mercadao"
+ },
+ {
+  "name": "Minhocão",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Pasa junto a Vila Buarque",
+  "what_label": "Qué hacer",
+  "what": "Autopista elevada sin autos los fines de semana. Mejor la tarde del domingo",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "Elevado Presidente João Goulart",
+  "lat": -23.532188,
+  "lng": -46.662302,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/minhocao-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Minhocão,_25-01-2021_(1).jpg",
+    "attribution": "Fotografía: Jcornelius, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Ciclistas y peatones en el Minhocão cerrado al tráfico, con murales en los edificios laterales"
+   },
+   {
+    "src": "imágenes/minhocao-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Elevado_Presidente_João_Goulart.jpg",
+    "attribution": "Fotografía: Virada Sustentável, Wikimedia Commons (CC BY-SA 2.0).",
+    "alt": "Vista aérea del Minhocão con pintura de flores en el asfalto y gente caminando"
+   },
+   {
+    "src": "imágenes/minhocao-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Minhocão_(12206831414).jpg",
+    "attribution": "Fotografía: Wagner Tamanaha, Wikimedia Commons (CC BY-SA 2.0).",
+    "alt": "Grupo de personas caminando por el Minhocão con una bandera de Parque Minhocão"
+   }
+  ],
+  "slug": "minhocao"
+ },
+ {
+  "name": "Pinacoteca (Luz)",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Gran museo en un edificio de ladrillo",
+  "what_label": "Qué hacer",
+  "what": "Arte brasileño. Mié-lun 10-18, martes cerrado",
+  "price": "R$40. Gratis sáb y dom 11",
+  "reserve": "Opcional",
+  "address": "Praça da Luz 2",
+  "lat": -23.534823,
+  "lng": -46.638789,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/pinacoteca-luz-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pinacoteca_de_São_Paulo,_Brazil.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Fachada de ladrillo de la Pinacoteca do Estado con la fuente del jardín en primer plano"
+   },
+   {
+    "src": "imágenes/pinacoteca-luz-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pinacoteca_de_São_Paulo_6.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+    "alt": "Patio octogonal de ladrillo de la Pinacoteca con lámparas colgantes y mecedoras en una instalación"
+   },
+   {
+    "src": "imágenes/pinacoteca-luz-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pinacoteca_de_Sao_Paulo.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+    "alt": "Galería de columnas de ladrillo de la Pinacoteca con una escultura al fondo"
+   }
+  ],
+  "slug": "pinacoteca-luz",
+  "website": "https://pinacoteca.org.br"
+ },
+ {
+  "name": "Museu da Língua Portuguesa (Luz)",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Combina con la Pinacoteca",
+  "what_label": "Qué hacer",
+  "what": "Museo interactivo. Mar-dom 9-16:30, cerrado el 25-oct",
+  "price": "R$25. Gratis mar y dom",
+  "reserve": "Sympla",
+  "address": "Praça da Luz",
+  "lat": -23.534965,
+  "lng": -46.635099,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/museu-da-lingua-portuguesa-luz-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_da_Lingua_Portuguesa_em_São_Paulo_(52692478444).jpg",
+    "attribution": "Fotografía: Governo do Estado de São Paulo, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Fachada de la Estação da Luz, sede del Museu da Língua Portuguesa, con su torre del reloj"
+   },
+   {
+    "src": "imágenes/museu-da-lingua-portuguesa-luz-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_do_Museu_da_Língua_Portuguesa_em_São_Paulo,_Brasil.jpg",
+    "attribution": "Fotografía: Ana Paula Hirama, Wikimedia Commons (CC BY-SA 2.0).",
+    "alt": "Sala de exposición del Museu da Língua Portuguesa con paneles luminosos naranjas y vitrinas"
+   },
+   {
+    "src": "imágenes/museu-da-lingua-portuguesa-luz-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estação_da_Luz_-_Museu_da_Língua_Portuguesa_03.jpg",
+    "attribution": "Fotografía: Dianarchitect, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Marquesina de hierro de la Estação da Luz con el letrero del Museu da Língua Portuguesa"
+   }
+  ],
+  "slug": "museu-da-lingua-portuguesa-luz",
+  "website": "https://museudalinguaportuguesa.org.br"
+ },
+ {
+  "name": "Sala São Paulo",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Buarque y Centro",
+  "why": "Edificio espectacular",
+  "what_label": "Qué hacer",
+  "what": "Concierto gratis de la OSESP los domingos a las 10:50",
+  "price": "Gratis",
+  "reserve": "Sí, en Fever, el jueves a las 12",
+  "address": "Praça Júlio Prestes 16",
+  "lat": -23.534215,
+  "lng": -46.639834,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/sala-sao-paulo-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estação_Júlio_Prestes_-_fachada.jpg",
+    "attribution": "Fotografía: Dornicke, Wikimedia Commons (dominio público).",
+    "alt": "Fachada de la Estação Júlio Prestes, el edificio que alberga la Sala São Paulo, con su torre del reloj"
+   },
+   {
+    "src": "imágenes/sala-sao-paulo-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sala_São_Paulo_2018_07.jpg",
+    "attribution": "Fotografía: Mike Peel (www.mikepeel.net), Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Interior de la sala de conciertos con su techo de madera regulable y el escenario vacío"
+   },
+   {
+    "src": "imágenes/sala-sao-paulo-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sala_São_Paulo_2023.jpg",
+    "attribution": "Fotografía: Boaventuravinicius, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Concierto de orquesta con el público en la Sala São Paulo bajo el techo de madera iluminado"
+   }
+  ],
+  "slug": "sala-sao-paulo",
+  "website": "https://www.salasaopaulo.art.br"
+ },
+ {
+  "name": "Ping Yang Thai",
+  "category": "comer",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Bib Gourmand nuevo 2026",
+  "what_label": "Qué pedir",
+  "what": "Cocina tailandesa con barra",
+  "price": "R$$ (R$130-210)",
+  "reserve": "Recomendable. Lun-sáb 19-23, domingo cerrado",
+  "address": "R. Dr. Melo Alves 767",
+  "lat": -23.558838,
+  "lng": -46.668222,
+  "approx_location": false,
+  "images": [],
+  "slug": "ping-yang-thai"
+ },
+ {
+  "name": "Barú Marisquería",
+  "category": "comer",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Lo más cercano a lo peruano, Bib Gourmand 2026",
+  "what_label": "Qué pedir",
+  "what": "Ceviche de vieira, pulpo a la parrilla, mejillones con pisco",
+  "price": "R$$ (R$160-240)",
+  "reserve": "Recomendable. Lunes cerrado",
+  "address": "R. Augusta 2542",
+  "lat": -23.563356,
+  "lng": -46.665836,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/baru-marisqueria-1.jpg",
+    "source": "http://www.barumarisqueria.com/wp-content/uploads/2018/03/baru-salao.jpg",
+    "attribution": "Fotografía: Barú Marisquería, vía su sitio web oficial.",
+    "alt": "Salón de Barú Marisquería con mesas turquesa, barra revestida de azulejos y cocina a la vista"
+   },
+   {
+    "src": "imágenes/baru-marisqueria-2.jpg",
+    "source": "http://www.barumarisqueria.com/wp-content/uploads/2018/03/baru-peixe-cru.jpg",
+    "attribution": "Fotografía: Barú Marisquería, vía su sitio web oficial.",
+    "alt": "Un pescado entero sostenido frente a la barra de azulejos en forma de escamas de Barú, con la cocina al fondo"
+   },
+   {
+    "src": "imágenes/baru-marisqueria-3.jpg",
+    "source": "http://www.barumarisqueria.com/wp-content/uploads/2018/03/baru-polvo.jpg",
+    "attribution": "Fotografía: Barú Marisquería, vía su sitio web oficial.",
+    "alt": "Cocinero con delantal de Barú sosteniendo un pulpo entero"
+   }
+  ],
+  "slug": "baru-marisqueria",
+  "website": "https://www.barumarisqueria.com"
+ },
+ {
+  "name": "Aizomê",
+  "category": "comer",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Higienópolis y Paulista",
+  "why": "Japonesa nipo-brasileña sin la rigidez de un omakase",
+  "what_label": "Qué pedir",
+  "what": "Tonkatsu, curry japonés, sushi",
+  "price": "R$$$",
+  "reserve": "Recomendable",
+  "address": "Jardim Paulista (confirmen la dirección)",
+  "lat": -23.568,
+  "lng": -46.662,
+  "approx_location": true,
+  "images": [
+   {
+    "src": "imágenes/aizome-1.jpg",
+    "source": "https://www.aizome.com.br/site/wp-content/uploads/2018/07/banner_balcao-1.jpg",
+    "attribution": "Fotografía: Aizomê, vía su sitio web oficial.",
+    "alt": "Barra de madera y estantes iluminados del restaurante Aizomê, con un cocinero al fondo"
+   },
+   {
+    "src": "imágenes/aizome-2.jpg",
+    "source": "https://www.aizome.com.br/site/wp-content/uploads/2014/01/Foto_1.jpg",
+    "attribution": "Fotografía: Aizomê, vía su sitio web oficial.",
+    "alt": "Plato de sashimi variado con pulpo y wasabi servido en cerámica"
+   },
+   {
+    "src": "imágenes/aizome-3.jpg",
+    "source": "https://www.aizome.com.br/site/wp-content/uploads/2014/01/Foto_2.jpg",
+    "attribution": "Fotografía: Aizomê, vía su sitio web oficial.",
+    "alt": "Cazuela japonesa con tofu, shiitake, verduras y langostino"
+   }
+  ],
+  "slug": "aizome",
+  "website": "https://www.aizome.com.br/site/"
+ },
+ {
+  "name": "Guarita Burger",
+  "category": "hamburguesas",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Smash burger a 15 minutos a pie",
+  "what_label": "Qué pedir",
+  "what": "Smash & Spice",
+  "price": "R$",
+  "reserve": "No",
+  "address": "R. Antônio Carlos 288",
+  "lat": -23.556594,
+  "lng": -46.657745,
+  "approx_location": false,
+  "images": [],
+  "slug": "guarita-burger"
+ },
+ {
+  "name": "Frank & Charles",
+  "category": "hamburguesas",
+  "tag": "tendencia",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Higienópolis y Paulista",
+  "why": "Hamburguesería con aire de speakeasy en Higienópolis",
+  "what_label": "Qué pedir",
+  "what": "OMG, Spicy Frank",
+  "price": "R$$",
+  "reserve": "No",
+  "address": "R. Tinhorão 130",
+  "lat": -23.544327,
+  "lng": -46.661704,
+  "approx_location": false,
+  "images": [],
+  "slug": "frank-charles"
+ },
+ {
+  "name": "Big Kahuna Burger",
+  "category": "hamburguesas",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Diner temático de Pulp Fiction",
+  "what_label": "Qué pedir",
+  "what": "Royale with Cheese",
+  "price": "R$",
+  "reserve": "No. Lun-jue 18-23, vie-sáb 12-24",
+  "address": "Al. Lorena 53",
+  "lat": -23.573483,
+  "lng": -46.65604,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/big-kahuna-burger-1.jpg",
+    "source": "https://www.bigkahunaburger.com.br/wp-content/uploads/2023/05/loja-2.jpg",
+    "attribution": "Fotografía: Big Kahuna Burger, vía su sitio web oficial.",
+    "alt": "Fachada nocturna del Big Kahuna Burger con su letrero luminoso"
+   },
+   {
+    "src": "imágenes/big-kahuna-burger-2.jpg",
+    "source": "https://www.bigkahunaburger.com.br/wp-content/uploads/2019/06/burger-fest2-6d015db3.jpeg",
+    "attribution": "Fotografía: Big Kahuna Burger, vía su sitio web oficial.",
+    "alt": "Hamburguesa con queso cheddar y bacon crujiente sobre el papel de la casa"
+   }
+  ],
+  "slug": "big-kahuna-burger",
+  "website": "https://www.bigkahunaburger.com.br"
+ },
+ {
+  "name": "Lanchonete da Cidade",
+  "category": "hamburguesas",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar esta sede",
+  "zone": "Higienópolis y Paulista",
+  "why": "Hamburguesa clásica paulista",
+  "what_label": "Qué pedir",
+  "what": "Churrasco com Queijo",
+  "price": "R$",
+  "reserve": "No",
+  "address": "Al. Tietê 110",
+  "lat": -23.562846,
+  "lng": -46.664713,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/lanchonete-da-cidade-1.jpg",
+    "source": "https://lanchonetedacidade.com.br/wp-content/uploads/2025/10/Reserva-Lanchonete-1024x672.png",
+    "attribution": "Fotografía: Lanchonete da Cidade, vía su sitio web oficial.",
+    "alt": "Comedor lleno de la Lanchonete da Cidade, con mesas de formica y sillas rojas"
+   },
+   {
+    "src": "imágenes/lanchonete-da-cidade-2.jpg",
+    "source": "https://lanchonetedacidade.com.br/wp-content/uploads/2025/10/Delivery-Lanchonete-1024x672.png",
+    "attribution": "Fotografía: Lanchonete da Cidade, vía su sitio web oficial.",
+    "alt": "Hamburguesa en pan con semillas junto a la campanilla de mostrador de la casa"
+   },
+   {
+    "src": "imágenes/lanchonete-da-cidade-3.jpg",
+    "source": "https://lanchonetedacidade.com.br/wp-content/uploads/2024/08/lanchonete-delivery-img-1024x672.png",
+    "attribution": "Fotografía: Lanchonete da Cidade, vía su sitio web oficial.",
+    "alt": "Hamburguesas y papas fritas para compartir sobre la mesa"
+   }
+  ],
+  "slug": "lanchonete-da-cidade",
+  "website": "https://lanchonetedacidade.com.br"
+ },
+ {
+  "name": "Tap Tap",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Bar de craft cómodo desde el alojamiento",
+  "what_label": "Qué pedir",
+  "what": "Grifos de craft rotativos",
+  "price": "R$",
+  "reserve": "No. Lun-jue 14-24, vie-sáb 12-01",
+  "address": "R. da Consolação 455",
+  "lat": -23.547496,
+  "lng": -46.645748,
+  "approx_location": false,
+  "images": [],
+  "slug": "tap-tap"
+ },
+ {
+  "name": "Trilha Fermentaria",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Una de las mejores cerveceras de la ciudad. Busquen la dirección en Instagram",
+  "what_label": "Qué pedir",
+  "what": "Melonrise, cervezas de barrica",
+  "price": "R$",
+  "reserve": "No",
+  "address": "Sede Higienópolis (busquen la dirección en Instagram)",
+  "lat": -23.545,
+  "lng": -46.659,
+  "approx_location": true,
+  "images": [],
+  "slug": "trilha-fermentaria",
+  "website": "https://www.trilhacervejaria.com.br"
+ },
+ {
+  "name": "Elevado Conselheiro",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Listening bar en el Bixiga",
+  "what_label": "Qué pedir",
+  "what": "Vinos y buena acústica en una casa de 1904",
+  "price": "R$$",
+  "reserve": "Recomendable. Mar-sáb",
+  "address": "R. Conselheiro Ramalho 800",
+  "lat": -23.55894,
+  "lng": -46.644285,
+  "approx_location": false,
+  "images": [],
+  "slug": "elevado-conselheiro"
+ },
+ {
+  "name": "Madame Underground Club",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "La balada rockera más antigua de la ciudad (ex Madame Satã)",
+  "what_label": "Qué hacer",
+  "what": "Noches de rock, new wave y goth. Ploho toca el 2-nov",
+  "price": "R$ a R$$",
+  "reserve": "Entrada",
+  "address": "R. Conselheiro Ramalho 873",
+  "lat": -23.559586,
+  "lng": -46.644073,
+  "approx_location": false,
+  "images": [],
+  "slug": "madame-underground-club",
+  "website": "https://www.madamesata.com.br"
+ },
+ {
+  "name": "Blue Note São Paulo",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Club de música en plena Paulista",
+  "what_label": "Qué hacer",
+  "what": "Jazz y pop en vivo",
+  "price": "R$$$",
+  "reserve": "Sí",
+  "address": "Av. Paulista 2073",
+  "lat": -23.559023,
+  "lng": -46.659767,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/blue-note-sao-paulo-1.jpg",
+    "source": "https://bluenotesp.com/wp-content/uploads/2026/06/banner-bluenotesp-interno-1.webp",
+    "attribution": "Fotografía: Blue Note São Paulo, vía su sitio web oficial.",
+    "alt": "Sala del Blue Note São Paulo con mesas, piano de cola y escenario iluminado en azul"
+   },
+   {
+    "src": "imágenes/blue-note-sao-paulo-2.jpg",
+    "source": "https://bluenotesp.com/wp-content/uploads/2026/06/banner-bluenotesp-vistaaerea-01.webp",
+    "attribution": "Fotografía: Blue Note São Paulo, vía su sitio web oficial.",
+    "alt": "Vista aérea nocturna de la Avenida Paulista junto al edificio donde está el Blue Note"
+   },
+   {
+    "src": "imágenes/blue-note-sao-paulo-3.jpg",
+    "source": "https://bluenotesp.com/wp-content/uploads/2026/06/fotos-bluenotesp-04-1.webp",
+    "attribution": "Fotografía: Blue Note São Paulo, vía su sitio web oficial.",
+    "alt": "Cantante con banda en concierto ante el público del Blue Note São Paulo"
+   }
+  ],
+  "slug": "blue-note-sao-paulo",
+  "website": "https://bluenotesp.com"
+ },
+ {
+  "name": "Mundo Pensante",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Higienópolis y Paulista",
+  "why": "Bar cultural en el Bixiga",
+  "what_label": "Qué hacer",
+  "what": "Soul, rap y experimental",
+  "price": "R$",
+  "reserve": "Revisen la agenda",
+  "address": "R. Treze de Maio 830",
+  "lat": -23.560563,
+  "lng": -46.646361,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/mundo-pensante-1.jpg",
+    "source": "https://static.wixstatic.com/media/ee533d_6532935430ed4694abf1569d92b6f7f6~mv2.jpg",
+    "attribution": "Fotografía: Mundo Pensante, vía su sitio web oficial.",
+    "alt": "Patio del Mundo Pensante lleno de gente bajo luces y murales de colores"
+   },
+   {
+    "src": "imágenes/mundo-pensante-2.jpg",
+    "source": "https://static.wixstatic.com/media/ee533d_3b2fd831243745b7a59e50864fcb00d4~mv2.jpg",
+    "attribution": "Fotografía: Mundo Pensante, vía su sitio web oficial.",
+    "alt": "Banda tocando en el escenario del Mundo Pensante ante el público"
+   },
+   {
+    "src": "imágenes/mundo-pensante-3.jpg",
+    "source": "https://static.wixstatic.com/media/ee533d_985d9319948f4dec9616ba88cbac4be2~mv2.jpg",
+    "attribution": "Fotografía: Mundo Pensante, vía su sitio web oficial.",
+    "alt": "Sala principal del Mundo Pensante con el público bajo luz azul"
+   }
+  ],
+  "slug": "mundo-pensante",
+  "website": "https://www.mundopensante.com.br"
+ },
+ {
+  "name": "MASP",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "El ícono de la ciudad",
+  "what_label": "Qué hacer",
+  "what": "Colección en caballetes de vidrio y la expo Histórias latino-americanas. Mar 10-20, vie 10-21, resto 10-18. Lunes cerrado",
+  "price": "R$85. Gratis martes y viernes de 18 a 21",
+  "reserve": "Sí, siempre (online)",
+  "address": "Av. Paulista 1578",
+  "lat": -23.561684,
+  "lng": -46.656568,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/masp-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:MASP_Brazil.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+    "alt": "El edificio del MASP de Lina Bo Bardi suspendido entre dos pilares rojos sobre la Av. Paulista"
+   },
+   {
+    "src": "imágenes/masp-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:MASP_-_Sala_Georges_Wildenstein_02.jpg",
+    "attribution": "Fotografía: Dornicke, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Visitantes frente a las obras en caballetes de cristal de la colección permanente del MASP"
+   },
+   {
+    "src": "imágenes/masp-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:CineTeatro_no_Vão_Livre_do_MASP.jpg",
+    "attribution": "Fotografía: Igor Marotti, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Personas reunidas bajo el vão livre, la gran plaza cubierta bajo el edificio del MASP"
+   }
+  ],
+  "slug": "masp",
+  "website": "https://masp.org.br"
+ },
+ {
+  "name": "Av. Paulista sin autos",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Calle abierta para caminar, como un domingo en Santiago",
+  "what_label": "Qué hacer",
+  "what": "Domingos de 9 a 16 aprox. Pueden encadenar MASP, IMS, Japan House e Itaú Cultural",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "Av. Paulista",
+  "lat": -23.557581,
+  "lng": -46.660623,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/av-paulista-sin-autos-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_de_Arte_de_São_Paulo_-_MASP,_vista_exterior_com_Avenida_Paulista_no_feriado_ao_centro.jpg",
+    "attribution": "Fotografía: Rafael Wojtyla, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Peatones y ciclistas ocupando la Av. Paulista cerrada al tráfico frente al MASP"
+   },
+   {
+    "src": "imágenes/av-paulista-sin-autos-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Avenida_Paulista_aberta_em_Domingo.jpg",
+    "attribution": "Fotografía: Willemarcel, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Ciclistas y peatones en la Av. Paulista abierta a las personas un domingo, con puestos de bebidas bajo sombrillas"
+   },
+   {
+    "src": "imágenes/av-paulista-sin-autos-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Av._Paulista_meio.jpg",
+    "attribution": "Fotografía: Agent010, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Multitud caminando por la calzada y la ciclovía de la Av. Paulista con el edificio de la Fiesp al fondo"
+   }
+  ],
+  "slug": "av-paulista-sin-autos"
+ },
+ {
+  "name": "Feria de antigüedades del MASP",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Vintage y objetos. Una sola fuente: confirmen en el lugar",
+  "what_label": "Qué hacer",
+  "what": "Domingos de 9 a 17, bajo el museo",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "Bajo el MASP, Av. Paulista 1578",
+  "lat": -23.561684,
+  "lng": -46.656568,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/feria-de-antiguedades-del-masp-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_do_vão_livre_do_MASP,_São_Paulo,_SP,_Brasil._(19638930442).jpg",
+    "attribution": "Fotografía: Paulisson Miura, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Vista desde arriba de los puestos con toldos a rayas de la feria bajo el vão livre del MASP"
+   },
+   {
+    "src": "imágenes/feria-de-antiguedades-del-masp-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vão_Livre_do_MASP_03.jpg",
+    "attribution": "Fotografía: André Savastano, Wikimedia Commons (CC BY-SA 2.0).",
+    "alt": "Visitantes recorriendo los puestos de antigüedades bajo el techo de hormigón del MASP"
+   },
+   {
+    "src": "imágenes/feria-de-antiguedades-del-masp-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vão_Livre_do_MASP_02.jpg",
+    "attribution": "Fotografía: André Savastano, Wikimedia Commons (CC BY-SA 2.0).",
+    "alt": "Hilera de puestos de la feria bajo el edificio suspendido del MASP, con la plaza adoquinada al frente"
+   }
+  ],
+  "slug": "feria-de-antiguedades-del-masp",
+  "website": "https://masp.org.br"
+ },
+ {
+  "name": "IMS Paulista",
+  "category": "paseos",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Libros, música y fotos. Ahí está el restaurante Balaio (Bib Gourmand)",
+  "what_label": "Qué hacer",
+  "what": "Fotografía, librería y la expo ZineZona (hasta el 5-nov). Mar-dom 10-20",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "Av. Paulista 2424",
+  "lat": -23.556072,
+  "lng": -46.661935,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/ims-paulista-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Livraria_do_Instituto_Moreira_Salles.jpg",
+    "attribution": "Fotografía: Wecomabimt, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Hall de entrada y librería del Instituto Moreira Salles con su cielorraso rojizo y piso de mosaico portugués"
+   },
+   {
+    "src": "imágenes/ims-paulista-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Biblioteca_do_Instituto_Moreira_Salles.jpg",
+    "attribution": "Fotografía: Wecomabimt, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Zona de lectura junto a la escalera de vidrio, cerca de la biblioteca del IMS"
+   },
+   {
+    "src": "imágenes/ims-paulista-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Paulista_vista_do_Instituto_Moreira_Salles.jpg",
+    "attribution": "Fotografía: Wecomabimt, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Vista de la Avenida Paulista desde una de las plantas del IMS"
+   }
+  ],
+  "slug": "ims-paulista",
+  "website": "https://ims.com.br"
+ },
+ {
+  "name": "Japan House",
+  "category": "paseos",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Diseño japonés",
+  "what_label": "Qué hacer",
+  "what": "Expo Shiro (hasta el 25-oct) y Cerâmica em curso",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "Av. Paulista 52",
+  "lat": -23.570561,
+  "lng": -46.644765,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/japan-house-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Japan_House_(4).jpg",
+    "attribution": "Fotografía: Rodrigo Tetsuo Argenton, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Fachada de listones de madera de Japan House São Paulo iluminada de noche"
+   },
+   {
+    "src": "imágenes/japan-house-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Japan_House_São_Paulo_2018_07.jpg",
+    "attribution": "Fotografía: Mike Peel, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Sala interior de Japan House con mesa larga y mampara de panal dorado"
+   },
+   {
+    "src": "imágenes/japan-house-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Japan_House_São_Paulo_2018_05.jpg",
+    "attribution": "Fotografía: Mike Peel, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Pared de pizarra de la muestra 'Aromas e sabores' dentro de Japan House"
+   }
+  ],
+  "slug": "japan-house",
+  "website": "https://www.japanhouse.jp/saopaulo/"
+ },
+ {
+  "name": "Itaú Cultural",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Arte contemporáneo sin costo",
+  "what_label": "Qué hacer",
+  "what": "Exposiciones y ciclos de cine",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "Av. Paulista 149",
+  "lat": -23.570448,
+  "lng": -46.646032,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/itau-cultural-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Itaú_Cultural,_Avenida_Paulista,_Brazil.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (dominio público).",
+    "alt": "Escalera helicoidal blanca del Itaú Cultural rodeada de láminas de flora y fauna"
+   },
+   {
+    "src": "imágenes/itau-cultural-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrada_Itaú_Cultural.jpg",
+    "attribution": "Fotografía: Isabella Gueller, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Escalinata y entrada del Itaú Cultural sobre la Avenida Paulista, número 149"
+   },
+   {
+    "src": "imágenes/itau-cultural-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Itaú_Cultural_Acervo.jpg",
+    "attribution": "Fotografía: Isabella Gueller, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Sala de exposición con láminas históricas de Río de Janeiro dentro del Itaú Cultural"
+   }
+  ],
+  "slug": "itau-cultural",
+  "website": "https://www.itaucultural.org.br"
+ },
+ {
+  "name": "Feira do Bixiga",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Higienópolis y Paulista",
+  "why": "Feria con cantinas de barrio",
+  "what_label": "Qué hacer",
+  "what": "Antigüedades y chorinho, solo los domingos",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "Praça Dom Orione",
+  "lat": -23.560168,
+  "lng": -46.645818,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/feira-do-bixiga-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Praça_Dom_Orione_-_Bixiga_(6905685373).jpg",
+    "attribution": "Fotografía: Rafael Vianna Croffi, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Quiosco de la Praça Dom Orione rodeado de toldos de la feria de antigüedades del Bixiga"
+   },
+   {
+    "src": "imágenes/feira-do-bixiga-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_de_antiguidades_-_Bixiga_(6910658219).jpg",
+    "attribution": "Fotografía: Rafael Vianna Croffi, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Puesto de la feria con mesa repleta de cámaras y lentes antiguos"
+   }
+  ],
+  "slug": "feira-do-bixiga"
+ },
+ {
+  "name": "Kotori",
+  "category": "comer",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Ambiente de bar de barrio con cocina japonesa, Bib Gourmand 2026",
+  "what_label": "Qué pedir",
+  "what": "Menú japonés yōshoku del chef, sake y cócteles",
+  "price": "R$$$ (R$150-230)",
+  "reserve": "Recomendable",
+  "address": "R. Purpurina 378",
+  "lat": -23.554949,
+  "lng": -46.69294,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/kotori-1.jpg",
+    "source": "https://static.wixstatic.com/media/86bb2a_44c7be2ccbbc4987a936f1cf7882db74~mv2.jpg",
+    "attribution": "Fotografía: Kotori, vía su sitio web oficial.",
+    "alt": "Salón de Kotori con techo de listones de madera, mesas y cocina abierta al fondo"
+   },
+   {
+    "src": "imágenes/kotori-2.jpg",
+    "source": "https://static.wixstatic.com/media/86bb2a_8f51c3ef401b4c4eaf0789bd17d49d60~mv2.jpg",
+    "attribution": "Fotografía: Kotori, vía su sitio web oficial.",
+    "alt": "Larga barra de madera con taburetes tapizados en el interior de Kotori"
+   },
+   {
+    "src": "imágenes/kotori-3.jpg",
+    "source": "https://static.wixstatic.com/media/86bb2a_f0d6f95270ed4848aa32058b63850755~mv2.jpg",
+    "attribution": "Fotografía: Kotori, vía su sitio web oficial.",
+    "alt": "Manos sirviendo un plato de hongos salteados sobre la barra de acero de Kotori"
+   }
+  ],
+  "slug": "kotori",
+  "website": "https://www.tantan.com.br/kotori"
+ },
+ {
+  "name": "Corrutela",
+  "category": "comer",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Cocina brasileña de estación, a pasos del Beco do Batman",
+  "what_label": "Qué pedir",
+  "what": "Crudo de pescado, costilla con polenta",
+  "price": "R$$$",
+  "reserve": "Recomendable",
+  "address": "R. Medeiros de Albuquerque 256",
+  "lat": -23.555767,
+  "lng": -46.685801,
+  "approx_location": false,
+  "images": [],
+  "slug": "corrutela",
+  "website": "https://corrutela.com.br"
+ },
+ {
+  "name": "Sororoca Bar",
+  "category": "comer",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Bar de pescados amazónicos",
+  "what_label": "Qué pedir",
+  "what": "Pescado sororoca a la parrilla, cócteles de frutas amazónicas",
+  "price": "R$$",
+  "reserve": "Por teléfono, 11 91215-2925. Jue-dom",
+  "address": "R. Simão Álvares 785 o R. Harmonia 321 (confirmen)",
+  "lat": -23.561222,
+  "lng": -46.690725,
+  "approx_location": false,
+  "images": [],
+  "slug": "sororoca-bar",
+  "website": "https://www.sororoca.com.br"
+ },
+ {
+  "name": "Martín Fierro",
+  "category": "comer",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Parrilla rioplatense",
+  "what_label": "Qué pedir",
+  "what": "Empanadas y cortes argentinos",
+  "price": "R$$",
+  "reserve": "Recomendable",
+  "address": "Vila Madalena (confirmen la dirección)",
+  "lat": -23.558905,
+  "lng": -46.691526,
+  "approx_location": false,
+  "images": [],
+  "slug": "martin-fierro"
+ },
+ {
+  "name": "Grindhouse Braserito",
+  "category": "hamburguesas",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "En el ranking mundial de 2026",
+  "what_label": "Qué pedir",
+  "what": "Hamburguesa de costilla a las brasas",
+  "price": "R$ a R$$",
+  "reserve": "No. Confirmen horario",
+  "address": "R. Lisboa 346",
+  "lat": -23.56099,
+  "lng": -46.67859,
+  "approx_location": false,
+  "images": [],
+  "slug": "grindhouse-braserito"
+ },
+ {
+  "name": "Buzina",
+  "category": "hamburguesas",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "De food truck a casona",
+  "what_label": "Qué pedir",
+  "what": "Parm Burger",
+  "price": "R$$",
+  "reserve": "No",
+  "address": "R. Padre Carvalho 30",
+  "lat": -23.56007,
+  "lng": -46.696652,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/buzina-1.jpg",
+    "source": "https://buzinaburgers.com/wp-content/uploads/2024/04/bannersite2.jpg",
+    "attribution": "Fotografía: Buzina Burgers, vía su sitio web oficial.",
+    "alt": "Fachada de Buzina con su letrero y el salón iluminado al fondo"
+   },
+   {
+    "src": "imágenes/buzina-2.jpg",
+    "source": "https://buzinaburgers.com/wp-content/uploads/2025/03/BUZINA-BURGERS_LADO-B_063_4.jpg",
+    "attribution": "Fotografía: Buzina Burgers, vía su sitio web oficial.",
+    "alt": "Vista desde arriba del salón de Buzina, con paredes de graffiti y mesas llenas"
+   },
+   {
+    "src": "imágenes/buzina-3.jpg",
+    "source": "https://buzinaburgers.com/wp-content/uploads/2024/05/buzinaburger-1.jpg",
+    "attribution": "Fotografía: Buzina Burgers, vía su sitio web oficial.",
+    "alt": "Hamburguesa con queso derretido y papas fritas sobre un plato de metal"
+   }
+  ],
+  "slug": "buzina",
+  "website": "https://buzinaburgers.com"
+ },
+ {
+  "name": "Patties",
+  "category": "hamburguesas",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Smash burger sencilla. La dirección es en Pinheiros, no en Consolação",
+  "what_label": "Qué pedir",
+  "what": "Original o Cheese Onion",
+  "price": "R$",
+  "reserve": "No",
+  "address": "R. dos Pinheiros 476",
+  "lat": -23.565446,
+  "lng": -46.682704,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/patties-1.jpg",
+    "source": "https://pattiesburger.com/wp-content/uploads/2026/03/foto-principal-pinheiros-01.jpg",
+    "attribution": "Fotografía: Patties Burger, vía su sitio web oficial.",
+    "alt": "Entrada de la Portinha Patties de Pinheiros con toldo a rayas y letrero luminoso"
+   },
+   {
+    "src": "imágenes/patties-2.jpg",
+    "source": "https://pattiesburger.com/wp-content/uploads/2026/03/foto-principal-pinheiros-04.jpg",
+    "attribution": "Fotografía: Patties Burger, vía su sitio web oficial.",
+    "alt": "Terraza con mesas bajo un toldo en la acera de la unidad de Pinheiros"
+   },
+   {
+    "src": "imágenes/patties-3.jpg",
+    "source": "https://pattiesburger.com/wp-content/uploads/2026/03/foto-unidade-pinheiros-02.jpg",
+    "attribution": "Fotografía: Patties Burger, vía su sitio web oficial.",
+    "alt": "Rincón interior con taburetes y diplomas enmarcados en la pared de azulejos"
+   }
+  ],
+  "slug": "patties",
+  "website": "https://pattiesburger.com"
+ },
+ {
+  "name": "Croma Beer Co.",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "N.º 1 de chope en Veja 2026",
+  "what_label": "Qué pedir",
+  "what": "Juicy IPAs y sours, unas 26 llaves",
+  "price": "R$",
+  "reserve": "No. Mar-sáb 12-23:30",
+  "address": "R. Harmonia 472",
+  "lat": -23.553953,
+  "lng": -46.688574,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/croma-beer-co-1.jpg",
+    "source": "https://www.cromabeer.com.br/brew-pub",
+    "attribution": "Fotografía: Croma Beer Co., vía su sitio web oficial.",
+    "alt": "Salón del brewpub Croma con mesas de madera, paredes de ladrillo y la barra con las llaves de cerveza al fondo"
+   },
+   {
+    "src": "imágenes/croma-beer-co-2.jpg",
+    "source": "https://www.cromabeer.com.br/brew-pub",
+    "attribution": "Fotografía: Croma Beer Co., vía su sitio web oficial.",
+    "alt": "Clientes en la barra del brewpub Croma, visto desde arriba"
+   },
+   {
+    "src": "imágenes/croma-beer-co-3.jpg",
+    "source": "https://www.cromabeer.com.br/brew-pub",
+    "attribution": "Fotografía: Croma Beer Co., vía su sitio web oficial.",
+    "alt": "Empleado de Croma con una selección de cuatro cervezas en distintos vasos sobre la barra"
+   }
+  ],
+  "slug": "croma-beer-co",
+  "website": "https://www.cromabeer.com.br"
+ },
+ {
+  "name": "Hocus Pocus",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Craft con música: lo más cercano a su estilo",
+  "what_label": "Qué pedir",
+  "what": "Unas 15 llaves, aceitunas fritas. Bandas y DJs",
+  "price": "R$",
+  "reserve": "No. Mar-vie 17-24, sáb 13-24",
+  "address": "R. Fernão Dias 690",
+  "lat": -23.567112,
+  "lng": -46.695636,
+  "approx_location": false,
+  "images": [],
+  "slug": "hocus-pocus"
+ },
+ {
+  "name": "Tank Brewpub",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Casona de los 50 con la fábrica a la vista",
+  "what_label": "Qué pedir",
+  "what": "Unas 20 cervezas propias, mesa entre los tanques",
+  "price": "R$",
+  "reserve": "No. La mesa entre tanques cuesta R$120, descontables",
+  "address": "R. Amaro Cavalheiro 45",
+  "lat": -23.565779,
+  "lng": -46.699113,
+  "approx_location": false,
+  "images": [],
+  "slug": "tank-brewpub"
+ },
+ {
+  "name": "Cervejaria Nacional",
+  "category": "bares",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Pionera del craft paulista",
+  "what_label": "Qué pedir",
+  "what": "Degustación de sus 5 recetas",
+  "price": "R$",
+  "reserve": "No. Lun-vie 17-24, sáb 12-01",
+  "address": "Av. Pedroso de Morais 604",
+  "lat": -23.564711,
+  "lng": -46.690648,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/cervejaria-nacional-1.jpg",
+    "source": "https://www.cervejarianacional.com.br/assets/images/eventos.jpg",
+    "attribution": "Fotografía: Cervejaria Nacional, vía su sitio web oficial.",
+    "alt": "Salón de la Cervejaria Nacional con mesas y sillas de madera, paredes de ladrillo y la cocina al fondo"
+   },
+   {
+    "src": "imágenes/cervejaria-nacional-2.jpg",
+    "source": "https://www.cervejarianacional.com.br/assets/images/cervejaria-premiacoes.jpg",
+    "attribution": "Fotografía: Cervejaria Nacional, vía su sitio web oficial.",
+    "alt": "Tanques de acero inoxidable de la fábrica de cerveza dentro de la Cervejaria Nacional"
+   },
+   {
+    "src": "imágenes/cervejaria-nacional-3.jpg",
+    "source": "https://www.cervejarianacional.com.br/assets/images/eventos.jpg",
+    "attribution": "Fotografía: Cervejaria Nacional, vía su sitio web oficial.",
+    "alt": "Vaso de cerveza con el logo de la Cervejaria Nacional junto a una tabla de queso coalho"
+   }
+  ],
+  "slug": "cervejaria-nacional",
+  "website": "https://www.cervejarianacional.com.br"
+ },
+ {
+  "name": "EAP",
+  "category": "bares",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Para los más cerveceros del grupo",
+  "what_label": "Qué pedir",
+  "what": "Cervezas raras importadas (Cantillon)",
+  "price": "R$$",
+  "reserve": "No",
+  "address": "R. Vupabussu 305",
+  "lat": -23.559972,
+  "lng": -46.699514,
+  "approx_location": false,
+  "images": [],
+  "slug": "eap"
+ },
+ {
+  "name": "Trinca Bar & Vermuteria",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Bar chico de autor",
+  "what_label": "Qué pedir",
+  "what": "Vermú de la casa, negroni, tapas",
+  "price": "R$$",
+  "reserve": "No. Mar-sáb 18-01",
+  "address": "R. Costa Carvalho 96",
+  "lat": -23.560793,
+  "lng": -46.699202,
+  "approx_location": false,
+  "images": [],
+  "slug": "trinca-bar-vermuteria"
+ },
+ {
+  "name": "Pirajá",
+  "category": "bares",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Boteco carioca de manual",
+  "what_label": "Qué pedir",
+  "what": "Bolinho carioca, caipirinha",
+  "price": "R$$",
+  "reserve": "No",
+  "address": "Av. Brig. Faria Lima 64",
+  "lat": -23.559984,
+  "lng": -46.696433,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/piraja-1.jpg",
+    "source": "https://piraja.com.br/wp-content/uploads/2024/07/Piraja-Faria-Lima-4-scaled.jpg",
+    "attribution": "Fotografía: Pirajá, vía su sitio web oficial.",
+    "alt": "Fachada esquinera del Pirajá de Faria Lima con mesas y sillas en la vereda bajo los árboles"
+   }
+  ],
+  "slug": "piraja",
+  "website": "https://piraja.com.br"
+ },
+ {
+  "name": "Picles",
+  "category": "musica",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Bar indie chico (capacidad 150)",
+  "what_label": "Qué hacer",
+  "what": "Bandas locales; jueves y viernes, música propia. Macaco Bong el 22-oct, CACO y Zaina el 23-oct",
+  "price": "R$",
+  "reserve": "Entrada",
+  "address": "R. Cardeal Arcoverde 1838",
+  "lat": -23.561951,
+  "lng": -46.689006,
+  "approx_location": false,
+  "images": [],
+  "slug": "picles"
+ },
+ {
+  "name": "Casa Rockambole",
+  "category": "musica",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "El espacio más indie de la ciudad, con sello propio",
+  "what_label": "Qué hacer",
+  "what": "Noches indie. The Lemon Twigs el 13-nov",
+  "price": "R$$",
+  "reserve": "Entrada",
+  "address": "R. Belmiro Braga 119",
+  "lat": -23.559807,
+  "lng": -46.687431,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/casa-rockambole-1.jpg",
+    "source": "https://static.wixstatic.com/media/93d882_d3cb737a927b46e88e1d37e92b6483d0~mv2.jpg",
+    "attribution": "Fotografía: Casa Rockambole / Selo Rockambole, vía su sitio web oficial.",
+    "alt": "Balcón de hierro forjado sobre el salón de la Casa Rockambole, iluminado en violeta"
+   },
+   {
+    "src": "imágenes/casa-rockambole-2.jpg",
+    "source": "https://static.wixstatic.com/media/93d882_e08a666bdf0d4075be797c3f6972155c~mv2.jpg",
+    "attribution": "Fotografía: Casa Rockambole / Selo Rockambole, vía su sitio web oficial.",
+    "alt": "Banda tocando en el escenario de la Casa Rockambole ante un público en penumbra"
+   },
+   {
+    "src": "imágenes/casa-rockambole-3.jpg",
+    "source": "https://static.wixstatic.com/media/93d882_1b44887bc45a42c7934c83cbf130c14b~mv2.jpg",
+    "attribution": "Fotografía: Casa Rockambole / Selo Rockambole, vía su sitio web oficial.",
+    "alt": "Patio techado de la Casa Rockambole con público sentado en un evento musical"
+   }
+  ],
+  "slug": "casa-rockambole",
+  "website": "https://www.rockambole.com.br/casa-rockambole"
+ },
+ {
+  "name": "Porta",
+  "category": "musica",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Escena de nicho. Revisen la agenda",
+  "what_label": "Qué hacer",
+  "what": "Indie rock, post-punk y experimental",
+  "price": "R$",
+  "reserve": "Entrada",
+  "address": "R. Horácio Lane 95",
+  "lat": -23.559581,
+  "lng": -46.686653,
+  "approx_location": false,
+  "images": [],
+  "slug": "porta"
+ },
+ {
+  "name": "Bar Alto",
+  "category": "musica",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Bar con música, en la calle de bares de Vila Madalena",
+  "what_label": "Qué hacer",
+  "what": "Bandas y DJs. Sunset shows los sábados",
+  "price": "R$$",
+  "reserve": "No",
+  "address": "R. Aspicuelta 194",
+  "lat": -23.556346,
+  "lng": -46.687608,
+  "approx_location": false,
+  "images": [],
+  "slug": "bar-alto"
+ },
+ {
+  "name": "FFFront",
+  "category": "musica",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Escena independiente. Confirmen la dirección",
+  "what_label": "Qué hacer",
+  "what": "Shows de artistas independientes y fiestas",
+  "price": "R$",
+  "reserve": "Entrada",
+  "address": "Vila Madalena (confirmen la dirección)",
+  "lat": -23.553,
+  "lng": -46.691,
+  "approx_location": true,
+  "images": [],
+  "slug": "fffront"
+ },
+ {
+  "name": "Casa Natura Musical",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Buen sonido, 710 personas",
+  "what_label": "Qué hacer",
+  "what": "Shows medianos. Uana el 1-nov",
+  "price": "R$$",
+  "reserve": "Entrada",
+  "address": "R. Artur de Azevedo 2134",
+  "lat": -23.567934,
+  "lng": -46.690762,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/casa-natura-musical-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fachada_Casa_Natura_Musical.jpg",
+    "attribution": "Fotografía: Clarncs2, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Fachada de la Casa Natura Musical iluminada de azul con su letrero luminoso"
+   },
+   {
+    "src": "imágenes/casa-natura-musical-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Outro_Eu_Casa_Natura_Musical_(45275008014).jpg",
+    "attribution": "Fotografía: Teca Lamboglia, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Dúo Outro Eu tocando en el escenario de la Casa Natura Musical"
+   },
+   {
+    "src": "imágenes/casa-natura-musical-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Silva_-_Casa_Natura_Musical_(34962230840).jpg",
+    "attribution": "Fotografía: Teca Lamboglia, Wikimedia Commons (CC BY 2.0).",
+    "alt": "El cantante Silva en concierto en la Casa Natura Musical"
+   }
+  ],
+  "slug": "casa-natura-musical",
+  "website": "https://casanaturamusical.com.br"
+ },
+ {
+  "name": "Beco do Batman",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Arte callejero en barrio de bares",
+  "what_label": "Qué hacer",
+  "what": "Callejón de grafiti. De día, y se combina con Rua Aspicuelta",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "R. Gonçalo Afonso",
+  "lat": -23.556492,
+  "lng": -46.686666,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/beco-do-batman-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Beco_do_Batman_-_Vila-Madalena,_São_Paulo_-_SP_07.jpg",
+    "attribution": "Fotografía: Diego Bravo (Somente Coisas Legais), Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Callejón empedrado con muros cubiertos de grafitis y una buganvilla florecida"
+   },
+   {
+    "src": "imágenes/beco-do-batman-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Beco_do_Batman_2.jpg",
+    "attribution": "Fotografía: Eugenio Hansen, OFS, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Mural callejero a lo largo del muro del Beco do Batman, con una alfombra pintada y basura ilustrada"
+   },
+   {
+    "src": "imágenes/beco-do-batman-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Beco_do_Batman_8.jpg",
+    "attribution": "Fotografía: Eugenio Hansen, OFS, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Detalle de un mural de colibríes y un atardecer sobre el mar"
+   }
+  ],
+  "slug": "beco-do-batman"
+ },
+ {
+  "name": "Feira Benedito Calixto",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "La feria más parecida a Barrio Italia",
+  "what_label": "Qué hacer",
+  "what": "Antigüedades, vinilos y chorinho. Solo los sábados, desde las 9",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "Praça Benedito Calixto",
+  "lat": -23.558332,
+  "lng": -46.680743,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/feira-benedito-calixto-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_Benedito_Calixto_01.jpg",
+    "attribution": "Fotografía: Arcstur, Wikimedia Commons (CC BY 4.0).",
+    "alt": "Fila de toldos de la feria con el cartel 'Feira Benedito Calixto' junto a la calle"
+   },
+   {
+    "src": "imágenes/feira-benedito-calixto-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_Benedito_Calixto_03.jpg",
+    "attribution": "Fotografía: Arcstur, Wikimedia Commons (CC BY 4.0).",
+    "alt": "Vista desde arriba de la feria llena de gente bajo los árboles de la plaza"
+   },
+   {
+    "src": "imágenes/feira-benedito-calixto-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Handicrafts_of_the_Benedito_Calixto_Fair_in_São_Paulo.jpg",
+    "attribution": "Fotografía: AmandaLemosNeuroMat, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Cajas y baúles de artesanía en un puesto de la feria"
+   }
+  ],
+  "slug": "feira-benedito-calixto"
+ },
+ {
+  "name": "Praça do Pôr do Sol",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Pinheiros y Vila Madalena",
+  "why": "Plan gratis antes de salir a los bares",
+  "what_label": "Qué hacer",
+  "what": "Atardecer. A 20-30 min a pie del metro Vila Madalena",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "Praça do Pôr do Sol",
+  "lat": -23.554015,
+  "lng": -46.702348,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/praca-do-por-do-sol-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Praca_Por_Do_Sol,_Sao_Paulo.jpg",
+    "attribution": "Fotografía: Slyronit, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Atardecer sobre el skyline de São Paulo desde el mirador de la plaza"
+   },
+   {
+    "src": "imágenes/praca-do-por-do-sol-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Praça_Pôr_do_Sol_Pinheiros,_São_Paulo,_Brazil_2_with_people_com_pessoas.jpg",
+    "attribution": "Fotografía: Tet, Wikimedia Commons (CC0).",
+    "alt": "Gente sentada en el césped viendo el ocaso entre las siluetas de los árboles"
+   },
+   {
+    "src": "imágenes/praca-do-por-do-sol-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Praça_do_Pôr_do_Sol_1.JPG",
+    "attribution": "Fotografía: Dornicke, Wikimedia Commons (dominio público).",
+    "alt": "Vista diurna de la plaza con jardines en pendiente y edificios al fondo"
+   }
+  ],
+  "slug": "praca-do-por-do-sol"
+ },
+ {
+  "name": "Komah",
+  "category": "comer",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Barra Funda",
+  "why": "La coreana moderna de la ciudad, Bib Gourmand 2026",
+  "what_label": "Qué pedir",
+  "what": "Yukhoe, bibimbap, pollo frito coreano",
+  "price": "R$$$",
+  "reserve": "Recomendable",
+  "address": "R. Cônego Vicente Miguel Marino 378",
+  "lat": -23.526748,
+  "lng": -46.651861,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/komah-1.jpg",
+    "source": "https://komah.com.br/wp-content/uploads/2017/02/komah-restaurante-ambiente.jpg",
+    "attribution": "Fotografía: Komah, vía su sitio web oficial.",
+    "alt": "Salón de Komah con mesas de madera, barra con taburetes metálicos y pared de ladrillo"
+   },
+   {
+    "src": "imágenes/komah-2.jpg",
+    "source": "https://komah.com.br/wp-content/uploads/2023/04/komah-fachada-reflexo-home.jpg",
+    "attribution": "Fotografía: Komah, vía su sitio web oficial.",
+    "alt": "Vista en blanco y negro desde el ventanal de Komah, con mesas dentro y reflejos de la calle"
+   },
+   {
+    "src": "imágenes/komah-3.jpg",
+    "source": "https://komah.com.br/wp-content/uploads/2022/12/komah-ambiente.jpg",
+    "attribution": "Fotografía: Komah, vía su sitio web oficial.",
+    "alt": "Comensales conversando junto a una pared de ladrillo con cuadros en el salón de Komah"
+   }
+  ],
+  "slug": "komah",
+  "website": "https://komah.com.br"
+ },
+ {
+  "name": "Chimichurri Parrilla",
+  "category": "comer",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Perdizes",
+  "why": "Parrilla rioplatense con burger de ranking",
+  "what_label": "Qué pedir",
+  "what": "Parrilla y su hamburguesa",
+  "price": "R$$",
+  "reserve": "Recomendable. Lunes cerrado",
+  "address": "Av. Prof. Alfonso Bovero 730",
+  "lat": -23.539425,
+  "lng": -46.68318,
+  "approx_location": false,
+  "images": [],
+  "slug": "chimichurri-parrilla"
+ },
+ {
+  "name": "Izakaya Issa",
+  "category": "comer",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Liberdade",
+  "why": "Izakaya del barrio japonés",
+  "what_label": "Qué pedir",
+  "what": "Takoyaki, okonomiyaki, caipirinha de kiwi",
+  "price": "R$$",
+  "reserve": "Recomendable",
+  "address": "R. Barão do Iguape 89",
+  "lat": -23.677281,
+  "lng": -46.58512,
+  "approx_location": false,
+  "images": [],
+  "slug": "izakaya-issa"
+ },
+ {
+  "name": "Jiquitaia",
+  "category": "comer",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Paraíso",
+  "why": "Brasileña contemporánea, Bib Gourmand nuevo 2026",
+  "what_label": "Qué pedir",
+  "what": "Pescado frito con ensalada de papaya verde, slushy de cachaça",
+  "price": "R$$",
+  "reserve": "Recomendable",
+  "address": "R. Cel. Oscar Porto 808",
+  "lat": -23.576297,
+  "lng": -46.645635,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/jiquitaia-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:O_Jiquitaia_é_desses_restaurantes_de_ambientação_(28435839084).jpg",
+    "attribution": "Fotografía: Shoichi Iwashita, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Plato de ñoquis dorados con espinaca, hongos y salsa cremosa servido en el restaurante Jiquitaia"
+   }
+  ],
+  "slug": "jiquitaia",
+  "website": "https://jiquitaia.com.br"
+ },
+ {
+  "name": "Tenda do Nilo",
+  "category": "comer",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Paraíso",
+  "why": "La libanesa casera favorita. Queda a una cuadra de Jiquitaia",
+  "what_label": "Qué pedir",
+  "what": "Fatte, kibe, labneh",
+  "price": "R$$",
+  "reserve": "No: van sin reserva y entran con el grupo completo",
+  "address": "R. Cel. Oscar Porto 638",
+  "lat": -23.574735,
+  "lng": -46.646481,
+  "approx_location": false,
+  "images": [],
+  "slug": "tenda-do-nilo"
+ },
+ {
+  "name": "Mocotó",
+  "category": "comer",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Vila Clementino",
+  "why": "Clásico nordestino. Esta es la sede más fácil (metro). La original está en Vila Medeiros",
+  "what_label": "Qué pedir",
+  "what": "Dadinhos de tapioca, baião de dois",
+  "price": "R$$",
+  "reserve": "Sí (getin)",
+  "address": "R. Pedro de Toledo 450",
+  "lat": -23.596503,
+  "lng": -46.656978,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/mocoto-1.jpg",
+    "source": "https://mocoto.com.br/wp-content/uploads/2018/06/ambiente9.jpg",
+    "attribution": "Fotografía: Mocotó, vía su sitio web oficial.",
+    "alt": "Salón del restaurante Mocotó con paredes de azulejos verdes y comensales en las mesas (casa original de Vila Medeiros)"
+   },
+   {
+    "src": "imágenes/mocoto-2.jpg",
+    "source": "https://mocoto.com.br/wp-content/uploads/2018/04/fachada01.jpg",
+    "attribution": "Fotografía: Mocotó, vía su sitio web oficial.",
+    "alt": "Fachada nocturna del restaurante Mocotó con toldos verdes (casa original de Vila Medeiros)"
+   },
+   {
+    "src": "imágenes/mocoto-3.jpg",
+    "source": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos11.jpg",
+    "attribution": "Fotografía: Mocotó, vía su sitio web oficial.",
+    "alt": "Moqueca de pescado con arroz y farofa servida en cazuelas de hierro"
+   }
+  ],
+  "slug": "mocoto",
+  "website": "https://mocoto.com.br"
+ },
+ {
+  "name": "Pão com Carne",
+  "category": "hamburguesas",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Itaim",
+  "why": "Hamburguesa clásica, muy bien ejecutada",
+  "what_label": "Qué pedir",
+  "what": "Especial, ChimiBacon",
+  "price": "R$",
+  "reserve": "No",
+  "address": "R. Bandeira Paulista 478",
+  "lat": -23.579755,
+  "lng": -46.677177,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/pao-com-carne-1.jpg",
+    "source": "https://static.wixstatic.com/media/c51495_84b6e9c21ca54564afa36e1068f84b6b~mv2.jpg",
+    "attribution": "Fotografía: Pão com Carne, vía su sitio web oficial.",
+    "alt": "Fachada de madera con ventanales y letrero vertical de la hamburguesería Pão com Carne"
+   }
+  ],
+  "slug": "pao-com-carne",
+  "website": "https://www.paocomcarne.com.br"
+ },
+ {
+  "name": "Cervejaria Central (2.ª sede)",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Barra Funda",
+  "why": "Para combinarla con un show en Fabrique",
+  "what_label": "Qué pedir",
+  "what": "Las mismas latas que en Vila Buarque",
+  "price": "R$",
+  "reserve": "No",
+  "address": "R. Sousa Lima 5",
+  "lat": -23.529262,
+  "lng": -46.654284,
+  "approx_location": false,
+  "images": [],
+  "slug": "cervejaria-central-2-a-sede",
+  "website": "https://cervejariacentral.com"
+ },
+ {
+  "name": "Bar Original / Câmara Fria",
+  "category": "bares",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Moema",
+  "why": "Boteco más speakeasy",
+  "what_label": "Qué pedir",
+  "what": "Chope cremoso abajo y speakeasy de craft arriba",
+  "price": "R$$",
+  "reserve": "No. Dom-lun cerrado",
+  "address": "R. Graúna 137",
+  "lat": -23.600002,
+  "lng": -46.672809,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/bar-original-camara-fria-1.jpg",
+    "source": "https://baroriginal.com.br/wp-content/uploads/2024/11/Original-1-scaled-e1738093540847.jpg",
+    "attribution": "Fotografía: Bar Original, vía su sitio web oficial.",
+    "alt": "Fachada verde del Bar Original con su letrero y la pizarra que anuncia el chope tradicional"
+   },
+   {
+    "src": "imágenes/bar-original-camara-fria-2.jpg",
+    "source": "https://baroriginal.com.br/wp-content/uploads/2025/01/Reserva_Original.jpg",
+    "attribution": "Fotografía: Bar Original, vía su sitio web oficial.",
+    "alt": "Clientes comiendo dentro del Bar Original, vistos a través del ventanal junto a la pizarra del menú"
+   },
+   {
+    "src": "imágenes/bar-original-camara-fria-3.jpg",
+    "source": "https://camarafriabar.com.br/wp-content/uploads/2024/12/1B0A0166-scaled.jpg",
+    "attribution": "Fotografía: Câmara Fria Bar, vía su sitio web oficial.",
+    "alt": "Tabla de degustación con cinco vasos de cerveza sobre una mesa de madera en Câmara Fria"
+   }
+  ],
+  "slug": "bar-original-camara-fria",
+  "website": "https://baroriginal.com.br"
+ },
+ {
+  "name": "Exímia",
+  "category": "bares",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Itaim",
+  "why": "En el World's 50 Best Bars 2025. Reabrió en abril de 2026: confirmen dirección",
+  "what_label": "Qué pedir",
+  "what": "Coctelería de autor",
+  "price": "R$$$",
+  "reserve": "Recomendable",
+  "address": "Planta alta del restaurante Locale (confirmen la dirección)",
+  "lat": -23.583712,
+  "lng": -46.679057,
+  "approx_location": false,
+  "images": [],
+  "slug": "eximia"
+ },
+ {
+  "name": "A Juriti",
+  "category": "bares",
+  "tag": "clasico",
+  "unconfirmed": "Sin confirmar 2026",
+  "zone": "Cambuci",
+  "why": "Boteco de los de siempre",
+  "what_label": "Qué pedir",
+  "what": "Linguiça al alcohol, bolinho de bacalhau",
+  "price": "R$",
+  "reserve": "No",
+  "address": "Cambuci (confirmen la dirección)",
+  "lat": -23.568,
+  "lng": -46.62,
+  "approx_location": true,
+  "images": [],
+  "slug": "a-juriti"
+ },
+ {
+  "name": "Tarantino Cervejaria",
+  "category": "bares",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Limão",
+  "why": "Primera cervecera independiente. Queda lejos",
+  "what_label": "Qué pedir",
+  "what": "ZN Lager, Manga IPA",
+  "price": "R$",
+  "reserve": "No",
+  "address": "R. Miguel Nelson Bechara 316",
+  "lat": -23.508398,
+  "lng": -46.68314,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/tarantino-cervejaria-1.jpg",
+    "source": "https://tarantinocervejaria.com.br/wp-content/uploads/2026/08/JVR7014-scaled.jpg",
+    "attribution": "Fotografía: Tarantino Cervejaria, vía su sitio web oficial.",
+    "alt": "Mano sosteniendo una copa de cerveza con el logo de Tarantino frente a los tanques de la fábrica"
+   },
+   {
+    "src": "imágenes/tarantino-cervejaria-2.jpg",
+    "source": "https://eventos.tarantinocervejaria.com.br/wp-content/uploads/2026/09/banner-area-externa-festa.png",
+    "attribution": "Fotografía: Tarantino Cervejaria, vía su sitio web oficial.",
+    "alt": "Concierto con escenario iluminado y público en el patio exterior de la fábrica de Tarantino"
+   },
+   {
+    "src": "imágenes/tarantino-cervejaria-3.jpg",
+    "source": "https://eventos.tarantinocervejaria.com.br/wp-content/uploads/2026/09/banner-area-externa.png",
+    "attribution": "Fotografía: Tarantino Cervejaria, vía su sitio web oficial.",
+    "alt": "Área externa de Tarantino con mesas altas, taburetes y murales de grafiti durante el día"
+   }
+  ],
+  "slug": "tarantino-cervejaria",
+  "website": "https://tarantinocervejaria.com.br"
+ },
+ {
+  "name": "Cine Joia",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Liberdade",
+  "why": "La casa del indie internacional, en un ex-cine",
+  "what_label": "Qué hacer",
+  "what": "Kneecap el 23-oct, Dead Moon Night el 31-oct, TR/ST el 1-nov, M.I.A. el 2-nov",
+  "price": "R$$ a R$$$",
+  "reserve": "Sí, entrada",
+  "address": "Praça Carlos Gomes 82",
+  "lat": -23.553308,
+  "lng": -46.635924,
+  "approx_location": false,
+  "images": [],
+  "slug": "cine-joia",
+  "website": "https://www.cinejoia.com.br"
+ },
+ {
+  "name": "Audio",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Água Branca",
+  "why": "Sala mediana con buen cartel",
+  "what_label": "Qué hacer",
+  "what": "Shows internacionales alternativos",
+  "price": "R$$ a R$$$",
+  "reserve": "Entrada",
+  "address": "Av. Francisco Matarazzo 694",
+  "lat": -23.528535,
+  "lng": -46.669524,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/audio-1.jpg",
+    "source": "https://audiosp.com.br/images/bg_eventos.jpg",
+    "attribution": "Fotografía: Audio, vía su sitio web oficial.",
+    "alt": "Público con las manos en alto bajo globos de colores en la pista de Audio"
+   },
+   {
+    "src": "imágenes/audio-2.jpg",
+    "source": "https://audiosp.com.br/upload/galeria/278/audio-dua-lipa-dualipa-9-11-17-foto-leandro-godoi_sobras-49_26689191019_o.jpg",
+    "attribution": "Fotografía: Leandro Godoi, vía el sitio web oficial de Audio.",
+    "alt": "Cantante en pleno concierto sobre el escenario de Audio, con focos de luz azul"
+   }
+  ],
+  "slug": "audio",
+  "website": "https://audiosp.com.br"
+ },
+ {
+  "name": "Fabrique",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Barra Funda",
+  "why": "Shows alternativos",
+  "what_label": "Qué hacer",
+  "what": "Rhye el 26-oct, Fishbone el 31-oct",
+  "price": "R$$",
+  "reserve": "Entrada",
+  "address": "R. Barra Funda 1071",
+  "lat": -23.526813,
+  "lng": -46.660135,
+  "approx_location": false,
+  "images": [],
+  "slug": "fabrique"
+ },
+ {
+  "name": "Hangar 110",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Bom Retiro",
+  "why": "Para una noche más pesada",
+  "what_label": "Qué hacer",
+  "what": "Punk y hardcore. A Wilhelm Scream el 31-oct",
+  "price": "R$",
+  "reserve": "Entrada",
+  "address": "R. Rodolfo Miranda 110",
+  "lat": -23.52573,
+  "lng": -46.632306,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/hangar-110-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rancore_at_Hangar_110_30_April_2011.jpg",
+    "attribution": "Fotografía: Julio Fugimoto, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Sala del Hangar 110 repleta de público durante un concierto de punk y hardcore"
+   }
+  ],
+  "slug": "hangar-110",
+  "website": "https://www.hangar110.com.br"
+ },
+ {
+  "name": "Sesc Pompeia",
+  "category": "musica",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Pompeia",
+  "why": "Arquitectura y conciertos alternativos",
+  "what_label": "Qué hacer",
+  "what": "Shows baratos en la fábrica de Lina Bo Bardi. Revisen la agenda",
+  "price": "R$",
+  "reserve": "Según el show",
+  "address": "R. Clélia 93",
+  "lat": -23.525809,
+  "lng": -46.683498,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/sesc-pompeia-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lina_Bo_Bardi,_SESC_Pomp%C3%A9ia_(5989428256).jpg",
+    "attribution": "Fotografía: Paulisson Miura, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Torres de concreto con ventanas irregulares del Sesc Pompeia, obra de Lina Bo Bardi"
+   },
+   {
+    "src": "imágenes/sesc-pompeia-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:C%C3%ADnica_Cia._de_Teatro_(SESC_Pomp%C3%A9ia,_S%C3%A3o_Paulo,_SP,_Brasil)._(30011506044).jpg",
+    "attribution": "Fotografía: Paulisson Miura, Wikimedia Commons (CC BY 2.0).",
+    "alt": "Función de teatro con público sentado en el suelo del galpón del Sesc Pompeia"
+   },
+   {
+    "src": "imágenes/sesc-pompeia-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:J%C3%A1_Estava_Assim_Quando_Cheguei_no_SESC_Pompeia.jpg",
+    "attribution": "Fotografía: TomasVial, Wikimedia Commons (CC0).",
+    "alt": "Interior del antiguo galpón fabril del Sesc Pompeia con una instalación artística y la estructura de techo original"
+   }
+  ],
+  "slug": "sesc-pompeia",
+  "website": "https://www.sescsp.org.br/unidades/pompeia/"
+ },
+ {
+  "name": "Feira da Liberdade",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Liberdade",
+  "why": "Comida callejera japonesa",
+  "what_label": "Qué hacer",
+  "what": "Dorayaki, takoyaki y gyoza. Sáb-dom 10-18",
+  "price": "R$",
+  "reserve": "No",
+  "address": "Praça da Liberdade",
+  "lat": -23.554974,
+  "lng": -46.635495,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/feira-da-liberdade-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_da_liberdade_são_paulo_rua.jpg",
+    "attribution": "Fotografía: Vitor Leite, Wikimedia Commons (CC BY-SA 3.0).",
+    "alt": "Multitud recorriendo la calle de la feria entre puestos con toldos rojos y blancos"
+   },
+   {
+    "src": "imágenes/feira-da-liberdade-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_da_liberdade_são_paulo_barraca.jpg",
+    "attribution": "Fotografía: Vitor Leite, Wikimedia Commons (CC BY-SA 3.0).",
+    "alt": "Vitrina de un puesto con brochetas, bolinhos y tempurá de camarón"
+   },
+   {
+    "src": "imágenes/feira-da-liberdade-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Feira_da_liberdade_são_paulo_doce_japonês.jpg",
+    "attribution": "Fotografía: Vitor Leite, Wikimedia Commons (CC BY-SA 3.0).",
+    "alt": "Vendedor preparando dulces japoneses a la plancha en un puesto de la feria"
+   }
+  ],
+  "slug": "feira-da-liberdade"
+ },
+ {
+  "name": "Parque Ibirapuera y Marquise",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Ibirapuera",
+  "why": "El gran parque de la ciudad",
+  "what_label": "Qué hacer",
+  "what": "La Marquise de Niemeyer reabrió en enero de 2026. Vayan por la mañana si pronostican lluvia",
+  "price": "Gratis",
+  "reserve": "No",
+  "address": "Av. Pedro Álvares Cabral",
+  "lat": -23.587713,
+  "lng": -46.658521,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/parque-ibirapuera-y-marquise-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Marquise_do_Ibirapuera_01.JPG",
+    "attribution": "Fotografía: Dornicke, Wikimedia Commons (dominio público).",
+    "alt": "Curva de la Marquise de Niemeyer cubriendo el paseo, con el obelisco al fondo"
+   },
+   {
+    "src": "imágenes/parque-ibirapuera-y-marquise-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Marquise_Parque_do_Ibirapuera_São_Paulo_2019-5942.jpg",
+    "attribution": "Fotografía: Paul R. Burley, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Columnas y losa de hormigón de la Marquise del Parque Ibirapuera"
+   },
+   {
+    "src": "imágenes/parque-ibirapuera-y-marquise-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lake_in_Ibirapuera_Park_with_the_Sao_Paulo_skyline.jpg",
+    "attribution": "Fotografía: Wilfredor, Wikimedia Commons (CC0).",
+    "alt": "Panorámica del lago del Parque Ibirapuera con los edificios de la ciudad detrás"
+   }
+  ],
+  "slug": "parque-ibirapuera-y-marquise",
+  "website": "https://ibirapuera.org"
+ },
+ {
+  "name": "MAM São Paulo",
+  "category": "paseos",
+  "tag": "tendencia",
+  "unconfirmed": null,
+  "zone": "Ibirapuera",
+  "why": "Arte contemporáneo recién reabierto",
+  "what_label": "Qué hacer",
+  "what": "Reabrió el 12-sep con el 39.º Panorama da Arte Brasileira. Mar-dom 10-18",
+  "price": "Por confirmar",
+  "reserve": "Eventim",
+  "address": "Parque Ibirapuera",
+  "lat": -23.588016,
+  "lng": -46.655484,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/mam-sao-paulo-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ibirapuera_Park,_São_Paulo_2018_020.jpg",
+    "attribution": "Fotografía: Mike Peel, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Exterior del Museu de Arte Moderna entre los árboles del Parque Ibirapuera, con una escultura en primer plano"
+   },
+   {
+    "src": "imágenes/mam-sao-paulo-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_de_Arte_Moderna_de_São_Paulo,_interior.jpg",
+    "attribution": "Fotografía: Sergio Savarese, Wikimedia Commons (CC BY-SA 2.0).",
+    "alt": "Sala interior del MAM con muro de hormigón y piso de madera"
+   },
+   {
+    "src": "imágenes/mam-sao-paulo-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_de_Arte_Moderna,_São_Paulo_-_Fachada.jpg",
+    "attribution": "Fotografía: Dornicke, Wikimedia Commons (dominio público).",
+    "alt": "Fachada curva de vidrio del MAM con una escultura roja en el jardín"
+   }
+  ],
+  "slug": "mam-sao-paulo",
+  "website": "https://mam.org.br"
+ },
+ {
+  "name": "Museu Afro Brasil",
+  "category": "paseos",
+  "tag": "clasico",
+  "unconfirmed": null,
+  "zone": "Ibirapuera",
+  "why": "La parada cultural fuerte del parque",
+  "what_label": "Qué hacer",
+  "what": "Más de 8.000 obras de cultura afrobrasileña. Mar-dom 10-17",
+  "price": "R$ (gratis los miércoles)",
+  "reserve": "No",
+  "address": "Parque Ibirapuera",
+  "lat": -23.583894,
+  "lng": -46.659193,
+  "approx_location": false,
+  "images": [
+   {
+    "src": "imágenes/museu-afro-brasil-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Facade_of_Museu_Afro_Brasil.jpg",
+    "attribution": "Fotografía: Slyronit, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Fachada blanca del Museu Afro Brasil con su rótulo, vista desde la explanada del Ibirapuera"
+   },
+   {
+    "src": "imágenes/museu-afro-brasil-2.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_Afro_Brasil,_São_Paulo_01.jpg",
+    "attribution": "Fotografía: Joalpe, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Sala de la Biblioteca Carolina Maria de Jesus dentro del museo, con mesas de lectura y paneles de retratos"
+   },
+   {
+    "src": "imágenes/museu-afro-brasil-3.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Outside_Museu_Afro_Brasil.jpg",
+    "attribution": "Fotografía: Slyronit, Wikimedia Commons (CC BY-SA 4.0).",
+    "alt": "Galería exterior del museo con puntales diagonales de Niemeyer y árboles del parque"
+   }
+  ],
+  "slug": "museu-afro-brasil",
+  "website": "https://museuafrobrasil.org.br"
+ }
+]

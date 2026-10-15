@@ -1,0 +1,1 @@
+self.OFFLINE = {"version": "0bd7cf2ed4bf12d0", "files": ["./index.html", "./app.css", "./app.js", "./location.js", "./data.js", "./install.js", "./manifest.webmanifest", "./icon.svg", "./icons/apple-touch-icon.png", "./icons/icon-192.png", "./icons/icon-512.png"]};
