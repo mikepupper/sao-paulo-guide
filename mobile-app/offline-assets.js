@@ -1,1 +1,1 @@
-self.OFFLINE = {"version": "6114eff5fdfe2301", "files": ["./index.html", "./app.css", "./app.js", "./location.js", "./data.js", "./install.js", "./manifest.webmanifest", "./icon.svg", "./icons/apple-touch-icon.png", "./icons/icon-192.png", "./icons/icon-512.png"]};
+self.OFFLINE = {"version": "379021fdc281db68", "files": ["./index.html", "./app.css", "./app.js", "./location.js", "./data.js", "./install.js", "./manifest.webmanifest", "./icon.svg", "./icons/apple-touch-icon.png", "./icons/icon-192.png", "./icons/icon-512.png"]};

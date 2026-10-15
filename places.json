@@ -1126,7 +1126,7 @@
   "website": "https://www.aizome.com.br/site/"
  },
  {
-  "name": "Guarita Burger / Tickets Burger",
+  "name": "Tickets Burger",
   "category": "hamburguesas",
   "tag": "tendencia",
   "unconfirmed": null,
@@ -1145,19 +1145,19 @@
     "src": "imágenes/guarita-burger-1.jpg",
     "source": "https://www.tasteandfly.com.br/donos-do-guarita-abrem-atraente-bar-com-hamburgueres-e-coqueteis-no-baixo-augusta/",
     "attribution": "Fotografía: autor no indicado, vía Taste & Fly.",
-    "alt": "Entrada y salón estrecho de Guarita Burger, con el letrero del local y clientes en la barra"
+    "alt": "Entrada y salón estrecho de Tickets Burger, con el letrero del local y clientes en la barra"
    },
    {
     "src": "imágenes/guarita-burger-2.jpg",
     "source": "https://www.tasteandfly.com.br/donos-do-guarita-abrem-atraente-bar-com-hamburgueres-e-coqueteis-no-baixo-augusta/",
     "attribution": "Fotografía: autor no indicado, vía Taste & Fly.",
-    "alt": "Smash burger de Guarita Burger con queso cheddar derretido cayendo sobre la carne"
+    "alt": "Smash burger de Tickets Burger con queso cheddar derretido cayendo sobre la carne"
    },
    {
     "src": "imágenes/guarita-burger-3.jpg",
     "source": "https://www.tasteandfly.com.br/donos-do-guarita-abrem-atraente-bar-com-hamburgueres-e-coqueteis-no-baixo-augusta/",
     "attribution": "Fotografía: autor no indicado, vía Taste & Fly.",
-    "alt": "Bolovo de Guarita Burger partido al medio, con huevo cocido y carne molida"
+    "alt": "Bolovo de Tickets Burger partido al medio, con huevo cocido y carne molida"
    }
   ],
   "slug": "guarita-burger"
